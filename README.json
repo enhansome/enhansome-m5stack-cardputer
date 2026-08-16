@@ -21,10 +21,10 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-14T12:46:36Z",
+            "last_commit": "2026-08-16T01:46:06Z",
             "owner": "bmorcelli",
             "repo": "Launcher",
-            "stars": 1969
+            "stars": 1974
           }
         },
         {
@@ -146,10 +146,10 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-15T03:22:13Z",
+            "last_commit": "2026-08-16T05:39:28Z",
             "owner": "justcallmekoko",
             "repo": "ESP32Marauder",
-            "stars": 11981
+            "stars": 11989
           }
         },
         {
@@ -163,7 +163,7 @@
             "last_commit": "2026-08-11T16:36:35Z",
             "owner": "BruceDevices",
             "repo": "firmware",
-            "stars": 6448
+            "stars": 6462
           }
         },
         {
@@ -174,10 +174,10 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-06T15:47:31Z",
+            "last_commit": "2026-08-16T15:23:47Z",
             "owner": "geo-tp",
             "repo": "ESP32-Bit-Pirate",
-            "stars": 5480
+            "stars": 5490
           }
         },
         {
@@ -191,7 +191,7 @@
             "last_commit": "2026-08-03T08:41:04Z",
             "owner": "7h30th3r0n3",
             "repo": "Evil-M5Project",
-            "stars": 2509
+            "stars": 2513
           }
         },
         {
@@ -219,7 +219,7 @@
             "last_commit": "2026-06-27T06:31:59Z",
             "owner": "0ct0sec",
             "repo": "M5PORKCHOP",
-            "stars": 801
+            "stars": 803
           }
         },
         {
@@ -785,7 +785,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T15:57:28.475Z",
+    "last_updated": "2026-08-16T15:57:49.732Z",
     "original_repository": "terremoth/awesome-m5stack-cardputer",
     "original_repository_sha": "d647ba1eae42047c00a41e6d2fdfe3b16a2ad5ff",
     "enhanced_repository": "enhansome/enhansome-m5stack-cardputer",
