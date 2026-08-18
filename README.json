@@ -21,10 +21,10 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-16T01:46:06Z",
+            "last_commit": "2026-08-18T14:05:26Z",
             "owner": "bmorcelli",
             "repo": "Launcher",
-            "stars": 1974
+            "stars": 1984
           }
         },
         {
@@ -38,7 +38,7 @@
             "last_commit": "2026-05-19T12:05:38Z",
             "owner": "beryllium-org",
             "repo": "Micro",
-            "stars": 324
+            "stars": 325
           }
         },
         {
@@ -101,7 +101,7 @@
             "last_commit": "2026-02-05T20:17:35Z",
             "owner": "RetiredWizard",
             "repo": "PyDOS",
-            "stars": 178
+            "stars": 179
           }
         },
         {
@@ -146,10 +146,10 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-16T05:39:28Z",
+            "last_commit": "2026-08-18T16:00:20Z",
             "owner": "justcallmekoko",
             "repo": "ESP32Marauder",
-            "stars": 11989
+            "stars": 12022
           }
         },
         {
@@ -160,10 +160,10 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-11T16:36:35Z",
+            "last_commit": "2026-08-17T13:07:12Z",
             "owner": "BruceDevices",
             "repo": "firmware",
-            "stars": 6462
+            "stars": 6485
           }
         },
         {
@@ -177,7 +177,7 @@
             "last_commit": "2026-08-16T15:23:47Z",
             "owner": "geo-tp",
             "repo": "ESP32-Bit-Pirate",
-            "stars": 5490
+            "stars": 5513
           }
         },
         {
@@ -191,7 +191,7 @@
             "last_commit": "2026-08-03T08:41:04Z",
             "owner": "7h30th3r0n3",
             "repo": "Evil-M5Project",
-            "stars": 2513
+            "stars": 2525
           }
         },
         {
@@ -205,7 +205,7 @@
             "last_commit": "2026-07-15T03:25:58Z",
             "owner": "n0xa",
             "repo": "m5stick-nemo",
-            "stars": 1288
+            "stars": 1291
           }
         },
         {
@@ -219,7 +219,7 @@
             "last_commit": "2026-06-27T06:31:59Z",
             "owner": "0ct0sec",
             "repo": "M5PORKCHOP",
-            "stars": 803
+            "stars": 807
           }
         },
         {
@@ -323,7 +323,7 @@
             "last_commit": "2025-11-26T18:53:30Z",
             "owner": "mindovermiles262",
             "repo": "tamaputer",
-            "stars": 24
+            "stars": 25
           }
         },
         {
@@ -432,10 +432,10 @@
           "repo_info": {
             "archived": false,
             "language": "C",
-            "last_commit": "2026-08-10T14:06:18Z",
+            "last_commit": "2026-08-18T13:08:21Z",
             "owner": "genkigenki",
             "repo": "hotspot-arcade-cardputer",
-            "stars": 8
+            "stars": 9
           }
         },
         {
@@ -785,7 +785,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T15:57:49.732Z",
+    "last_updated": "2026-08-18T16:03:15.227Z",
     "original_repository": "terremoth/awesome-m5stack-cardputer",
     "original_repository_sha": "d647ba1eae42047c00a41e6d2fdfe3b16a2ad5ff",
     "enhanced_repository": "enhansome/enhansome-m5stack-cardputer",
