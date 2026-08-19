@@ -1,792 +1,840 @@
 {
   "items": [
     {
-      "description": "",
-      "items": [],
-      "title": "Specs"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Community Apps"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
-          "node_type": "item",
-          "title": "M5 Launcher",
-          "description": "App launcher for M5StickC, M5StickC Plus, M5StickC Plus 2 and M5Cardputer",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2026-08-18T14:05:26Z",
-            "owner": "bmorcelli",
-            "repo": "Launcher",
-            "stars": 1984
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "BerylliumOS",
-          "description": "Another Micro OS for Cardputer",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-05-19T12:05:38Z",
-            "owner": "beryllium-org",
-            "repo": "Micro",
-            "stars": 325
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "MicroHydra Launcher",
-          "description": null,
           "children": [
             {
               "node_type": "item",
-              "title": "MicroHydra Apps",
-              "description": null,
+              "title": "M5 Launcher",
+              "description": "App launcher for M5StickC, M5StickC Plus, M5StickC Plus 2 and M5Cardputer",
               "children": [],
               "repo_info": {
                 "archived": false,
-                "language": "Python",
-                "last_commit": "2026-03-30T04:49:30Z",
-                "owner": "echo-lalia",
-                "repo": "MicroHydra-Apps",
-                "stars": 83
+                "id": 755727720,
+                "language": "C++",
+                "last_commit": "2026-08-19T10:16:08Z",
+                "owner": "bmorcelli",
+                "repo": "Launcher",
+                "stars": 1987
               }
             },
             {
               "node_type": "item",
-              "title": "HydraMenu app",
+              "title": "BerylliumOS",
+              "description": "Another Micro OS for Cardputer",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 434342707,
+                "language": "Python",
+                "last_commit": "2026-05-19T12:05:38Z",
+                "owner": "beryllium-org",
+                "repo": "Micro",
+                "stars": 325
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "MicroHydra Launcher",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "MicroHydra Apps",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 758858413,
+                    "language": "Python",
+                    "last_commit": "2026-03-30T04:49:30Z",
+                    "owner": "echo-lalia",
+                    "repo": "MicroHydra-Apps",
+                    "stars": 83
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "HydraMenu app",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 759169085,
+                    "language": "Python",
+                    "last_commit": "2024-04-01T16:26:20Z",
+                    "owner": "Gabriel-F-Sousa",
+                    "repo": "HydraMenu",
+                    "stars": 4
+                  }
+                }
+              ],
+              "repo_info": {
+                "archived": false,
+                "id": 752958524,
+                "language": "Python",
+                "last_commit": "2026-03-30T03:59:42Z",
+                "owner": "echo-lalia",
+                "repo": "MicroHydra",
+                "stars": 313
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "PyDOS + PyBASIC",
               "description": null,
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 372102663,
                 "language": "Python",
-                "last_commit": "2024-04-01T16:26:20Z",
-                "owner": "Gabriel-F-Sousa",
-                "repo": "HydraMenu",
+                "last_commit": "2026-02-05T20:17:35Z",
+                "owner": "RetiredWizard",
+                "repo": "PyDOS",
+                "stars": 179
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Simple App Launcher for Cardputer",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 715157362,
+                "language": "C++",
+                "last_commit": "2023-11-06T16:03:08Z",
+                "owner": "shikarunochi",
+                "repo": "CardputerSimpleLaucher",
+                "stars": 61
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "HydraOS",
+              "description": "Micro OS for Cardputer",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 811455200,
+                "language": "C",
+                "last_commit": "2024-07-22T10:54:20Z",
+                "owner": "llominski",
+                "repo": "HydraOS",
+                "stars": 25
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Launchers"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Cardputer Marauder ESP32",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 208325027,
+                "language": "C++",
+                "last_commit": "2026-08-19T09:10:39Z",
+                "owner": "justcallmekoko",
+                "repo": "ESP32Marauder",
+                "stars": 12032
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Bruce",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 795166961,
+                "language": "C++",
+                "last_commit": "2026-08-17T13:07:12Z",
+                "owner": "BruceDevices",
+                "repo": "firmware",
+                "stars": 6494
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ESP32 Bus Pirate",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1014515436,
+                "language": "C++",
+                "last_commit": "2026-08-16T15:23:47Z",
+                "owner": "geo-tp",
+                "repo": "ESP32-Bit-Pirate",
+                "stars": 5518
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Evil-M5Project",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 734739273,
+                "language": "C++",
+                "last_commit": "2026-08-03T08:41:04Z",
+                "owner": "7h30th3r0n3",
+                "repo": "Evil-M5Project",
+                "stars": 2527
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "M5 Stick NEMO",
+              "description": "Hacking tools for cardputer",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 694486730,
+                "language": "C",
+                "last_commit": "2026-07-15T03:25:58Z",
+                "owner": "n0xa",
+                "repo": "m5stick-nemo",
+                "stars": 1292
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "M5PORKCHOP",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1110910539,
+                "language": "C++",
+                "last_commit": "2026-06-27T06:31:59Z",
+                "owner": "0ct0sec",
+                "repo": "M5PORKCHOP",
+                "stars": 810
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Palnagotchi",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 757564943,
+                "language": "C++",
+                "last_commit": "2026-01-28T11:41:47Z",
+                "owner": "viniciusbo",
+                "repo": "m5-palnagotchi",
+                "stars": 81
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "433Mhz sniffer",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 772791577,
+                "language": "C++",
+                "last_commit": "2024-11-07T12:31:27Z",
+                "owner": "bmorcelli",
+                "repo": "io433",
+                "stars": 46
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Cybersecurity Related"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Cardputer Game Station Emulators",
+              "description": "Emulator for cardputer that supports ten different consoles",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1070560395,
+                "language": "C",
+                "last_commit": "2026-06-01T18:25:20Z",
+                "owner": "geo-tp",
+                "repo": "Cardputer-Game-Station-Emulators",
+                "stars": 240
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Gameboy emulator",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 798035821,
+                "language": "C",
+                "last_commit": "2026-02-20T18:10:24Z",
+                "owner": "Mr-PauI",
+                "repo": "Gameboy-Enhanced-Firmware-m5stack-cardputer-",
+                "stars": 85
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Gameboy Emulator Port of Peanut-GB by matthew-5pl",
+              "description": "By yonxji | By Mr-Paul | By geo-tp (see next on the list)",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 745221736,
+                "language": "C",
+                "last_commit": "2024-05-09T16:08:50Z",
+                "owner": "matteofo",
+                "repo": "gb_cardputer",
+                "stars": 71
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Math Game",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 710963385,
+                "language": "C++",
+                "last_commit": "2024-03-24T14:04:40Z",
+                "owner": "seanbutler",
+                "repo": "M5CardputerMathGame",
+                "stars": 36
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Tamaputer Tamagotchi P1 Emulator",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1104768732,
+                "language": "C++",
+                "last_commit": "2025-11-26T18:53:30Z",
+                "owner": "mindovermiles262",
+                "repo": "tamaputer",
+                "stars": 25
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Cave-Mine",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1185415679,
+                "language": "C++",
+                "last_commit": "2026-03-18T15:47:35Z",
+                "owner": "question-and-answer",
+                "repo": "cave-mine-cardputer-alpha1",
+                "stars": 20
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Anarch Game port from ESPBoy",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 813509114,
+                "language": "C",
+                "last_commit": "2024-10-18T17:33:38Z",
+                "owner": "TheBricktop",
+                "repo": "Anarch-Cardputer",
+                "stars": 14
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Some games experiments",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 757429359,
+                "language": "C++",
+                "last_commit": "2024-02-14T13:57:00Z",
+                "owner": "polyphasicdevs",
+                "repo": "Cardputer-experiments",
+                "stars": 13
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Sun Rider Game",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 967709462,
+                "language": "C++",
+                "last_commit": "2025-04-17T11:31:50Z",
+                "owner": "Treblewolf",
+                "repo": "M5Cardputer-Sun-Rider",
+                "stars": 12
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Classic Snake Game",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 282793378,
+                "language": "C++",
+                "last_commit": "2021-05-01T14:05:57Z",
+                "owner": "ostaquet",
+                "repo": "M5Snake",
+                "stars": 12
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "DOOM port",
+              "description": "Yes, of course we have Doom",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 768331440,
+                "language": null,
+                "last_commit": "2023-07-11T06:52:39Z",
+                "owner": "Logimancer",
+                "repo": "Cardputer-doom",
+                "stars": 11
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "TinyKnight Game",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 756648174,
+                "language": "Python",
+                "last_commit": "2024-02-15T21:03:29Z",
+                "owner": "foopod",
+                "repo": "tinyKnight",
+                "stars": 10
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Hotspot Arcade",
+              "description": "Several offline party games your guests play from their phones",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1318267371,
+                "language": "C",
+                "last_commit": "2026-08-18T13:08:21Z",
+                "owner": "genkigenki",
+                "repo": "hotspot-arcade-cardputer",
+                "stars": 8
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Conway's Game of Life",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 848993515,
+                "language": "C",
+                "last_commit": "2025-05-15T23:39:36Z",
+                "owner": "Mystereon",
+                "repo": "CardLife",
+                "stars": 7
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Game Related"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Universal remote control",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 811695242,
+                "language": "C++",
+                "last_commit": "2025-09-11T20:12:56Z",
+                "owner": "geo-tp",
+                "repo": "Ultimate-Remote",
+                "stars": 196
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Cardputer WebRadio",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 731736959,
+                "language": "C++",
+                "last_commit": "2026-08-15T02:55:14Z",
+                "owner": "cyberwisk",
+                "repo": "M5Cardputer_WebRadio",
+                "stars": 128
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Lora Chat App",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 741309601,
+                "language": "C++",
+                "last_commit": "2024-12-03T23:44:32Z",
+                "owner": "nonik0",
+                "repo": "CardputerLoRaChat",
+                "stars": 118
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "MiniAcid",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1106865891,
+                "language": "C++",
+                "last_commit": "2026-02-10T04:20:49Z",
+                "owner": "urtubia",
+                "repo": "miniacid",
+                "stars": 102
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Audio Stream Server",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 804817569,
+                "language": "C",
+                "last_commit": "2025-08-12T17:07:41Z",
+                "owner": "geo-tp",
+                "repo": "M5Cardputer-Audio-Stream-Server",
+                "stars": 99
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Rust firmware hal and examples",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 767074265,
+                "language": "Rust",
+                "last_commit": "2024-03-27T11:39:29Z",
+                "owner": "Kezii",
+                "repo": "Rust-M5Stack-Cardputer",
+                "stars": 67
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "SSH Client By aat440z",
+              "description": "By fernandofatech | By SUB0PT1MAL",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 733756267,
+                "language": "C++",
+                "last_commit": "2023-12-30T01:38:29Z",
+                "owner": "aat440hz",
+                "repo": "SSHClient-M5Cardputer",
+                "stars": 61
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "PDAputer",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1179049083,
+                "language": "C",
+                "last_commit": "2026-03-25T13:21:43Z",
+                "owner": "nishad2m8",
+                "repo": "PDAputer",
+                "stars": 61
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Volos Cardputer TV Remote",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 732089751,
+                "language": "C",
+                "last_commit": "2023-12-15T16:07:38Z",
+                "owner": "VolosR",
+                "repo": "M5CardRemote",
+                "stars": 56
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ESP Console Emulator Server",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 793197340,
+                "language": "JavaScript",
+                "last_commit": "2024-04-29T18:29:57Z",
+                "owner": "IncursioHack",
+                "repo": "ESP-Game-Server",
+                "stars": 52
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "M5CardForth - Forth Programming Language for Cardputer",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 723320292,
+                "language": "C++",
+                "last_commit": "2026-04-07T01:08:35Z",
+                "owner": "ryu10",
+                "repo": "M5CardForth",
+                "stars": 46
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "HID Bluetooth Keyboard",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 703955281,
+                "language": "C",
+                "last_commit": "2023-10-12T09:45:07Z",
+                "owner": "Gitshaoxiang",
+                "repo": "M5Cardputer-BLE-HID-Keyboard",
+                "stars": 30
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "M5Cardputer C64 Emulator",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 824837911,
+                "language": "C++",
+                "last_commit": "2024-08-22T05:24:43Z",
+                "owner": "iele",
+                "repo": "M5Cardputer-C64-Emulator",
+                "stars": 25
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Weather App",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 758519391,
+                "language": "C++",
+                "last_commit": "2024-02-17T17:28:57Z",
+                "owner": "avascik",
+                "repo": "weather-cardputer",
+                "stars": 22
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Telnet Client",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 729020387,
+                "language": "C++",
+                "last_commit": "2023-12-30T04:25:46Z",
+                "owner": "aat440hz",
+                "repo": "TelnetClient-M5Cardputer",
+                "stars": 21
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "User Demo extended with some more apps",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 736472649,
+                "language": "C",
+                "last_commit": "2024-01-30T13:38:48Z",
+                "owner": "JohnZ03",
+                "repo": "M5Cardputer-UserDemo",
+                "stars": 19
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "AI Gadget assistant for Cardputer",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 786581099,
+                "language": "C++",
+                "last_commit": "2024-04-14T22:36:07Z",
+                "owner": "jeftheone",
+                "repo": "M5CardputerAIWiFiConnection",
+                "stars": 17
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Simple StopWatch",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 758528667,
+                "language": "C++",
+                "last_commit": "2024-02-16T14:44:14Z",
+                "owner": "avascik",
+                "repo": "stopwatch-cardputer",
+                "stars": 11
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "M5Cardputer WebRadio Dutch version",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 805815914,
+                "language": "C++",
+                "last_commit": "2024-07-26T14:45:48Z",
+                "owner": "rolandbreedveld",
+                "repo": "M5Cardputer_WebRadio_Dutch",
+                "stars": 8
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Eliza Chatbot",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 831682069,
+                "language": "Python",
+                "last_commit": "2024-07-21T10:32:20Z",
+                "owner": "Layer812",
+                "repo": "cardputer_eliza",
+                "stars": 8
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Fake Windows XP UI",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 442394938,
+                "language": "C",
+                "last_commit": "2022-01-01T10:15:44Z",
+                "owner": "prashantkamdar",
+                "repo": "M5StickCPLUS.fakeWinXP",
+                "stars": 7
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "MDX (mxdrv) file Player for Cardputer",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 880350658,
+                "language": "C",
+                "last_commit": "2025-10-26T07:03:00Z",
+                "owner": "Layer812",
+                "repo": "mdxPC",
                 "stars": 4
               }
             },
             {
               "node_type": "item",
-              "title": "PicoChat Client",
-              "description": "To use with MicroHydra",
-              "children": []
+              "title": "VGM Player for Cardputer",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 859291181,
+                "language": null,
+                "last_commit": "2026-06-13T00:33:13Z",
+                "owner": "Layer812",
+                "repo": "vgmPC",
+                "stars": 4
+              }
             }
           ],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-03-30T03:59:42Z",
-            "owner": "echo-lalia",
-            "repo": "MicroHydra",
-            "stars": 313
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "PyDOS + PyBASIC",
           "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-02-05T20:17:35Z",
-            "owner": "RetiredWizard",
-            "repo": "PyDOS",
-            "stars": 179
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Simple App Launcher for Cardputer",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2023-11-06T16:03:08Z",
-            "owner": "shikarunochi",
-            "repo": "CardputerSimpleLaucher",
-            "stars": 61
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "HydraOS",
-          "description": "Micro OS for Cardputer",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2024-07-22T10:54:20Z",
-            "owner": "llominski",
-            "repo": "HydraOS",
-            "stars": 25
-          }
+          "node_type": "group",
+          "title": "Misc."
         }
       ],
-      "title": "Launchers"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Cardputer Marauder ESP32",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2026-08-18T16:00:20Z",
-            "owner": "justcallmekoko",
-            "repo": "ESP32Marauder",
-            "stars": 12022
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Bruce",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2026-08-17T13:07:12Z",
-            "owner": "BruceDevices",
-            "repo": "firmware",
-            "stars": 6485
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ESP32 Bus Pirate",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2026-08-16T15:23:47Z",
-            "owner": "geo-tp",
-            "repo": "ESP32-Bit-Pirate",
-            "stars": 5513
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Evil-M5Project",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2026-08-03T08:41:04Z",
-            "owner": "7h30th3r0n3",
-            "repo": "Evil-M5Project",
-            "stars": 2525
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "M5 Stick NEMO",
-          "description": "Hacking tools for cardputer",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2026-07-15T03:25:58Z",
-            "owner": "n0xa",
-            "repo": "m5stick-nemo",
-            "stars": 1291
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "M5PORKCHOP",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2026-06-27T06:31:59Z",
-            "owner": "0ct0sec",
-            "repo": "M5PORKCHOP",
-            "stars": 807
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Palnagotchi",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2026-01-28T11:41:47Z",
-            "owner": "viniciusbo",
-            "repo": "m5-palnagotchi",
-            "stars": 81
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "433Mhz sniffer",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2024-11-07T12:31:27Z",
-            "owner": "bmorcelli",
-            "repo": "io433",
-            "stars": 46
-          }
-        }
-      ],
-      "title": "Cybersecurity Related"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Cardputer Game Station Emulators",
-          "description": "Emulator for cardputer that supports ten different consoles",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2026-06-01T18:25:20Z",
-            "owner": "geo-tp",
-            "repo": "Cardputer-Game-Station-Emulators",
-            "stars": 240
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Gameboy emulator",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2026-02-20T18:10:24Z",
-            "owner": "Mr-PauI",
-            "repo": "Gameboy-Enhanced-Firmware-m5stack-cardputer-",
-            "stars": 85
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Gameboy Emulator Port of Peanut-GB by matthew-5pl",
-          "description": "By yonxji | By Mr-Paul | By geo-tp (see next on the list)",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "C",
-            "last_commit": "2024-05-09T16:08:50Z",
-            "owner": "matteofo",
-            "repo": "gb_cardputer",
-            "stars": 71
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Math Game",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2024-03-24T14:04:40Z",
-            "owner": "seanbutler",
-            "repo": "M5CardputerMathGame",
-            "stars": 36
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Tamaputer Tamagotchi P1 Emulator",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2025-11-26T18:53:30Z",
-            "owner": "mindovermiles262",
-            "repo": "tamaputer",
-            "stars": 25
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Cave-Mine",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2026-03-18T15:47:35Z",
-            "owner": "question-and-answer",
-            "repo": "cave-mine-cardputer-alpha1",
-            "stars": 20
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Anarch Game port from ESPBoy",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2024-10-18T17:33:38Z",
-            "owner": "TheBricktop",
-            "repo": "Anarch-Cardputer",
-            "stars": 14
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Some games experiments",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2024-02-14T13:57:00Z",
-            "owner": "polyphasicdevs",
-            "repo": "Cardputer-experiments",
-            "stars": 13
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Sun Rider Game",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2025-04-17T11:31:50Z",
-            "owner": "Treblewolf",
-            "repo": "M5Cardputer-Sun-Rider",
-            "stars": 12
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Classic Snake Game",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2021-05-01T14:05:57Z",
-            "owner": "ostaquet",
-            "repo": "M5Snake",
-            "stars": 12
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "DOOM port",
-          "description": "Yes, of course we have Doom",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2023-07-11T06:52:39Z",
-            "owner": "Logimancer",
-            "repo": "Cardputer-doom",
-            "stars": 11
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "TinyKnight Game",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2024-02-15T21:03:29Z",
-            "owner": "foopod",
-            "repo": "tinyKnight",
-            "stars": 10
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Hotspot Arcade",
-          "description": "Several offline party games your guests play from their phones",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2026-08-18T13:08:21Z",
-            "owner": "genkigenki",
-            "repo": "hotspot-arcade-cardputer",
-            "stars": 9
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Conway's Game of Life",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2025-05-15T23:39:36Z",
-            "owner": "Mystereon",
-            "repo": "CardLife",
-            "stars": 7
-          }
-        }
-      ],
-      "title": "Game Related"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Universal remote control",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2025-09-11T20:12:56Z",
-            "owner": "geo-tp",
-            "repo": "Ultimate-Remote",
-            "stars": 196
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Cardputer WebRadio",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2026-08-15T02:55:14Z",
-            "owner": "cyberwisk",
-            "repo": "M5Cardputer_WebRadio",
-            "stars": 128
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Lora Chat App",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2024-12-03T23:44:32Z",
-            "owner": "nonik0",
-            "repo": "CardputerLoRaChat",
-            "stars": 118
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "MiniAcid",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2026-02-10T04:20:49Z",
-            "owner": "urtubia",
-            "repo": "miniacid",
-            "stars": 102
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Audio Stream Server",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2025-08-12T17:07:41Z",
-            "owner": "geo-tp",
-            "repo": "M5Cardputer-Audio-Stream-Server",
-            "stars": 99
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Rust firmware hal and examples",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2024-03-27T11:39:29Z",
-            "owner": "Kezii",
-            "repo": "Rust-M5Stack-Cardputer",
-            "stars": 67
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "SSH Client By aat440z",
-          "description": "By fernandofatech | By SUB0PT1MAL",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2023-12-30T01:38:29Z",
-            "owner": "aat440hz",
-            "repo": "SSHClient-M5Cardputer",
-            "stars": 61
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "PDAputer",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2026-03-25T13:21:43Z",
-            "owner": "nishad2m8",
-            "repo": "PDAputer",
-            "stars": 61
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Volos Cardputer TV Remote",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2023-12-15T16:07:38Z",
-            "owner": "VolosR",
-            "repo": "M5CardRemote",
-            "stars": 56
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ESP Console Emulator Server",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2024-04-29T18:29:57Z",
-            "owner": "IncursioHack",
-            "repo": "ESP-Game-Server",
-            "stars": 52
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "M5CardForth - Forth Programming Language for Cardputer",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2026-04-07T01:08:35Z",
-            "owner": "ryu10",
-            "repo": "M5CardForth",
-            "stars": 46
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "HID Bluetooth Keyboard",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2023-10-12T09:45:07Z",
-            "owner": "Gitshaoxiang",
-            "repo": "M5Cardputer-BLE-HID-Keyboard",
-            "stars": 30
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "M5Cardputer C64 Emulator",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2024-08-22T05:24:43Z",
-            "owner": "iele",
-            "repo": "M5Cardputer-C64-Emulator",
-            "stars": 25
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Weather App",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2024-02-17T17:28:57Z",
-            "owner": "avascik",
-            "repo": "weather-cardputer",
-            "stars": 22
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Telnet Client",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2023-12-30T04:25:46Z",
-            "owner": "aat440hz",
-            "repo": "TelnetClient-M5Cardputer",
-            "stars": 21
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "User Demo extended with some more apps",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2024-01-30T13:38:48Z",
-            "owner": "JohnZ03",
-            "repo": "M5Cardputer-UserDemo",
-            "stars": 19
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "AI Gadget assistant for Cardputer",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2024-04-14T22:36:07Z",
-            "owner": "jeftheone",
-            "repo": "M5CardputerAIWiFiConnection",
-            "stars": 17
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Simple StopWatch",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2024-02-16T14:44:14Z",
-            "owner": "avascik",
-            "repo": "stopwatch-cardputer",
-            "stars": 11
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "M5Cardputer WebRadio Dutch version",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2024-07-26T14:45:48Z",
-            "owner": "rolandbreedveld",
-            "repo": "M5Cardputer_WebRadio_Dutch",
-            "stars": 8
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Eliza Chatbot",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2024-07-21T10:32:20Z",
-            "owner": "Layer812",
-            "repo": "cardputer_eliza",
-            "stars": 8
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Fake Windows XP UI",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2022-01-01T10:15:44Z",
-            "owner": "prashantkamdar",
-            "repo": "M5StickCPLUS.fakeWinXP",
-            "stars": 7
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "MDX (mxdrv) file Player for Cardputer",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2025-10-26T07:03:00Z",
-            "owner": "Layer812",
-            "repo": "mdxPC",
-            "stars": 4
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "VGM Player for Cardputer",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": null,
-            "last_commit": "2026-06-13T00:33:13Z",
-            "owner": "Layer812",
-            "repo": "vgmPC",
-            "stars": 4
-          }
-        }
-      ],
-      "title": "Misc."
+      "title": "Community Apps"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T16:03:15.227Z",
+    "last_updated": "2026-08-19T12:38:57.519Z",
     "original_repository": "terremoth/awesome-m5stack-cardputer",
+    "original_repository_id": 742558696,
     "original_repository_sha": "d647ba1eae42047c00a41e6d2fdfe3b16a2ad5ff",
     "enhanced_repository": "enhansome/enhansome-m5stack-cardputer",
     "enhanced_repository_description": null,
