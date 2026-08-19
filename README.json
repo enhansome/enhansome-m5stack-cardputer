@@ -14,7 +14,7 @@
                 "archived": false,
                 "id": 755727720,
                 "language": "C++",
-                "last_commit": "2026-08-19T10:16:08Z",
+                "last_commit": "2026-08-19T13:10:10Z",
                 "owner": "bmorcelli",
                 "repo": "Launcher",
                 "stars": 1987
@@ -142,10 +142,10 @@
                 "archived": false,
                 "id": 208325027,
                 "language": "C++",
-                "last_commit": "2026-08-19T09:10:39Z",
+                "last_commit": "2026-08-19T15:01:21Z",
                 "owner": "justcallmekoko",
                 "repo": "ESP32Marauder",
-                "stars": 12032
+                "stars": 12031
               }
             },
             {
@@ -160,7 +160,7 @@
                 "last_commit": "2026-08-17T13:07:12Z",
                 "owner": "BruceDevices",
                 "repo": "firmware",
-                "stars": 6494
+                "stars": 6495
               }
             },
             {
@@ -175,7 +175,7 @@
                 "last_commit": "2026-08-16T15:23:47Z",
                 "owner": "geo-tp",
                 "repo": "ESP32-Bit-Pirate",
-                "stars": 5518
+                "stars": 5520
               }
             },
             {
@@ -190,7 +190,7 @@
                 "last_commit": "2026-08-03T08:41:04Z",
                 "owner": "7h30th3r0n3",
                 "repo": "Evil-M5Project",
-                "stars": 2527
+                "stars": 2528
               }
             },
             {
@@ -220,7 +220,7 @@
                 "last_commit": "2026-06-27T06:31:59Z",
                 "owner": "0ct0sec",
                 "repo": "M5PORKCHOP",
-                "stars": 810
+                "stars": 811
               }
             },
             {
@@ -832,7 +832,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:38:57.519Z",
+    "last_updated": "2026-08-19T16:03:39.532Z",
     "original_repository": "terremoth/awesome-m5stack-cardputer",
     "original_repository_id": 742558696,
     "original_repository_sha": "d647ba1eae42047c00a41e6d2fdfe3b16a2ad5ff",
