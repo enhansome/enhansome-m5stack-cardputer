@@ -14,10 +14,10 @@
                 "archived": false,
                 "id": 755727720,
                 "language": "C++",
-                "last_commit": "2026-08-20T12:19:17Z",
+                "last_commit": "2026-08-21T15:48:14Z",
                 "owner": "bmorcelli",
                 "repo": "Launcher",
-                "stars": 1988
+                "stars": 1994
               }
             },
             {
@@ -52,7 +52,7 @@
                     "last_commit": "2026-03-30T04:49:30Z",
                     "owner": "echo-lalia",
                     "repo": "MicroHydra-Apps",
-                    "stars": 83
+                    "stars": 84
                   }
                 },
                 {
@@ -78,7 +78,7 @@
                 "last_commit": "2026-03-30T03:59:42Z",
                 "owner": "echo-lalia",
                 "repo": "MicroHydra",
-                "stars": 313
+                "stars": 314
               }
             },
             {
@@ -142,10 +142,10 @@
                 "archived": false,
                 "id": 208325027,
                 "language": "C++",
-                "last_commit": "2026-08-20T15:30:02Z",
+                "last_commit": "2026-08-21T05:36:22Z",
                 "owner": "justcallmekoko",
                 "repo": "ESP32Marauder",
-                "stars": 12042
+                "stars": 12052
               }
             },
             {
@@ -160,7 +160,7 @@
                 "last_commit": "2026-08-17T13:07:12Z",
                 "owner": "BruceDevices",
                 "repo": "firmware",
-                "stars": 6504
+                "stars": 6516
               }
             },
             {
@@ -175,7 +175,7 @@
                 "last_commit": "2026-08-16T15:23:47Z",
                 "owner": "geo-tp",
                 "repo": "ESP32-Bit-Pirate",
-                "stars": 5526
+                "stars": 5532
               }
             },
             {
@@ -190,7 +190,7 @@
                 "last_commit": "2026-08-20T12:37:32Z",
                 "owner": "7h30th3r0n3",
                 "repo": "Evil-M5Project",
-                "stars": 2529
+                "stars": 2531
               }
             },
             {
@@ -220,7 +220,7 @@
                 "last_commit": "2026-06-27T06:31:59Z",
                 "owner": "0ct0sec",
                 "repo": "M5PORKCHOP",
-                "stars": 815
+                "stars": 819
               }
             },
             {
@@ -832,7 +832,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T16:05:20.742Z",
+    "last_updated": "2026-08-21T16:04:49.407Z",
     "original_repository": "terremoth/awesome-m5stack-cardputer",
     "original_repository_id": 742558696,
     "original_repository_sha": "d647ba1eae42047c00a41e6d2fdfe3b16a2ad5ff",
