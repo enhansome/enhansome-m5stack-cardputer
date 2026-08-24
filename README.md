@@ -86,9 +86,9 @@ These builtin apps can be found at: <https://github.com/m5stack/M5Cardputer-User
 
 ### Cybersecurity Related
 
-* [Cardputer Marauder ESP32](https://github.com/justcallmekoko/ESP32Marauder) ⭐ 12,099 | 🐛 327 | 🌐 C++ | 📅 2026-08-24
-* [Bruce](https://github.com/pr3y/Bruce) ⭐ 6,550 | 🐛 254 | 🌐 C++ | 📅 2026-08-23
-* [ESP32 Bus Pirate](https://github.com/geo-tp/ESP32-Bus-Pirate) ⭐ 5,613 | 🐛 29 | 🌐 C++ | 📅 2026-08-16
+* [Cardputer Marauder ESP32](https://github.com/justcallmekoko/ESP32Marauder) ⭐ 12,103 | 🐛 327 | 🌐 C++ | 📅 2026-08-24
+* [Bruce](https://github.com/pr3y/Bruce) ⭐ 6,552 | 🐛 254 | 🌐 C++ | 📅 2026-08-23
+* [ESP32 Bus Pirate](https://github.com/geo-tp/ESP32-Bus-Pirate) ⭐ 5,614 | 🐛 29 | 🌐 C++ | 📅 2026-08-16
 * [Evil-M5Project](https://github.com/7h30th3r0n3/Evil-M5Project) ⭐ 2,538 | 🐛 18 | 🌐 C++ | 📅 2026-08-20
 * [M5 Stick NEMO](https://github.com/n0xa/m5stick-nemo) ⭐ 1,293 | 🐛 9 | 🌐 C | 📅 2026-07-15 - Hacking tools for cardputer
 * [M5PORKCHOP](https://github.com/0ct0sec/M5PORKCHOP) ⭐ 835 | 🐛 39 | 🌐 C++ | 📅 2026-06-27
