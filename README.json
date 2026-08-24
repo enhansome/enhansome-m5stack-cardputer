@@ -17,7 +17,7 @@
                 "last_commit": "2026-08-23T02:42:51Z",
                 "owner": "bmorcelli",
                 "repo": "Launcher",
-                "stars": 2003
+                "stars": 2008
               }
             },
             {
@@ -142,10 +142,10 @@
                 "archived": false,
                 "id": 208325027,
                 "language": "C++",
-                "last_commit": "2026-08-23T03:37:08Z",
+                "last_commit": "2026-08-24T05:05:30Z",
                 "owner": "justcallmekoko",
                 "repo": "ESP32Marauder",
-                "stars": 12082
+                "stars": 12099
               }
             },
             {
@@ -160,7 +160,7 @@
                 "last_commit": "2026-08-23T02:52:57Z",
                 "owner": "BruceDevices",
                 "repo": "firmware",
-                "stars": 6539
+                "stars": 6550
               }
             },
             {
@@ -175,7 +175,7 @@
                 "last_commit": "2026-08-16T15:23:47Z",
                 "owner": "geo-tp",
                 "repo": "ESP32-Bit-Pirate",
-                "stars": 5602
+                "stars": 5613
               }
             },
             {
@@ -190,7 +190,7 @@
                 "last_commit": "2026-08-20T12:37:32Z",
                 "owner": "7h30th3r0n3",
                 "repo": "Evil-M5Project",
-                "stars": 2535
+                "stars": 2538
               }
             },
             {
@@ -220,7 +220,7 @@
                 "last_commit": "2026-06-27T06:31:59Z",
                 "owner": "0ct0sec",
                 "repo": "M5PORKCHOP",
-                "stars": 828
+                "stars": 835
               }
             },
             {
@@ -347,7 +347,7 @@
                 "last_commit": "2026-03-18T15:47:35Z",
                 "owner": "question-and-answer",
                 "repo": "cave-mine-cardputer-alpha1",
-                "stars": 20
+                "stars": 21
               }
             },
             {
@@ -452,7 +452,7 @@
                 "last_commit": "2026-08-18T13:08:21Z",
                 "owner": "genkigenki",
                 "repo": "hotspot-arcade-cardputer",
-                "stars": 9
+                "stars": 10
               }
             },
             {
@@ -489,7 +489,7 @@
                 "last_commit": "2025-09-11T20:12:56Z",
                 "owner": "geo-tp",
                 "repo": "Ultimate-Remote",
-                "stars": 196
+                "stars": 198
               }
             },
             {
@@ -549,7 +549,7 @@
                 "last_commit": "2025-08-12T17:07:41Z",
                 "owner": "geo-tp",
                 "repo": "M5Cardputer-Audio-Stream-Server",
-                "stars": 99
+                "stars": 100
               }
             },
             {
@@ -832,7 +832,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T15:58:31.721Z",
+    "last_updated": "2026-08-24T14:17:33.608Z",
     "original_repository": "terremoth/awesome-m5stack-cardputer",
     "original_repository_id": 742558696,
     "original_repository_sha": "d647ba1eae42047c00a41e6d2fdfe3b16a2ad5ff",
