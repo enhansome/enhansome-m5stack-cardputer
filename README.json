@@ -14,10 +14,10 @@
                 "archived": false,
                 "id": 755727720,
                 "language": "C++",
-                "last_commit": "2026-08-23T02:42:51Z",
+                "last_commit": "2026-08-25T13:12:30Z",
                 "owner": "bmorcelli",
                 "repo": "Launcher",
-                "stars": 2011
+                "stars": 2012
               }
             },
             {
@@ -145,7 +145,7 @@
                 "last_commit": "2026-08-25T04:33:04Z",
                 "owner": "justcallmekoko",
                 "repo": "ESP32Marauder",
-                "stars": 12112
+                "stars": 12119
               }
             },
             {
@@ -160,7 +160,7 @@
                 "last_commit": "2026-08-23T02:52:57Z",
                 "owner": "BruceDevices",
                 "repo": "firmware",
-                "stars": 6556
+                "stars": 6560
               }
             },
             {
@@ -172,10 +172,10 @@
                 "archived": false,
                 "id": 1014515436,
                 "language": "C++",
-                "last_commit": "2026-08-16T15:23:47Z",
+                "last_commit": "2026-08-25T14:43:12Z",
                 "owner": "geo-tp",
                 "repo": "ESP32-Bit-Pirate",
-                "stars": 5621
+                "stars": 5624
               }
             },
             {
@@ -220,7 +220,7 @@
                 "last_commit": "2026-06-27T06:31:59Z",
                 "owner": "0ct0sec",
                 "repo": "M5PORKCHOP",
-                "stars": 837
+                "stars": 838
               }
             },
             {
@@ -832,7 +832,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:10:46.866Z",
+    "last_updated": "2026-08-25T16:18:41.210Z",
     "original_repository": "terremoth/awesome-m5stack-cardputer",
     "original_repository_id": 742558696,
     "original_repository_sha": "d647ba1eae42047c00a41e6d2fdfe3b16a2ad5ff",
