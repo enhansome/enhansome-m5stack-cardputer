@@ -72,7 +72,7 @@ These builtin apps can be found at: <https://github.com/m5stack/M5Cardputer-User
 
 ### Launchers
 
-* [M5 Launcher](https://github.com/bmorcelli/Launcher) ⭐ 2,012 | 🐛 22 | 🌐 C++ | 📅 2026-08-25 - App launcher for M5StickC, M5StickC Plus, M5StickC Plus 2 and M5Cardputer
+* [M5 Launcher](https://github.com/bmorcelli/Launcher) ⭐ 2,015 | 🐛 23 | 🌐 C++ | 📅 2026-08-25 - App launcher for M5StickC, M5StickC Plus, M5StickC Plus 2 and M5Cardputer
   * [250+ prebuilt binaries](https://bmorcelli.github.io/Launcher/catalog.html)
   * [Laucher website](https://bmorcelli.github.io/Launcher/)
 * [BerylliumOS](https://github.com/beryllium-org/OS) ⭐ 325 | 🐛 3 | 🌐 Python | 📅 2026-05-19 - Another Micro OS for Cardputer
@@ -86,14 +86,14 @@ These builtin apps can be found at: <https://github.com/m5stack/M5Cardputer-User
 
 ### Cybersecurity Related
 
-* [Cardputer Marauder ESP32](https://github.com/justcallmekoko/ESP32Marauder) ⭐ 12,119 | 🐛 328 | 🌐 C++ | 📅 2026-08-25
-* [Bruce](https://github.com/pr3y/Bruce) ⭐ 6,560 | 🐛 252 | 🌐 C++ | 📅 2026-08-23
-* [ESP32 Bus Pirate](https://github.com/geo-tp/ESP32-Bus-Pirate) ⭐ 5,624 | 🐛 30 | 🌐 C++ | 📅 2026-08-25
-* [Evil-M5Project](https://github.com/7h30th3r0n3/Evil-M5Project) ⭐ 2,540 | 🐛 18 | 🌐 C++ | 📅 2026-08-20
-* [M5 Stick NEMO](https://github.com/n0xa/m5stick-nemo) ⭐ 1,293 | 🐛 9 | 🌐 C | 📅 2026-07-15 - Hacking tools for cardputer
-* [M5PORKCHOP](https://github.com/0ct0sec/M5PORKCHOP) ⭐ 838 | 🐛 39 | 🌐 C++ | 📅 2026-06-27
+* [Cardputer Marauder ESP32](https://github.com/justcallmekoko/ESP32Marauder) ⭐ 12,131 | 🐛 331 | 🌐 C++ | 📅 2026-08-26
+* [Bruce](https://github.com/pr3y/Bruce) ⭐ 6,567 | 🐛 254 | 🌐 C++ | 📅 2026-08-26
+* [ESP32 Bus Pirate](https://github.com/geo-tp/ESP32-Bus-Pirate) ⭐ 5,630 | 🐛 31 | 🌐 C++ | 📅 2026-08-25
+* [Evil-M5Project](https://github.com/7h30th3r0n3/Evil-M5Project) ⭐ 2,541 | 🐛 18 | 🌐 C++ | 📅 2026-08-20
+* [M5 Stick NEMO](https://github.com/n0xa/m5stick-nemo) ⭐ 1,294 | 🐛 9 | 🌐 C | 📅 2026-07-15 - Hacking tools for cardputer
+* [M5PORKCHOP](https://github.com/0ct0sec/M5PORKCHOP) ⭐ 839 | 🐛 39 | 🌐 C++ | 📅 2026-06-27
 * [Palnagotchi](https://github.com/viniciusbo/m5-palnagotchi) ⭐ 81 | 🐛 3 | 🌐 C++ | 📅 2026-01-28
-* [433Mhz sniffer](https://github.com/bmorcelli/io433) ⭐ 46 | 🐛 0 | 🌐 C++ | 📅 2024-11-07
+* [433Mhz sniffer](https://github.com/bmorcelli/io433) ⭐ 47 | 🐛 0 | 🌐 C++ | 📅 2024-11-07
 
 ### Game Related
 
@@ -117,10 +117,10 @@ These builtin apps can be found at: <https://github.com/m5stack/M5Cardputer-User
 * [Universal remote control](https://github.com/geo-tp/Ultimate-Remote) ⭐ 198 | 🐛 13 | 🌐 C++ | 📅 2025-09-11
 * [Cardputer WebRadio](https://github.com/cyberwisk/M5Cardputer_WebRadio) ⭐ 128 | 🐛 0 | 🌐 C++ | 📅 2026-08-15
 * [Lora Chat App](https://github.com/nonik0/CardputerLoRaChat) ⭐ 119 | 🐛 2 | 🌐 C++ | 📅 2024-12-03
-* [MiniAcid](https://github.com/urtubia/miniacid) ⭐ 102 | 🐛 13 | 🌐 C++ | 📅 2026-02-10
+* [MiniAcid](https://github.com/urtubia/miniacid) ⭐ 103 | 🐛 13 | 🌐 C++ | 📅 2026-02-10
   * [Demo site](https://miniacid.mrbook.org)
 * [Audio Stream Server](https://github.com/geo-tp/M5Cardputer-Audio-Stream-Server) ⭐ 100 | 🐛 4 | 🌐 C | 📅 2025-08-12
-* [Rust firmware hal and examples](https://github.com/Kezii/Rust-M5Stack-Cardputer) ⭐ 67 | 🐛 0 | 🌐 Rust | 📅 2024-03-27
+* [Rust firmware hal and examples](https://github.com/Kezii/Rust-M5Stack-Cardputer) ⭐ 68 | 🐛 0 | 🌐 Rust | 📅 2024-03-27
 * [SSH Client By aat440z](https://github.com/aat440hz/SSHClient-M5Cardputer) ⭐ 61 | 🐛 3 | 🌐 C++ | 📅 2023-12-30 | [By fernandofatech](https://github.com/fernandofatech/M5Cardputer-SSHClient) ⭐ 67 | 🐛 1 | 🌐 C++ | 📅 2026-05-16 | [By SUB0PT1MAL](https://github.com/aat440hz/SSHClient-M5Cardputer) ⭐ 61 | 🐛 3 | 🌐 C++ | 📅 2023-12-30
 * [PDAputer](https://github.com/nishad2m8/PDAputer) ⭐ 61 | 🐛 2 | 🌐 C | 📅 2026-03-25
 * [Volos Cardputer TV Remote](https://github.com/VolosR/M5CardRemote/) ⭐ 56 | 🐛 0 | 🌐 C | 📅 2023-12-15
@@ -141,4 +141,4 @@ These builtin apps can be found at: <https://github.com/m5stack/M5Cardputer-User
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-25._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-26._
