@@ -14,10 +14,10 @@
                 "archived": false,
                 "id": 755727720,
                 "language": "C++",
-                "last_commit": "2026-08-25T13:12:30Z",
+                "last_commit": "2026-08-26T22:54:07Z",
                 "owner": "bmorcelli",
                 "repo": "Launcher",
-                "stars": 2015
+                "stars": 2018
               }
             },
             {
@@ -142,10 +142,10 @@
                 "archived": false,
                 "id": 208325027,
                 "language": "C++",
-                "last_commit": "2026-08-26T09:33:27Z",
+                "last_commit": "2026-08-27T05:37:26Z",
                 "owner": "justcallmekoko",
                 "repo": "ESP32Marauder",
-                "stars": 12131
+                "stars": 12135
               }
             },
             {
@@ -160,7 +160,7 @@
                 "last_commit": "2026-08-26T15:47:15Z",
                 "owner": "BruceDevices",
                 "repo": "firmware",
-                "stars": 6567
+                "stars": 6572
               }
             },
             {
@@ -175,7 +175,7 @@
                 "last_commit": "2026-08-25T14:43:12Z",
                 "owner": "geo-tp",
                 "repo": "ESP32-Bit-Pirate",
-                "stars": 5630
+                "stars": 5636
               }
             },
             {
@@ -190,7 +190,7 @@
                 "last_commit": "2026-08-20T12:37:32Z",
                 "owner": "7h30th3r0n3",
                 "repo": "Evil-M5Project",
-                "stars": 2541
+                "stars": 2543
               }
             },
             {
@@ -549,7 +549,7 @@
                 "last_commit": "2025-08-12T17:07:41Z",
                 "owner": "geo-tp",
                 "repo": "M5Cardputer-Audio-Stream-Server",
-                "stars": 100
+                "stars": 102
               }
             },
             {
@@ -832,9 +832,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T16:38:23.963Z",
-    "original_repository": "terremoth/awesome-m5stack-cardputer",
-    "original_repository_id": 742558696,
+    "last_updated": "2026-08-27T11:48:48.993Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 742558696,
+      "language": null,
+      "last_commit": "2026-08-02T05:01:38Z",
+      "owner": "terremoth",
+      "repo": "awesome-m5stack-cardputer",
+      "stars": 726
+    },
     "original_repository_sha": "d647ba1eae42047c00a41e6d2fdfe3b16a2ad5ff",
     "enhanced_repository": "enhansome/enhansome-m5stack-cardputer",
     "enhanced_repository_description": null,
