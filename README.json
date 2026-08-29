@@ -14,11 +14,12 @@
                 "archived": false,
                 "id": 755727720,
                 "language": "C++",
-                "last_commit": "2026-08-27T15:23:21Z",
+                "last_commit": "2026-08-28T20:31:31Z",
                 "owner": "bmorcelli",
                 "repo": "Launcher",
-                "stars": 2018
-              }
+                "stars": 2025
+              },
+              "first_seen": "2026-08-29T00:07:43.610Z"
             },
             {
               "node_type": "item",
@@ -29,11 +30,12 @@
                 "archived": false,
                 "id": 434342707,
                 "language": "Python",
-                "last_commit": "2026-05-19T12:05:38Z",
+                "last_commit": "2026-08-28T17:49:40Z",
                 "owner": "beryllium-org",
                 "repo": "Micro",
                 "stars": 325
-              }
+              },
+              "first_seen": "2026-08-29T00:07:43.610Z"
             },
             {
               "node_type": "item",
@@ -53,7 +55,8 @@
                     "owner": "echo-lalia",
                     "repo": "MicroHydra-Apps",
                     "stars": 84
-                  }
+                  },
+                  "first_seen": "2026-08-29T00:07:43.610Z"
                 },
                 {
                   "node_type": "item",
@@ -68,7 +71,8 @@
                     "owner": "Gabriel-F-Sousa",
                     "repo": "HydraMenu",
                     "stars": 4
-                  }
+                  },
+                  "first_seen": "2026-08-29T00:07:43.610Z"
                 }
               ],
               "repo_info": {
@@ -79,7 +83,8 @@
                 "owner": "echo-lalia",
                 "repo": "MicroHydra",
                 "stars": 314
-              }
+              },
+              "first_seen": "2026-08-29T00:07:43.610Z"
             },
             {
               "node_type": "item",
@@ -94,7 +99,8 @@
                 "owner": "RetiredWizard",
                 "repo": "PyDOS",
                 "stars": 179
-              }
+              },
+              "first_seen": "2026-08-29T00:07:43.610Z"
             },
             {
               "node_type": "item",
@@ -109,7 +115,8 @@
                 "owner": "shikarunochi",
                 "repo": "CardputerSimpleLaucher",
                 "stars": 61
-              }
+              },
+              "first_seen": "2026-08-29T00:07:43.610Z"
             },
             {
               "node_type": "item",
@@ -124,7 +131,8 @@
                 "owner": "llominski",
                 "repo": "HydraOS",
                 "stars": 25
-              }
+              },
+              "first_seen": "2026-08-29T00:07:43.610Z"
             }
           ],
           "description": null,
@@ -142,11 +150,12 @@
                 "archived": false,
                 "id": 208325027,
                 "language": "C++",
-                "last_commit": "2026-08-27T18:05:49Z",
+                "last_commit": "2026-08-28T20:59:06Z",
                 "owner": "justcallmekoko",
                 "repo": "ESP32Marauder",
-                "stars": 12141
-              }
+                "stars": 12153
+              },
+              "first_seen": "2026-08-29T00:07:43.610Z"
             },
             {
               "node_type": "item",
@@ -157,11 +166,12 @@
                 "archived": false,
                 "id": 795166961,
                 "language": "C++",
-                "last_commit": "2026-08-28T00:16:52Z",
+                "last_commit": "2026-08-28T02:59:53Z",
                 "owner": "BruceDevices",
                 "repo": "firmware",
-                "stars": 6581
-              }
+                "stars": 6585
+              },
+              "first_seen": "2026-08-29T00:07:43.610Z"
             },
             {
               "node_type": "item",
@@ -175,8 +185,9 @@
                 "last_commit": "2026-08-25T14:43:12Z",
                 "owner": "geo-tp",
                 "repo": "ESP32-Bit-Pirate",
-                "stars": 5640
-              }
+                "stars": 5651
+              },
+              "first_seen": "2026-08-29T00:07:43.610Z"
             },
             {
               "node_type": "item",
@@ -190,8 +201,9 @@
                 "last_commit": "2026-08-20T12:37:32Z",
                 "owner": "7h30th3r0n3",
                 "repo": "Evil-M5Project",
-                "stars": 2544
-              }
+                "stars": 2548
+              },
+              "first_seen": "2026-08-29T00:07:43.610Z"
             },
             {
               "node_type": "item",
@@ -205,8 +217,9 @@
                 "last_commit": "2026-07-15T03:25:58Z",
                 "owner": "n0xa",
                 "repo": "m5stick-nemo",
-                "stars": 1294
-              }
+                "stars": 1295
+              },
+              "first_seen": "2026-08-29T00:07:43.610Z"
             },
             {
               "node_type": "item",
@@ -220,8 +233,9 @@
                 "last_commit": "2026-06-27T06:31:59Z",
                 "owner": "0ct0sec",
                 "repo": "M5PORKCHOP",
-                "stars": 840
-              }
+                "stars": 841
+              },
+              "first_seen": "2026-08-29T00:07:43.610Z"
             },
             {
               "node_type": "item",
@@ -236,7 +250,8 @@
                 "owner": "viniciusbo",
                 "repo": "m5-palnagotchi",
                 "stars": 81
-              }
+              },
+              "first_seen": "2026-08-29T00:07:43.610Z"
             },
             {
               "node_type": "item",
@@ -251,7 +266,8 @@
                 "owner": "bmorcelli",
                 "repo": "io433",
                 "stars": 47
-              }
+              },
+              "first_seen": "2026-08-29T00:07:43.610Z"
             }
           ],
           "description": null,
@@ -273,7 +289,8 @@
                 "owner": "geo-tp",
                 "repo": "Cardputer-Game-Station-Emulators",
                 "stars": 240
-              }
+              },
+              "first_seen": "2026-08-29T00:07:43.610Z"
             },
             {
               "node_type": "item",
@@ -288,7 +305,8 @@
                 "owner": "Mr-PauI",
                 "repo": "Gameboy-Enhanced-Firmware-m5stack-cardputer-",
                 "stars": 85
-              }
+              },
+              "first_seen": "2026-08-29T00:07:43.610Z"
             },
             {
               "node_type": "item",
@@ -303,7 +321,8 @@
                 "owner": "matteofo",
                 "repo": "gb_cardputer",
                 "stars": 71
-              }
+              },
+              "first_seen": "2026-08-29T00:07:43.610Z"
             },
             {
               "node_type": "item",
@@ -318,7 +337,8 @@
                 "owner": "seanbutler",
                 "repo": "M5CardputerMathGame",
                 "stars": 36
-              }
+              },
+              "first_seen": "2026-08-29T00:07:43.610Z"
             },
             {
               "node_type": "item",
@@ -333,7 +353,8 @@
                 "owner": "mindovermiles262",
                 "repo": "tamaputer",
                 "stars": 25
-              }
+              },
+              "first_seen": "2026-08-29T00:07:43.610Z"
             },
             {
               "node_type": "item",
@@ -348,7 +369,8 @@
                 "owner": "question-and-answer",
                 "repo": "cave-mine-cardputer-alpha1",
                 "stars": 21
-              }
+              },
+              "first_seen": "2026-08-29T00:07:43.610Z"
             },
             {
               "node_type": "item",
@@ -363,7 +385,8 @@
                 "owner": "TheBricktop",
                 "repo": "Anarch-Cardputer",
                 "stars": 14
-              }
+              },
+              "first_seen": "2026-08-29T00:07:43.610Z"
             },
             {
               "node_type": "item",
@@ -378,7 +401,8 @@
                 "owner": "polyphasicdevs",
                 "repo": "Cardputer-experiments",
                 "stars": 13
-              }
+              },
+              "first_seen": "2026-08-29T00:07:43.610Z"
             },
             {
               "node_type": "item",
@@ -393,7 +417,8 @@
                 "owner": "Treblewolf",
                 "repo": "M5Cardputer-Sun-Rider",
                 "stars": 12
-              }
+              },
+              "first_seen": "2026-08-29T00:07:43.610Z"
             },
             {
               "node_type": "item",
@@ -408,7 +433,8 @@
                 "owner": "ostaquet",
                 "repo": "M5Snake",
                 "stars": 12
-              }
+              },
+              "first_seen": "2026-08-29T00:07:43.610Z"
             },
             {
               "node_type": "item",
@@ -423,7 +449,8 @@
                 "owner": "Logimancer",
                 "repo": "Cardputer-doom",
                 "stars": 11
-              }
+              },
+              "first_seen": "2026-08-29T00:07:43.610Z"
             },
             {
               "node_type": "item",
@@ -438,7 +465,8 @@
                 "owner": "foopod",
                 "repo": "tinyKnight",
                 "stars": 10
-              }
+              },
+              "first_seen": "2026-08-29T00:07:43.610Z"
             },
             {
               "node_type": "item",
@@ -449,11 +477,12 @@
                 "archived": false,
                 "id": 1318267371,
                 "language": "C",
-                "last_commit": "2026-08-18T13:08:21Z",
+                "last_commit": "2026-08-28T09:53:42Z",
                 "owner": "genkigenki",
                 "repo": "hotspot-arcade-cardputer",
                 "stars": 10
-              }
+              },
+              "first_seen": "2026-08-29T00:07:43.610Z"
             },
             {
               "node_type": "item",
@@ -468,7 +497,8 @@
                 "owner": "Mystereon",
                 "repo": "CardLife",
                 "stars": 7
-              }
+              },
+              "first_seen": "2026-08-29T00:07:43.610Z"
             }
           ],
           "description": null,
@@ -490,7 +520,8 @@
                 "owner": "geo-tp",
                 "repo": "Ultimate-Remote",
                 "stars": 199
-              }
+              },
+              "first_seen": "2026-08-29T00:07:43.610Z"
             },
             {
               "node_type": "item",
@@ -505,7 +536,8 @@
                 "owner": "cyberwisk",
                 "repo": "M5Cardputer_WebRadio",
                 "stars": 128
-              }
+              },
+              "first_seen": "2026-08-29T00:07:43.610Z"
             },
             {
               "node_type": "item",
@@ -520,7 +552,8 @@
                 "owner": "nonik0",
                 "repo": "CardputerLoRaChat",
                 "stars": 119
-              }
+              },
+              "first_seen": "2026-08-29T00:07:43.610Z"
             },
             {
               "node_type": "item",
@@ -535,7 +568,8 @@
                 "owner": "urtubia",
                 "repo": "miniacid",
                 "stars": 103
-              }
+              },
+              "first_seen": "2026-08-29T00:07:43.610Z"
             },
             {
               "node_type": "item",
@@ -550,7 +584,8 @@
                 "owner": "geo-tp",
                 "repo": "M5Cardputer-Audio-Stream-Server",
                 "stars": 102
-              }
+              },
+              "first_seen": "2026-08-29T00:07:43.610Z"
             },
             {
               "node_type": "item",
@@ -565,7 +600,8 @@
                 "owner": "Kezii",
                 "repo": "Rust-M5Stack-Cardputer",
                 "stars": 68
-              }
+              },
+              "first_seen": "2026-08-29T00:07:43.610Z"
             },
             {
               "node_type": "item",
@@ -579,8 +615,9 @@
                 "last_commit": "2023-12-30T01:38:29Z",
                 "owner": "aat440hz",
                 "repo": "SSHClient-M5Cardputer",
-                "stars": 61
-              }
+                "stars": 62
+              },
+              "first_seen": "2026-08-29T00:07:43.610Z"
             },
             {
               "node_type": "item",
@@ -595,7 +632,8 @@
                 "owner": "nishad2m8",
                 "repo": "PDAputer",
                 "stars": 61
-              }
+              },
+              "first_seen": "2026-08-29T00:07:43.610Z"
             },
             {
               "node_type": "item",
@@ -610,7 +648,8 @@
                 "owner": "VolosR",
                 "repo": "M5CardRemote",
                 "stars": 56
-              }
+              },
+              "first_seen": "2026-08-29T00:07:43.610Z"
             },
             {
               "node_type": "item",
@@ -625,7 +664,8 @@
                 "owner": "IncursioHack",
                 "repo": "ESP-Game-Server",
                 "stars": 52
-              }
+              },
+              "first_seen": "2026-08-29T00:07:43.610Z"
             },
             {
               "node_type": "item",
@@ -640,7 +680,8 @@
                 "owner": "ryu10",
                 "repo": "M5CardForth",
                 "stars": 46
-              }
+              },
+              "first_seen": "2026-08-29T00:07:43.610Z"
             },
             {
               "node_type": "item",
@@ -655,7 +696,8 @@
                 "owner": "Gitshaoxiang",
                 "repo": "M5Cardputer-BLE-HID-Keyboard",
                 "stars": 30
-              }
+              },
+              "first_seen": "2026-08-29T00:07:43.610Z"
             },
             {
               "node_type": "item",
@@ -670,7 +712,24 @@
                 "owner": "iele",
                 "repo": "M5Cardputer-C64-Emulator",
                 "stars": 25
-              }
+              },
+              "first_seen": "2026-08-29T00:07:43.610Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Telnet Client",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 729020387,
+                "language": "C++",
+                "last_commit": "2023-12-30T04:25:46Z",
+                "owner": "aat440hz",
+                "repo": "TelnetClient-M5Cardputer",
+                "stars": 22
+              },
+              "first_seen": "2026-08-29T00:07:43.610Z"
             },
             {
               "node_type": "item",
@@ -685,22 +744,8 @@
                 "owner": "avascik",
                 "repo": "weather-cardputer",
                 "stars": 22
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "Telnet Client",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "id": 729020387,
-                "language": "C++",
-                "last_commit": "2023-12-30T04:25:46Z",
-                "owner": "aat440hz",
-                "repo": "TelnetClient-M5Cardputer",
-                "stars": 21
-              }
+              },
+              "first_seen": "2026-08-29T00:07:43.610Z"
             },
             {
               "node_type": "item",
@@ -715,7 +760,8 @@
                 "owner": "JohnZ03",
                 "repo": "M5Cardputer-UserDemo",
                 "stars": 19
-              }
+              },
+              "first_seen": "2026-08-29T00:07:43.610Z"
             },
             {
               "node_type": "item",
@@ -730,7 +776,8 @@
                 "owner": "jeftheone",
                 "repo": "M5CardputerAIWiFiConnection",
                 "stars": 17
-              }
+              },
+              "first_seen": "2026-08-29T00:07:43.610Z"
             },
             {
               "node_type": "item",
@@ -745,7 +792,8 @@
                 "owner": "avascik",
                 "repo": "stopwatch-cardputer",
                 "stars": 11
-              }
+              },
+              "first_seen": "2026-08-29T00:07:43.610Z"
             },
             {
               "node_type": "item",
@@ -760,7 +808,8 @@
                 "owner": "rolandbreedveld",
                 "repo": "M5Cardputer_WebRadio_Dutch",
                 "stars": 8
-              }
+              },
+              "first_seen": "2026-08-29T00:07:43.610Z"
             },
             {
               "node_type": "item",
@@ -775,7 +824,8 @@
                 "owner": "Layer812",
                 "repo": "cardputer_eliza",
                 "stars": 8
-              }
+              },
+              "first_seen": "2026-08-29T00:07:43.610Z"
             },
             {
               "node_type": "item",
@@ -790,7 +840,8 @@
                 "owner": "prashantkamdar",
                 "repo": "M5StickCPLUS.fakeWinXP",
                 "stars": 7
-              }
+              },
+              "first_seen": "2026-08-29T00:07:43.610Z"
             },
             {
               "node_type": "item",
@@ -805,7 +856,8 @@
                 "owner": "Layer812",
                 "repo": "mdxPC",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-29T00:07:43.610Z"
             },
             {
               "node_type": "item",
@@ -820,7 +872,8 @@
                 "owner": "Layer812",
                 "repo": "vgmPC",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-29T00:07:43.610Z"
             }
           ],
           "description": null,
@@ -832,7 +885,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T00:36:35.368Z",
+    "last_updated": "2026-08-29T00:07:43.610Z",
     "original_repository_info": {
       "archived": false,
       "id": 742558696,
@@ -840,7 +893,7 @@
       "last_commit": "2026-08-02T05:01:38Z",
       "owner": "terremoth",
       "repo": "awesome-m5stack-cardputer",
-      "stars": 727
+      "stars": 729
     },
     "original_repository_sha": "d647ba1eae42047c00a41e6d2fdfe3b16a2ad5ff",
     "enhanced_repository": "enhansome/enhansome-m5stack-cardputer",
