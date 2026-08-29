@@ -72,7 +72,7 @@ These builtin apps can be found at: <https://github.com/m5stack/M5Cardputer-User
 
 ### Launchers
 
-* [M5 Launcher](https://github.com/bmorcelli/Launcher) ⭐ 2,025 | 🐛 24 | 🌐 C++ | 📅 2026-08-28 - App launcher for M5StickC, M5StickC Plus, M5StickC Plus 2 and M5Cardputer
+* [M5 Launcher](https://github.com/bmorcelli/Launcher) ⭐ 2,025 | 🐛 25 | 🌐 C++ | 📅 2026-08-28 - App launcher for M5StickC, M5StickC Plus, M5StickC Plus 2 and M5Cardputer
   * [250+ prebuilt binaries](https://bmorcelli.github.io/Launcher/catalog.html)
   * [Laucher website](https://bmorcelli.github.io/Launcher/)
 * [BerylliumOS](https://github.com/beryllium-org/OS) ⭐ 325 | 🐛 3 | 🌐 Python | 📅 2026-08-28 - Another Micro OS for Cardputer
@@ -86,9 +86,9 @@ These builtin apps can be found at: <https://github.com/m5stack/M5Cardputer-User
 
 ### Cybersecurity Related
 
-* [Cardputer Marauder ESP32](https://github.com/justcallmekoko/ESP32Marauder) ⭐ 12,153 | 🐛 332 | 🌐 C++ | 📅 2026-08-28
+* [Cardputer Marauder ESP32](https://github.com/justcallmekoko/ESP32Marauder) ⭐ 12,155 | 🐛 332 | 🌐 C++ | 📅 2026-08-29
 * [Bruce](https://github.com/pr3y/Bruce) ⭐ 6,585 | 🐛 242 | 🌐 C++ | 📅 2026-08-28
-* [ESP32 Bus Pirate](https://github.com/geo-tp/ESP32-Bus-Pirate) ⭐ 5,651 | 🐛 31 | 🌐 C++ | 📅 2026-08-25
+* [ESP32 Bus Pirate](https://github.com/geo-tp/ESP32-Bus-Pirate) ⭐ 5,654 | 🐛 31 | 🌐 C++ | 📅 2026-08-25
 * [Evil-M5Project](https://github.com/7h30th3r0n3/Evil-M5Project) ⭐ 2,548 | 🐛 18 | 🌐 C++ | 📅 2026-08-20
 * [M5 Stick NEMO](https://github.com/n0xa/m5stick-nemo) ⭐ 1,295 | 🐛 9 | 🌐 C | 📅 2026-07-15 - Hacking tools for cardputer
 * [M5PORKCHOP](https://github.com/0ct0sec/M5PORKCHOP) ⭐ 841 | 🐛 39 | 🌐 C++ | 📅 2026-06-27

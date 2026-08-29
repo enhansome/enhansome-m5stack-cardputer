@@ -12,12 +12,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Firmware Launcher for ESP32 boards like: M5Stack, Lilygo, Marauder and CYD devices.",
+                "homepage": "https://bmorcelli.github.io/Launcher/",
                 "id": 755727720,
                 "language": "C++",
+                "license": "MIT",
                 "last_commit": "2026-08-28T20:31:31Z",
+                "open_issues": 25,
                 "owner": "bmorcelli",
                 "repo": "Launcher",
-                "stars": 2025
+                "stars": 2025,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:07:43.610Z"
             },
@@ -28,12 +33,34 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Beryllium OS Micro, a unix-like operating system for CircuitPython powered microcontrollers.",
+                "homepage": null,
                 "id": 434342707,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2026-08-28T17:49:40Z",
+                "open_issues": 3,
                 "owner": "beryllium-org",
                 "repo": "Micro",
-                "stars": 325
+                "stars": 325,
+                "topics": [
+                  "beryllium",
+                  "cardputer",
+                  "circuitpython",
+                  "embedded",
+                  "esp32",
+                  "esp32-c3",
+                  "esp32-c6",
+                  "esp32-s2",
+                  "esp32-s3",
+                  "m5stack-cardputer",
+                  "microcontroller",
+                  "nrf52840",
+                  "python",
+                  "rp2040",
+                  "samd51",
+                  "seeed-wio-terminal"
+                ]
               },
               "first_seen": "2026-08-29T00:07:43.610Z"
             },
@@ -49,12 +76,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "This is a companion repository with a collection of apps for MicroHydra. ",
+                    "homepage": null,
                     "id": 758858413,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2026-03-30T04:49:30Z",
+                    "open_issues": 6,
                     "owner": "echo-lalia",
                     "repo": "MicroHydra-Apps",
-                    "stars": 84
+                    "stars": 84,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:07:43.610Z"
                 },
@@ -65,24 +97,42 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "attempt at a menu for MicroHydra https://github.com/echo-lalia/Cardputer-MicroHydra",
+                    "homepage": null,
                     "id": 759169085,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2024-04-01T16:26:20Z",
+                    "open_issues": 0,
                     "owner": "Gabriel-F-Sousa",
                     "repo": "HydraMenu",
-                    "stars": 4
+                    "stars": 4,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:07:43.610Z"
                 }
               ],
               "repo_info": {
                 "archived": false,
+                "description": "MicroHydra is a simple, 'OS-like', MicroPython based app switcher designed for ESP32 based devices.",
+                "homepage": null,
                 "id": 752958524,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2026-03-30T03:59:42Z",
+                "open_issues": 20,
                 "owner": "echo-lalia",
                 "repo": "MicroHydra",
-                "stars": 314
+                "stars": 314,
+                "topics": [
+                  "cardputer",
+                  "cyberdeck",
+                  "esp32",
+                  "launcher",
+                  "micropython",
+                  "os",
+                  "t-deck"
+                ]
               },
               "first_seen": "2026-08-29T00:07:43.610Z"
             },
@@ -93,12 +143,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "DOS-like OS for microcontroller boards running Micropython or Circuitpython",
+                "homepage": "https://www.youtube.com/watch?v=Az_oiq8GE4Y",
                 "id": 372102663,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2026-02-05T20:17:35Z",
+                "open_issues": 0,
                 "owner": "RetiredWizard",
                 "repo": "PyDOS",
-                "stars": 179
+                "stars": 179,
+                "topics": [
+                  "basic",
+                  "cardputer",
+                  "cheap-yellow-display",
+                  "circuitpython",
+                  "cortex-m7",
+                  "dos",
+                  "esp32",
+                  "esp32-2432s028",
+                  "esp32s2",
+                  "esp32s3",
+                  "micropython",
+                  "nrf52840",
+                  "pico",
+                  "python",
+                  "raspberry",
+                  "rp2040",
+                  "rp2350",
+                  "samd51",
+                  "stm32",
+                  "t-deck"
+                ]
               },
               "first_seen": "2026-08-29T00:07:43.610Z"
             },
@@ -109,12 +185,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Simple Application Launcher for M5Cardputer",
+                "homepage": null,
                 "id": 715157362,
                 "language": "C++",
+                "license": "MIT",
                 "last_commit": "2023-11-06T16:03:08Z",
+                "open_issues": 0,
                 "owner": "shikarunochi",
                 "repo": "CardputerSimpleLaucher",
-                "stars": 61
+                "stars": 61,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:07:43.610Z"
             },
@@ -125,12 +206,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A simple operating system for the M5Cardputer",
+                "homepage": null,
                 "id": 811455200,
                 "language": "C",
+                "license": "MIT",
                 "last_commit": "2024-07-22T10:54:20Z",
+                "open_issues": 0,
                 "owner": "llominski",
                 "repo": "HydraOS",
-                "stars": 25
+                "stars": 25,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:07:43.610Z"
             }
@@ -148,12 +234,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A suite of WiFi/Bluetooth offensive and defensive tools for the ESP32",
+                "homepage": "https://justcallmekokollc.com",
                 "id": 208325027,
                 "language": "C++",
-                "last_commit": "2026-08-28T20:59:06Z",
+                "license": null,
+                "last_commit": "2026-08-29T04:37:07Z",
+                "open_issues": 332,
                 "owner": "justcallmekoko",
                 "repo": "ESP32Marauder",
-                "stars": 12153
+                "stars": 12155,
+                "topics": [
+                  "arduino",
+                  "beacon",
+                  "bluetooth",
+                  "command-line",
+                  "deauthentication",
+                  "defensive",
+                  "dualband",
+                  "esp32",
+                  "esp32-c5",
+                  "esp32-s2",
+                  "espressif",
+                  "firmware",
+                  "flipperzero",
+                  "flock-safety",
+                  "offensive",
+                  "portscanner",
+                  "scanner",
+                  "wardriving",
+                  "wifi",
+                  "wpa3"
+                ]
               },
               "first_seen": "2026-08-29T00:07:43.610Z"
             },
@@ -164,12 +276,36 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Predatory ESP32 Firmware",
+                "homepage": "https://bruce.computer",
                 "id": 795166961,
                 "language": "C++",
+                "license": "AGPL-3.0",
                 "last_commit": "2026-08-28T02:59:53Z",
+                "open_issues": 242,
                 "owner": "BruceDevices",
                 "repo": "firmware",
-                "stars": 6585
+                "stars": 6585,
+                "topics": [
+                  "bruce",
+                  "cardputer",
+                  "embedded-systems",
+                  "esp32-c5",
+                  "esp32-s3",
+                  "flipperzero",
+                  "hardware",
+                  "iot",
+                  "lilygo",
+                  "m5stack",
+                  "m5stack-cardputer",
+                  "m5stack-stickc",
+                  "nfc",
+                  "offsec",
+                  "open-hardware",
+                  "pcbway",
+                  "radio",
+                  "rf"
+                ]
               },
               "first_seen": "2026-08-29T00:07:43.610Z"
             },
@@ -180,12 +316,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Hardware Hacking Tool with Web-Based CLI That Speaks Every Protocol ",
+                "homepage": "https://geo-tp.github.io/ESP32-Bit-Pirate/",
                 "id": 1014515436,
                 "language": "C++",
+                "license": "MIT",
                 "last_commit": "2026-08-25T14:43:12Z",
+                "open_issues": 31,
                 "owner": "geo-tp",
                 "repo": "ESP32-Bit-Pirate",
-                "stars": 5651
+                "stars": 5654,
+                "topics": [
+                  "arduino",
+                  "bluetooth",
+                  "can-bus",
+                  "debugging",
+                  "eeprom",
+                  "esp32",
+                  "flipperzero",
+                  "gpio",
+                  "hardware-hacking",
+                  "i2c",
+                  "jtag",
+                  "openocd",
+                  "protocols",
+                  "pwm",
+                  "radio",
+                  "rfid",
+                  "spi",
+                  "subghz",
+                  "uart",
+                  "wifi"
+                ]
               },
               "first_seen": "2026-08-29T00:07:43.610Z"
             },
@@ -196,12 +358,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Evil-M5Project is an innovative tool developed for ethical  hacking and exploration of WiFi networks. It's compatible with Cardputer, Atoms3, Fire, core2. You can scan, monitor, and interact with WiFi networks in a controlled environment. This project is designed for educational purposes, aiding in understanding network security and vulnerabilities",
+                "homepage": "https://7h30th3r0n3.fr/",
                 "id": 734739273,
                 "language": "C++",
+                "license": null,
                 "last_commit": "2026-08-20T12:37:32Z",
+                "open_issues": 18,
                 "owner": "7h30th3r0n3",
                 "repo": "Evil-M5Project",
-                "stars": 2548
+                "stars": 2548,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:07:43.610Z"
             },
@@ -212,12 +379,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "M5 Stick C firmware for high-tech pranks and digital self defense",
+                "homepage": null,
                 "id": 694486730,
                 "language": "C",
+                "license": "NOASSERTION",
                 "last_commit": "2026-07-15T03:25:58Z",
+                "open_issues": 9,
                 "owner": "n0xa",
                 "repo": "m5stick-nemo",
-                "stars": 1295
+                "stars": 1295,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:07:43.610Z"
             },
@@ -228,12 +400,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "ON NO! Someone put an RPG in a packet sniffer",
+                "homepage": "https://github.com/0ct0sec/M5PORKCHOP/releases/",
                 "id": 1110910539,
                 "language": "C++",
+                "license": "MIT",
                 "last_commit": "2026-06-27T06:31:59Z",
+                "open_issues": 39,
                 "owner": "0ct0sec",
                 "repo": "M5PORKCHOP",
-                "stars": 841
+                "stars": 841,
+                "topics": [
+                  "cybersecurity-awareness",
+                  "cybersecurity-education",
+                  "cybersecurity-tools",
+                  "esp32-s3",
+                  "security"
+                ]
               },
               "first_seen": "2026-08-29T00:07:43.610Z"
             },
@@ -244,12 +427,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "For those times when your Pwnagotchi feels lonely",
+                "homepage": null,
                 "id": 757564943,
                 "language": "C++",
+                "license": "MIT",
                 "last_commit": "2026-01-28T11:41:47Z",
+                "open_issues": 3,
                 "owner": "viniciusbo",
                 "repo": "m5-palnagotchi",
-                "stars": 81
+                "stars": 81,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:07:43.610Z"
             },
@@ -260,12 +448,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "M5StickC Plus2 compatibility",
+                "homepage": null,
                 "id": 772791577,
                 "language": "C++",
+                "license": null,
                 "last_commit": "2024-11-07T12:31:27Z",
+                "open_issues": 0,
                 "owner": "bmorcelli",
                 "repo": "io433",
-                "stars": 47
+                "stars": 47,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:07:43.610Z"
             }
@@ -283,12 +476,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Emulators  running NES, SNES, GameBoy, GameGear, Master System, Megadrive, Neo Geo Pocket, WonderSwan, Lynx, Atari7800, Atari2600, PC-Engine, Coleco, SG1000, GX4000 and MSX on ESP32 with 320KB of RAM",
+                "homepage": null,
                 "id": 1070560395,
                 "language": "C",
+                "license": "MIT",
                 "last_commit": "2026-06-01T18:25:20Z",
+                "open_issues": 15,
                 "owner": "geo-tp",
                 "repo": "Cardputer-Game-Station-Emulators",
-                "stars": 240
+                "stars": 240,
+                "topics": [
+                  "atari",
+                  "cardputer",
+                  "emulation",
+                  "emulator",
+                  "esp32",
+                  "gameboy",
+                  "gamegear",
+                  "genesis",
+                  "lynx",
+                  "master-system",
+                  "megadrive",
+                  "msx",
+                  "neo-geo",
+                  "neogeo-pocket",
+                  "neogeo-pocket-color",
+                  "nes",
+                  "pcengine",
+                  "sg1000",
+                  "snes",
+                  "wonderswan"
+                ]
               },
               "first_seen": "2026-08-29T00:07:43.610Z"
             },
@@ -299,12 +518,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This began as a little enhancement and polish added to Matteo Forlani's M5Stack Cardputer concept implementation of Peanut-GB; then I decided I might as well just finish it myself when the original project was archived. I wound up creating my own Walnut-CGB enhanced implementation which powers Gameboy Enhanced Firmware.",
+                "homepage": null,
                 "id": 798035821,
                 "language": "C",
+                "license": "NOASSERTION",
                 "last_commit": "2026-02-20T18:10:24Z",
+                "open_issues": 3,
                 "owner": "Mr-PauI",
                 "repo": "Gameboy-Enhanced-Firmware-m5stack-cardputer-",
-                "stars": 85
+                "stars": 85,
+                "topics": [
+                  "cardputer",
+                  "emulation",
+                  "enhancement",
+                  "esp32-s3",
+                  "gameboy",
+                  "gameboy-color",
+                  "m5stack",
+                  "m5stack-cardputer",
+                  "optimization",
+                  "walnut-cgb"
+                ]
               },
               "first_seen": "2026-08-29T00:07:43.610Z"
             },
@@ -315,12 +550,23 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "M5Stack Cardputer \"Port\" of Peanut-GB",
+                "homepage": null,
                 "id": 745221736,
                 "language": "C",
+                "license": null,
                 "last_commit": "2024-05-09T16:08:50Z",
+                "open_issues": 1,
                 "owner": "matteofo",
                 "repo": "gb_cardputer",
-                "stars": 71
+                "stars": 71,
+                "topics": [
+                  "cardputer",
+                  "esp32",
+                  "gameboy",
+                  "gameboy-emulator",
+                  "m5stack"
+                ]
               },
               "first_seen": "2026-08-29T00:07:43.610Z"
             },
@@ -331,12 +577,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "M5 Cardputer Math Game",
+                "homepage": null,
                 "id": 710963385,
                 "language": "C++",
+                "license": "MIT",
                 "last_commit": "2024-03-24T14:04:40Z",
+                "open_issues": 0,
                 "owner": "seanbutler",
                 "repo": "M5CardputerMathGame",
-                "stars": 36
+                "stars": 36,
+                "topics": [
+                  "arduino",
+                  "cardputer",
+                  "cpp",
+                  "little-professor",
+                  "m5cardputer",
+                  "m5stack"
+                ]
               },
               "first_seen": "2026-08-29T00:07:43.610Z"
             },
@@ -347,12 +605,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Tamagotchi Emulator for the M5Stack Cardputer & Cardputer Adv",
+                "homepage": null,
                 "id": 1104768732,
                 "language": "C++",
+                "license": null,
                 "last_commit": "2025-11-26T18:53:30Z",
+                "open_issues": 0,
                 "owner": "mindovermiles262",
                 "repo": "tamaputer",
-                "stars": 25
+                "stars": 25,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:07:43.610Z"
             },
@@ -363,12 +626,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A true 3D voxel sandbox (Minecraft-like) for the M5Stack Cardputer-Adv, built in Arduino IDE with real ray traversal, terrain generation, and block interaction.",
+                "homepage": null,
                 "id": 1185415679,
                 "language": "C++",
+                "license": "MIT",
                 "last_commit": "2026-03-18T15:47:35Z",
+                "open_issues": 0,
                 "owner": "question-and-answer",
                 "repo": "cave-mine-cardputer-alpha1",
-                "stars": 21
+                "stars": 21,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:07:43.610Z"
             },
@@ -379,12 +647,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Port of Anarch Game from ESPBoy to M5 Stack Cardputer",
+                "homepage": null,
                 "id": 813509114,
                 "language": "C",
+                "license": "CC0-1.0",
                 "last_commit": "2026-08-27T12:33:05Z",
+                "open_issues": 0,
                 "owner": "TheBricktop",
                 "repo": "Anarch-Cardputer",
-                "stars": 14
+                "stars": 14,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:07:43.610Z"
             },
@@ -395,12 +668,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Experiments in C++ with the Cardputer from M5Stack!",
+                "homepage": null,
                 "id": 757429359,
                 "language": "C++",
+                "license": null,
                 "last_commit": "2024-02-14T13:57:00Z",
+                "open_issues": 0,
                 "owner": "polyphasicdevs",
                 "repo": "Cardputer-experiments",
-                "stars": 13
+                "stars": 13,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:07:43.610Z"
             },
@@ -411,12 +689,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A 2D physics-based side-scrolling game where the player controls a vehicle across procedurally generated terrain.",
+                "homepage": null,
                 "id": 967709462,
                 "language": "C++",
+                "license": "MIT",
                 "last_commit": "2025-04-17T11:31:50Z",
+                "open_issues": 0,
                 "owner": "Treblewolf",
                 "repo": "M5Cardputer-Sun-Rider",
-                "stars": 12
+                "stars": 12,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:07:43.610Z"
             },
@@ -427,12 +710,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Snake game for M5Stack-Core with Gameboy face",
+                "homepage": null,
                 "id": 282793378,
                 "language": "C++",
+                "license": "MIT",
                 "last_commit": "2021-05-01T14:05:57Z",
+                "open_issues": 0,
                 "owner": "ostaquet",
                 "repo": "M5Snake",
-                "stars": 12
+                "stars": 12,
+                "topics": [
+                  "esp32",
+                  "m5stack",
+                  "m5stack-faces"
+                ]
               },
               "first_seen": "2026-08-29T00:07:43.610Z"
             },
@@ -443,12 +735,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A proof-of-concept port of PrBoom to the M5Stack Cardputer.",
+                "homepage": null,
                 "id": 768331440,
                 "language": null,
+                "license": null,
                 "last_commit": "2023-07-11T06:52:39Z",
+                "open_issues": 0,
                 "owner": "Logimancer",
                 "repo": "Cardputer-doom",
-                "stars": 11
+                "stars": 11,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:07:43.610Z"
             },
@@ -459,12 +756,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 756648174,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2024-02-15T21:03:29Z",
+                "open_issues": 1,
                 "owner": "foopod",
                 "repo": "tinyKnight",
-                "stars": 10
+                "stars": 10,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:07:43.610Z"
             },
@@ -475,12 +777,31 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Offline party games your guests play from their phones, hosted entirely by an M5Stack Cardputer. Opens a WiFi AP. Port of tarikbc/hotspot-arcade.",
+                "homepage": null,
                 "id": 1318267371,
                 "language": "C",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-28T09:53:42Z",
+                "open_issues": 0,
                 "owner": "genkigenki",
                 "repo": "hotspot-arcade-cardputer",
-                "stars": 10
+                "stars": 10,
+                "topics": [
+                  "airplane-mode",
+                  "captive-portal",
+                  "cardputer",
+                  "esp32",
+                  "esp32-s3",
+                  "game",
+                  "gaming",
+                  "m5stack",
+                  "multiplayer",
+                  "offline",
+                  "party-apps",
+                  "party-game",
+                  "party-games"
+                ]
               },
               "first_seen": "2026-08-29T00:07:43.610Z"
             },
@@ -491,12 +812,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Conways life on Cardputer",
+                "homepage": null,
                 "id": 848993515,
                 "language": "C",
+                "license": "CC0-1.0",
                 "last_commit": "2025-05-15T23:39:36Z",
+                "open_issues": 0,
                 "owner": "Mystereon",
                 "repo": "CardLife",
-                "stars": 7
+                "stars": 7,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:07:43.610Z"
             }
@@ -514,12 +840,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Universal remote control for the M5Cardputer, contains 3498 remote profiles from 636 different brands. Also compatible with Flipper-IRDB files",
+                "homepage": "https://www.hackster.io/geo-tp/ultimate-remote-for-the-m5stack-cardputer-12cdf0",
                 "id": 811695242,
                 "language": "C++",
+                "license": "NOASSERTION",
                 "last_commit": "2025-09-11T20:12:56Z",
+                "open_issues": 13,
                 "owner": "geo-tp",
                 "repo": "Ultimate-Remote",
-                "stars": 199
+                "stars": 199,
+                "topics": [
+                  "cardputer",
+                  "esp32",
+                  "flipperzero",
+                  "infrared",
+                  "m5cardputer",
+                  "m5stack",
+                  "remote-control"
+                ]
               },
               "first_seen": "2026-08-29T00:07:43.610Z"
             },
@@ -530,12 +869,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "M5Cardputer_WebRadio",
+                "homepage": null,
                 "id": 731736959,
                 "language": "C++",
+                "license": null,
                 "last_commit": "2026-08-15T02:55:14Z",
+                "open_issues": 0,
                 "owner": "cyberwisk",
                 "repo": "M5Cardputer_WebRadio",
-                "stars": 128
+                "stars": 128,
+                "topics": [
+                  "esp32",
+                  "esp32-s3-xtensa",
+                  "m5-cardputer",
+                  "m5stack",
+                  "m5stickcplus",
+                  "stamps3",
+                  "webradio-player"
+                ]
               },
               "first_seen": "2026-08-29T00:07:43.610Z"
             },
@@ -546,12 +898,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 741309601,
                 "language": "C++",
+                "license": null,
                 "last_commit": "2024-12-03T23:44:32Z",
+                "open_issues": 2,
                 "owner": "nonik0",
                 "repo": "CardputerLoRaChat",
-                "stars": 119
+                "stars": 119,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:07:43.610Z"
             },
@@ -562,12 +919,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An Acid style mini groovebox for the M5Stack Cardputer ADV",
+                "homepage": null,
                 "id": 1106865891,
                 "language": "C++",
+                "license": "MIT",
                 "last_commit": "2026-02-10T04:20:49Z",
+                "open_issues": 13,
                 "owner": "urtubia",
                 "repo": "miniacid",
-                "stars": 103
+                "stars": 103,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:07:43.610Z"
             },
@@ -578,12 +940,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "It sets up an audio stream server on an M5Cardputer, capturing microphone input and streaming it over a Wi-Fi connection to a web page. ",
+                "homepage": null,
                 "id": 804817569,
                 "language": "C",
+                "license": "MIT",
                 "last_commit": "2025-08-12T17:07:41Z",
+                "open_issues": 4,
                 "owner": "geo-tp",
                 "repo": "M5Cardputer-Audio-Stream-Server",
-                "stars": 102
+                "stars": 102,
+                "topics": [
+                  "audio",
+                  "esp32",
+                  "http-server",
+                  "m5cardputer",
+                  "m5stack",
+                  "microphone",
+                  "stream"
+                ]
               },
               "first_seen": "2026-08-29T00:07:43.610Z"
             },
@@ -594,12 +969,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Rust firmware hal and examples for M5Stack Cardputer",
+                "homepage": null,
                 "id": 767074265,
                 "language": "Rust",
+                "license": "GPL-3.0",
                 "last_commit": "2024-03-27T11:39:29Z",
+                "open_issues": 0,
                 "owner": "Kezii",
                 "repo": "Rust-M5Stack-Cardputer",
-                "stars": 68
+                "stars": 68,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:07:43.610Z"
             },
@@ -610,12 +990,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 733756267,
                 "language": "C++",
+                "license": "MIT",
                 "last_commit": "2023-12-30T01:38:29Z",
+                "open_issues": 3,
                 "owner": "aat440hz",
                 "repo": "SSHClient-M5Cardputer",
-                "stars": 62
+                "stars": 62,
+                "topics": [
+                  "esp32-ardunio",
+                  "m5cardputer",
+                  "m5stack",
+                  "ssh-client"
+                ]
               },
               "first_seen": "2026-08-29T00:07:43.610Z"
             },
@@ -626,12 +1016,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 1179049083,
                 "language": "C",
+                "license": null,
                 "last_commit": "2026-03-25T13:21:43Z",
+                "open_issues": 2,
                 "owner": "nishad2m8",
                 "repo": "PDAputer",
-                "stars": 61
+                "stars": 61,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:07:43.610Z"
             },
@@ -642,12 +1037,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 732089751,
                 "language": "C",
+                "license": null,
                 "last_commit": "2023-12-15T16:07:38Z",
+                "open_issues": 0,
                 "owner": "VolosR",
                 "repo": "M5CardRemote",
-                "stars": 56
+                "stars": 56,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:07:43.610Z"
             },
@@ -658,12 +1058,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": " Project that transforms ESP32 and M5 Cardputer into a Classic Console Emulator Server, the user can take advantage of this feature via a browser on an Android and IOS smartphone, computer, SmartTV or any device that has a modern browser.",
+                "homepage": null,
                 "id": 793197340,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2024-04-29T18:29:57Z",
+                "open_issues": 3,
                 "owner": "IncursioHack",
                 "repo": "ESP-Game-Server",
-                "stars": 52
+                "stars": 52,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:07:43.610Z"
             },
@@ -674,12 +1079,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 723320292,
                 "language": "C++",
+                "license": null,
                 "last_commit": "2026-04-07T01:08:35Z",
+                "open_issues": 5,
                 "owner": "ryu10",
                 "repo": "M5CardForth",
-                "stars": 46
+                "stars": 46,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:07:43.610Z"
             },
@@ -690,12 +1100,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 703955281,
                 "language": "C",
+                "license": null,
                 "last_commit": "2023-10-12T09:45:07Z",
+                "open_issues": 1,
                 "owner": "Gitshaoxiang",
                 "repo": "M5Cardputer-BLE-HID-Keyboard",
-                "stars": 30
+                "stars": 30,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:07:43.610Z"
             },
@@ -706,12 +1121,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "C64 Emulator for M5Cardputer",
+                "homepage": null,
                 "id": 824837911,
                 "language": "C++",
+                "license": "GPL-3.0",
                 "last_commit": "2024-08-22T05:24:43Z",
+                "open_issues": 0,
                 "owner": "iele",
                 "repo": "M5Cardputer-C64-Emulator",
-                "stars": 25
+                "stars": 25,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:07:43.610Z"
             },
@@ -722,12 +1142,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 729020387,
                 "language": "C++",
+                "license": "MIT",
                 "last_commit": "2023-12-30T04:25:46Z",
+                "open_issues": 0,
                 "owner": "aat440hz",
                 "repo": "TelnetClient-M5Cardputer",
-                "stars": 22
+                "stars": 22,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:07:43.610Z"
             },
@@ -738,12 +1163,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Simple weather app for M5Stack Cardputer",
+                "homepage": null,
                 "id": 758519391,
                 "language": "C++",
+                "license": "GPL-3.0",
                 "last_commit": "2024-02-17T17:28:57Z",
+                "open_issues": 0,
                 "owner": "avascik",
                 "repo": "weather-cardputer",
-                "stars": 22
+                "stars": 22,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:07:43.610Z"
             },
@@ -754,12 +1184,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "M5Cardputer user demo for hardware evaluation.",
+                "homepage": null,
                 "id": 736472649,
                 "language": "C",
+                "license": "MIT",
                 "last_commit": "2024-01-30T13:38:48Z",
+                "open_issues": 0,
                 "owner": "JohnZ03",
                 "repo": "M5Cardputer-UserDemo",
-                "stars": 19
+                "stars": 19,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:07:43.610Z"
             },
@@ -770,12 +1205,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An upgrade to FelipeLima2 AI Chat for Cardputer that search for SSIDs, and as for password",
+                "homepage": null,
                 "id": 786581099,
                 "language": "C++",
+                "license": "GPL-2.0",
                 "last_commit": "2024-04-14T22:36:07Z",
+                "open_issues": 0,
                 "owner": "jeftheone",
                 "repo": "M5CardputerAIWiFiConnection",
-                "stars": 17
+                "stars": 17,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:07:43.610Z"
             },
@@ -786,12 +1226,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Simple stopwatch app for M5Stack Cardputer",
+                "homepage": null,
                 "id": 758528667,
                 "language": "C++",
+                "license": "GPL-3.0",
                 "last_commit": "2024-02-16T14:44:14Z",
+                "open_issues": 0,
                 "owner": "avascik",
                 "repo": "stopwatch-cardputer",
-                "stars": 11
+                "stars": 11,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:07:43.610Z"
             },
@@ -802,12 +1247,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "M5Cardputer_WebRadio_Dutch",
+                "homepage": null,
                 "id": 805815914,
                 "language": "C++",
+                "license": null,
                 "last_commit": "2024-07-26T14:45:48Z",
+                "open_issues": 1,
                 "owner": "rolandbreedveld",
                 "repo": "M5Cardputer_WebRadio_Dutch",
-                "stars": 8
+                "stars": 8,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:07:43.610Z"
             },
@@ -818,12 +1268,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 831682069,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2024-07-21T10:32:20Z",
+                "open_issues": 0,
                 "owner": "Layer812",
                 "repo": "cardputer_eliza",
-                "stars": 8
+                "stars": 8,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:07:43.610Z"
             },
@@ -834,12 +1289,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 442394938,
                 "language": "C",
+                "license": null,
                 "last_commit": "2022-01-01T10:15:44Z",
+                "open_issues": 0,
                 "owner": "prashantkamdar",
                 "repo": "M5StickCPLUS.fakeWinXP",
-                "stars": 7
+                "stars": 7,
+                "topics": [
+                  "arduino",
+                  "m5stickc",
+                  "m5stickcplus",
+                  "winxp"
+                ]
               },
               "first_seen": "2026-08-29T00:07:43.610Z"
             },
@@ -850,12 +1315,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "MDX (mxdrv) file Player for Cardputer",
+                "homepage": null,
                 "id": 880350658,
                 "language": "C",
+                "license": "GPL-3.0",
                 "last_commit": "2025-10-26T07:03:00Z",
+                "open_issues": 0,
                 "owner": "Layer812",
                 "repo": "mdxPC",
-                "stars": 4
+                "stars": 4,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:07:43.610Z"
             },
@@ -866,12 +1336,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "VGM Player for Cardputer",
+                "homepage": null,
                 "id": 859291181,
                 "language": null,
+                "license": null,
                 "last_commit": "2026-06-13T00:33:13Z",
+                "open_issues": 0,
                 "owner": "Layer812",
                 "repo": "vgmPC",
-                "stars": 4
+                "stars": 4,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:07:43.610Z"
             }
@@ -885,15 +1360,28 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T00:07:43.610Z",
+    "last_updated": "2026-08-29T04:39:43.088Z",
     "original_repository_info": {
       "archived": false,
+      "description": "Awesome M5Stack Cardputer",
+      "homepage": null,
       "id": 742558696,
       "language": null,
+      "license": "GPL-3.0",
       "last_commit": "2026-08-02T05:01:38Z",
+      "open_issues": 0,
       "owner": "terremoth",
       "repo": "awesome-m5stack-cardputer",
-      "stars": 729
+      "stars": 729,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "awesome-lists",
+        "cardputer",
+        "cardputer-adv",
+        "m5stack",
+        "m5stack-cardputer"
+      ]
     },
     "original_repository_sha": "d647ba1eae42047c00a41e6d2fdfe3b16a2ad5ff",
     "enhanced_repository": "enhansome/enhansome-m5stack-cardputer",
