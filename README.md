@@ -66,13 +66,13 @@ From ESP32-S3Fn8 ([Datasheet](https://www.espressif.com/sites/default/files/docu
 * Timer
 * Keyboard (USB or Bluetooth) connector
 
-These builtin apps can be found at: <https://github.com/m5stack/M5Cardputer-UserDemo> ⭐ 338 | 🐛 8 | 🌐 C | 📅 2026-07-17
+These builtin apps can be found at: <https://github.com/m5stack/M5Cardputer-UserDemo> ⭐ 339 | 🐛 8 | 🌐 C | 📅 2026-07-17
 
 ## Community Apps
 
 ### Launchers
 
-* [M5 Launcher](https://github.com/bmorcelli/Launcher) ⭐ 2,033 | 🐛 24 | 🌐 C++ | 📅 2026-08-29 - App launcher for M5StickC, M5StickC Plus, M5StickC Plus 2 and M5Cardputer
+* [M5 Launcher](https://github.com/bmorcelli/Launcher) ⭐ 2,040 | 🐛 24 | 🌐 C++ | 📅 2026-08-31 - App launcher for M5StickC, M5StickC Plus, M5StickC Plus 2 and M5Cardputer
   * [250+ prebuilt binaries](https://bmorcelli.github.io/Launcher/catalog.html)
   * [Laucher website](https://bmorcelli.github.io/Launcher/)
 * [BerylliumOS](https://github.com/beryllium-org/OS) ⭐ 325 | 🐛 3 | 🌐 Python | 📅 2026-08-28 - Another Micro OS for Cardputer
@@ -86,12 +86,12 @@ These builtin apps can be found at: <https://github.com/m5stack/M5Cardputer-User
 
 ### Cybersecurity Related
 
-* [Cardputer Marauder ESP32](https://github.com/justcallmekoko/ESP32Marauder) ⭐ 12,172 | 🐛 335 | 🌐 C++ | 📅 2026-08-29
-* [Bruce](https://github.com/pr3y/Bruce) ⭐ 6,605 | 🐛 242 | 🌐 C++ | 📅 2026-08-29
-* [ESP32 Bus Pirate](https://github.com/geo-tp/ESP32-Bus-Pirate) ⭐ 5,663 | 🐛 30 | 🌐 C++ | 📅 2026-08-30
-* [Evil-M5Project](https://github.com/7h30th3r0n3/Evil-M5Project) ⭐ 2,552 | 🐛 18 | 🌐 C++ | 📅 2026-08-20
-* [M5 Stick NEMO](https://github.com/n0xa/m5stick-nemo) ⭐ 1,296 | 🐛 9 | 🌐 C | 📅 2026-07-15 - Hacking tools for cardputer
-* [M5PORKCHOP](https://github.com/0ct0sec/M5PORKCHOP) ⭐ 844 | 🐛 39 | 🌐 C++ | 📅 2026-06-27
+* [Cardputer Marauder ESP32](https://github.com/justcallmekoko/ESP32Marauder) ⭐ 12,183 | 🐛 331 | 🌐 C++ | 📅 2026-08-29
+* [Bruce](https://github.com/pr3y/Bruce) ⭐ 6,607 | 🐛 243 | 🌐 C++ | 📅 2026-08-31
+* [ESP32 Bus Pirate](https://github.com/geo-tp/ESP32-Bus-Pirate) ⭐ 5,668 | 🐛 30 | 🌐 C++ | 📅 2026-08-30
+* [Evil-M5Project](https://github.com/7h30th3r0n3/Evil-M5Project) ⭐ 2,557 | 🐛 18 | 🌐 C++ | 📅 2026-08-20
+* [M5 Stick NEMO](https://github.com/n0xa/m5stick-nemo) ⭐ 1,297 | 🐛 9 | 🌐 C | 📅 2026-07-15 - Hacking tools for cardputer
+* [M5PORKCHOP](https://github.com/0ct0sec/M5PORKCHOP) ⭐ 845 | 🐛 39 | 🌐 C++ | 📅 2026-06-27
 * [Palnagotchi](https://github.com/viniciusbo/m5-palnagotchi) ⭐ 81 | 🐛 3 | 🌐 C++ | 📅 2026-01-28
 * [433Mhz sniffer](https://github.com/bmorcelli/io433) ⭐ 47 | 🐛 0 | 🌐 C++ | 📅 2024-11-07
 
@@ -116,11 +116,11 @@ These builtin apps can be found at: <https://github.com/m5stack/M5Cardputer-User
 
 * [Universal remote control](https://github.com/geo-tp/Ultimate-Remote) ⭐ 200 | 🐛 13 | 🌐 C++ | 📅 2025-09-11
 * [Cardputer WebRadio](https://github.com/cyberwisk/M5Cardputer_WebRadio) ⭐ 128 | 🐛 0 | 🌐 C++ | 📅 2026-08-15
-* [Lora Chat App](https://github.com/nonik0/CardputerLoRaChat) ⭐ 119 | 🐛 2 | 🌐 C++ | 📅 2024-12-03
+* [Lora Chat App](https://github.com/nonik0/CardputerLoRaChat) ⭐ 120 | 🐛 2 | 🌐 C++ | 📅 2024-12-03
 * [MiniAcid](https://github.com/urtubia/miniacid) ⭐ 104 | 🐛 13 | 🌐 C++ | 📅 2026-02-10
   * [Demo site](https://miniacid.mrbook.org)
 * [Audio Stream Server](https://github.com/geo-tp/M5Cardputer-Audio-Stream-Server) ⭐ 102 | 🐛 4 | 🌐 C | 📅 2025-08-12
-* [Rust firmware hal and examples](https://github.com/Kezii/Rust-M5Stack-Cardputer) ⭐ 68 | 🐛 0 | 🌐 Rust | 📅 2024-03-27
+* [Rust firmware hal and examples](https://github.com/Kezii/Rust-M5Stack-Cardputer) ⭐ 69 | 🐛 0 | 🌐 Rust | 📅 2024-03-27
 * [SSH Client By aat440z](https://github.com/aat440hz/SSHClient-M5Cardputer) ⭐ 62 | 🐛 3 | 🌐 C++ | 📅 2023-12-30 | [By fernandofatech](https://github.com/fernandofatech/M5Cardputer-SSHClient) ⭐ 67 | 🐛 1 | 🌐 C++ | 📅 2026-05-16 | [By SUB0PT1MAL](https://github.com/aat440hz/SSHClient-M5Cardputer) ⭐ 62 | 🐛 3 | 🌐 C++ | 📅 2023-12-30
 * [PDAputer](https://github.com/nishad2m8/PDAputer) ⭐ 61 | 🐛 2 | 🌐 C | 📅 2026-03-25
 * [Volos Cardputer TV Remote](https://github.com/VolosR/M5CardRemote/) ⭐ 56 | 🐛 0 | 🌐 C | 📅 2023-12-15
@@ -141,4 +141,4 @@ These builtin apps can be found at: <https://github.com/m5stack/M5Cardputer-User
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-30._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-31._
