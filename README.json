@@ -17,11 +17,11 @@
                 "id": 755727720,
                 "language": "C++",
                 "license": "MIT",
-                "last_commit": "2026-08-31T17:07:44Z",
-                "open_issues": 24,
+                "last_commit": "2026-09-02T10:38:27Z",
+                "open_issues": 23,
                 "owner": "bmorcelli",
                 "repo": "Launcher",
-                "stars": 2047,
+                "stars": 2048,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:07:43.610Z"
@@ -240,10 +240,10 @@
                 "language": "C++",
                 "license": null,
                 "last_commit": "2026-08-29T20:32:20Z",
-                "open_issues": 332,
+                "open_issues": 333,
                 "owner": "justcallmekoko",
                 "repo": "ESP32Marauder",
-                "stars": 12189,
+                "stars": 12199,
                 "topics": [
                   "arduino",
                   "beacon",
@@ -285,7 +285,7 @@
                 "open_issues": 244,
                 "owner": "BruceDevices",
                 "repo": "firmware",
-                "stars": 6615,
+                "stars": 6625,
                 "topics": [
                   "bruce",
                   "cardputer",
@@ -325,7 +325,7 @@
                 "open_issues": 30,
                 "owner": "geo-tp",
                 "repo": "ESP32-Bit-Pirate",
-                "stars": 5671,
+                "stars": 5675,
                 "topics": [
                   "arduino",
                   "bluetooth",
@@ -367,7 +367,7 @@
                 "open_issues": 18,
                 "owner": "7h30th3r0n3",
                 "repo": "Evil-M5Project",
-                "stars": 2564,
+                "stars": 2565,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:07:43.610Z"
@@ -388,7 +388,7 @@
                 "open_issues": 9,
                 "owner": "n0xa",
                 "repo": "m5stick-nemo",
-                "stars": 1298,
+                "stars": 1300,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:07:43.610Z"
@@ -409,7 +409,7 @@
                 "open_issues": 39,
                 "owner": "0ct0sec",
                 "repo": "M5PORKCHOP",
-                "stars": 846,
+                "stars": 847,
                 "topics": [
                   "cybersecurity-awareness",
                   "cybersecurity-education",
@@ -524,7 +524,7 @@
                 "language": "C",
                 "license": "NOASSERTION",
                 "last_commit": "2026-02-20T18:10:24Z",
-                "open_issues": 4,
+                "open_issues": 3,
                 "owner": "Mr-PauI",
                 "repo": "Gameboy-Enhanced-Firmware-m5stack-cardputer-",
                 "stars": 85,
@@ -782,7 +782,7 @@
                 "id": 1318267371,
                 "language": "C",
                 "license": "NOASSERTION",
-                "last_commit": "2026-08-28T09:53:42Z",
+                "last_commit": "2026-09-01T21:26:24Z",
                 "open_issues": 0,
                 "owner": "genkigenki",
                 "repo": "hotspot-arcade-cardputer",
@@ -878,7 +878,7 @@
                 "open_issues": 0,
                 "owner": "cyberwisk",
                 "repo": "M5Cardputer_WebRadio",
-                "stars": 128,
+                "stars": 129,
                 "topics": [
                   "esp32",
                   "esp32-s3-xtensa",
@@ -949,7 +949,7 @@
                 "open_issues": 4,
                 "owner": "geo-tp",
                 "repo": "M5Cardputer-Audio-Stream-Server",
-                "stars": 102,
+                "stars": 104,
                 "topics": [
                   "audio",
                   "esp32",
@@ -1360,7 +1360,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-01T18:51:06.812Z",
+    "last_updated": "2026-09-02T18:57:17.982Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome M5Stack Cardputer",
@@ -1372,7 +1372,7 @@
       "open_issues": 0,
       "owner": "terremoth",
       "repo": "awesome-m5stack-cardputer",
-      "stars": 731,
+      "stars": 732,
       "topics": [
         "awesome",
         "awesome-list",
