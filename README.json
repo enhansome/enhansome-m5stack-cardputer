@@ -17,11 +17,11 @@
                 "id": 755727720,
                 "language": "C++",
                 "license": "MIT",
-                "last_commit": "2026-09-08T10:17:59Z",
+                "last_commit": "2026-09-09T13:20:45Z",
                 "open_issues": 13,
                 "owner": "bmorcelli",
                 "repo": "Launcher",
-                "stars": 2079,
+                "stars": 2085,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:07:43.610Z"
@@ -81,8 +81,8 @@
                     "id": 758858413,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-03-30T04:49:30Z",
-                    "open_issues": 6,
+                    "last_commit": "2026-09-09T05:51:49Z",
+                    "open_issues": 3,
                     "owner": "echo-lalia",
                     "repo": "MicroHydra-Apps",
                     "stars": 84,
@@ -239,11 +239,11 @@
                 "id": 208325027,
                 "language": "C++",
                 "license": null,
-                "last_commit": "2026-09-08T05:08:12Z",
-                "open_issues": 329,
+                "last_commit": "2026-09-09T03:18:39Z",
+                "open_issues": 327,
                 "owner": "justcallmekoko",
                 "repo": "ESP32Marauder",
-                "stars": 12260,
+                "stars": 12283,
                 "topics": [
                   "arduino",
                   "beacon",
@@ -281,11 +281,11 @@
                 "id": 795166961,
                 "language": "C++",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-09-07T20:42:57Z",
-                "open_issues": 249,
+                "last_commit": "2026-09-09T17:39:28Z",
+                "open_issues": 241,
                 "owner": "BruceDevices",
                 "repo": "firmware",
-                "stars": 6676,
+                "stars": 6688,
                 "topics": [
                   "bruce",
                   "cardputer",
@@ -325,7 +325,7 @@
                 "open_issues": 29,
                 "owner": "geo-tp",
                 "repo": "ESP32-Bit-Pirate",
-                "stars": 5705,
+                "stars": 5709,
                 "topics": [
                   "arduino",
                   "bluetooth",
@@ -367,7 +367,7 @@
                 "open_issues": 18,
                 "owner": "7h30th3r0n3",
                 "repo": "Evil-M5Project",
-                "stars": 2595,
+                "stars": 2606,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:07:43.610Z"
@@ -388,7 +388,7 @@
                 "open_issues": 9,
                 "owner": "n0xa",
                 "repo": "m5stick-nemo",
-                "stars": 1300,
+                "stars": 1301,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:07:43.610Z"
@@ -409,7 +409,7 @@
                 "open_issues": 38,
                 "owner": "0ct0sec",
                 "repo": "M5PORKCHOP",
-                "stars": 856,
+                "stars": 859,
                 "topics": [
                   "cybersecurity-awareness",
                   "cybersecurity-education",
@@ -485,7 +485,7 @@
                 "open_issues": 15,
                 "owner": "geo-tp",
                 "repo": "Cardputer-Game-Station-Emulators",
-                "stars": 243,
+                "stars": 242,
                 "topics": [
                   "atari",
                   "cardputer",
@@ -849,7 +849,7 @@
                 "open_issues": 13,
                 "owner": "geo-tp",
                 "repo": "Ultimate-Remote",
-                "stars": 200,
+                "stars": 199,
                 "topics": [
                   "cardputer",
                   "esp32",
@@ -1360,7 +1360,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-08T18:58:59.431Z",
+    "last_updated": "2026-09-09T18:51:26.125Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome M5Stack Cardputer",
