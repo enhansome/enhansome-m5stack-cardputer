@@ -17,11 +17,11 @@
                 "id": 755727720,
                 "language": "C++",
                 "license": "MIT",
-                "last_commit": "2026-09-10T12:19:24Z",
+                "last_commit": "2026-09-11T16:56:58Z",
                 "open_issues": 13,
                 "owner": "bmorcelli",
                 "repo": "Launcher",
-                "stars": 2091,
+                "stars": 2104,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:07:43.610Z"
@@ -239,11 +239,11 @@
                 "id": 208325027,
                 "language": "C++",
                 "license": null,
-                "last_commit": "2026-09-10T18:20:47Z",
-                "open_issues": 327,
+                "last_commit": "2026-09-10T21:51:24Z",
+                "open_issues": 329,
                 "owner": "justcallmekoko",
                 "repo": "ESP32Marauder",
-                "stars": 12299,
+                "stars": 12315,
                 "topics": [
                   "arduino",
                   "beacon",
@@ -281,11 +281,11 @@
                 "id": 795166961,
                 "language": "C++",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-09-09T17:39:28Z",
-                "open_issues": 239,
+                "last_commit": "2026-09-11T15:26:26Z",
+                "open_issues": 242,
                 "owner": "BruceDevices",
                 "repo": "firmware",
-                "stars": 6696,
+                "stars": 6713,
                 "topics": [
                   "bruce",
                   "cardputer",
@@ -325,7 +325,7 @@
                 "open_issues": 29,
                 "owner": "geo-tp",
                 "repo": "ESP32-Bit-Pirate",
-                "stars": 5760,
+                "stars": 5775,
                 "topics": [
                   "arduino",
                   "bluetooth",
@@ -367,7 +367,7 @@
                 "open_issues": 18,
                 "owner": "7h30th3r0n3",
                 "repo": "Evil-M5Project",
-                "stars": 2623,
+                "stars": 2626,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:07:43.610Z"
@@ -405,11 +405,11 @@
                 "id": 1110910539,
                 "language": "C++",
                 "license": "MIT",
-                "last_commit": "2026-06-27T06:31:59Z",
+                "last_commit": "2026-09-11T09:43:29Z",
                 "open_issues": 38,
                 "owner": "0ct0sec",
                 "repo": "M5PORKCHOP",
-                "stars": 861,
+                "stars": 863,
                 "topics": [
                   "cybersecurity-awareness",
                   "cybersecurity-education",
@@ -523,7 +523,7 @@
                 "id": 798035821,
                 "language": "C",
                 "license": "NOASSERTION",
-                "last_commit": "2026-02-20T18:10:24Z",
+                "last_commit": "2026-09-10T19:23:52Z",
                 "open_issues": 3,
                 "owner": "Mr-PauI",
                 "repo": "Gameboy-Enhanced-Firmware-m5stack-cardputer-",
@@ -849,7 +849,7 @@
                 "open_issues": 13,
                 "owner": "geo-tp",
                 "repo": "Ultimate-Remote",
-                "stars": 200,
+                "stars": 201,
                 "topics": [
                   "cardputer",
                   "esp32",
@@ -985,6 +985,27 @@
             },
             {
               "node_type": "item",
+              "title": "PDAputer",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": null,
+                "homepage": null,
+                "id": 1179049083,
+                "language": "C",
+                "license": null,
+                "last_commit": "2026-03-25T13:21:43Z",
+                "open_issues": 3,
+                "owner": "nishad2m8",
+                "repo": "PDAputer",
+                "stars": 63,
+                "topics": []
+              },
+              "first_seen": "2026-08-29T00:07:43.610Z"
+            },
+            {
+              "node_type": "item",
               "title": "SSH Client By aat440z",
               "description": "By fernandofatech | By SUB0PT1MAL",
               "children": [],
@@ -1006,27 +1027,6 @@
                   "m5stack",
                   "ssh-client"
                 ]
-              },
-              "first_seen": "2026-08-29T00:07:43.610Z"
-            },
-            {
-              "node_type": "item",
-              "title": "PDAputer",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": null,
-                "homepage": null,
-                "id": 1179049083,
-                "language": "C",
-                "license": null,
-                "last_commit": "2026-03-25T13:21:43Z",
-                "open_issues": 2,
-                "owner": "nishad2m8",
-                "repo": "PDAputer",
-                "stars": 62,
-                "topics": []
               },
               "first_seen": "2026-08-29T00:07:43.610Z"
             },
@@ -1360,7 +1360,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-10T18:40:58.242Z",
+    "last_updated": "2026-09-11T18:44:45.308Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome M5Stack Cardputer",
@@ -1372,7 +1372,7 @@
       "open_issues": 0,
       "owner": "terremoth",
       "repo": "awesome-m5stack-cardputer",
-      "stars": 739,
+      "stars": 740,
       "topics": [
         "awesome",
         "awesome-list",
