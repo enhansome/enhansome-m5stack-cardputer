@@ -18,10 +18,10 @@
                 "language": "C++",
                 "license": "MIT",
                 "last_commit": "2026-09-11T16:56:58Z",
-                "open_issues": 15,
+                "open_issues": 16,
                 "owner": "bmorcelli",
                 "repo": "Launcher",
-                "stars": 2107,
+                "stars": 2112,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:07:43.610Z"
@@ -240,10 +240,10 @@
                 "language": "C++",
                 "license": null,
                 "last_commit": "2026-09-12T03:53:04Z",
-                "open_issues": 329,
+                "open_issues": 330,
                 "owner": "justcallmekoko",
                 "repo": "ESP32Marauder",
-                "stars": 12325,
+                "stars": 12339,
                 "topics": [
                   "arduino",
                   "beacon",
@@ -281,11 +281,11 @@
                 "id": 795166961,
                 "language": "C++",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-09-11T15:26:26Z",
+                "last_commit": "2026-09-12T22:01:42Z",
                 "open_issues": 242,
                 "owner": "BruceDevices",
                 "repo": "firmware",
-                "stars": 6716,
+                "stars": 6725,
                 "topics": [
                   "bruce",
                   "cardputer",
@@ -325,7 +325,7 @@
                 "open_issues": 30,
                 "owner": "geo-tp",
                 "repo": "ESP32-Bit-Pirate",
-                "stars": 5796,
+                "stars": 5806,
                 "topics": [
                   "arduino",
                   "bluetooth",
@@ -367,7 +367,7 @@
                 "open_issues": 18,
                 "owner": "7h30th3r0n3",
                 "repo": "Evil-M5Project",
-                "stars": 2630,
+                "stars": 2631,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:07:43.610Z"
@@ -457,7 +457,7 @@
                 "open_issues": 0,
                 "owner": "bmorcelli",
                 "repo": "io433",
-                "stars": 47,
+                "stars": 48,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:07:43.610Z"
@@ -1360,7 +1360,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-12T17:50:36.040Z",
+    "last_updated": "2026-09-13T18:20:30.191Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome M5Stack Cardputer",
