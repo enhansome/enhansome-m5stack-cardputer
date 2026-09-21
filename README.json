@@ -21,7 +21,7 @@
                 "open_issues": 17,
                 "owner": "bmorcelli",
                 "repo": "Launcher",
-                "stars": 2139,
+                "stars": 2141,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:07:43.610Z"
@@ -240,10 +240,10 @@
                 "language": "C++",
                 "license": null,
                 "last_commit": "2026-09-17T02:33:59Z",
-                "open_issues": 333,
+                "open_issues": 334,
                 "owner": "justcallmekoko",
                 "repo": "ESP32Marauder",
-                "stars": 12410,
+                "stars": 12415,
                 "topics": [
                   "arduino",
                   "beacon",
@@ -282,10 +282,10 @@
                 "language": "C++",
                 "license": "AGPL-3.0",
                 "last_commit": "2026-09-18T23:31:13Z",
-                "open_issues": 239,
+                "open_issues": 241,
                 "owner": "BruceDevices",
                 "repo": "firmware",
-                "stars": 6788,
+                "stars": 6799,
                 "topics": [
                   "bruce",
                   "cardputer",
@@ -322,10 +322,10 @@
                 "language": "C++",
                 "license": "MIT",
                 "last_commit": "2026-09-16T19:16:02Z",
-                "open_issues": 30,
+                "open_issues": 31,
                 "owner": "geo-tp",
                 "repo": "ESP32-Bit-Pirate",
-                "stars": 5876,
+                "stars": 5880,
                 "topics": [
                   "arduino",
                   "bluetooth",
@@ -367,7 +367,7 @@
                 "open_issues": 19,
                 "owner": "7h30th3r0n3",
                 "repo": "Evil-M5Project",
-                "stars": 2647,
+                "stars": 2654,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:07:43.610Z"
@@ -409,7 +409,7 @@
                 "open_issues": 39,
                 "owner": "0ct0sec",
                 "repo": "M5PORKCHOP",
-                "stars": 875,
+                "stars": 877,
                 "topics": [
                   "cybersecurity-awareness",
                   "cybersecurity-education",
@@ -949,7 +949,7 @@
                 "open_issues": 4,
                 "owner": "geo-tp",
                 "repo": "M5Cardputer-Audio-Stream-Server",
-                "stars": 106,
+                "stars": 107,
                 "topics": [
                   "audio",
                   "esp32",
@@ -978,7 +978,7 @@
                 "open_issues": 0,
                 "owner": "Kezii",
                 "repo": "Rust-M5Stack-Cardputer",
-                "stars": 69,
+                "stars": 70,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:07:43.610Z"
@@ -1360,7 +1360,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-20T18:18:32.078Z",
+    "last_updated": "2026-09-21T20:07:37.579Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome M5Stack Cardputer",
@@ -1372,7 +1372,7 @@
       "open_issues": 0,
       "owner": "terremoth",
       "repo": "awesome-m5stack-cardputer",
-      "stars": 752,
+      "stars": 754,
       "topics": [
         "awesome",
         "awesome-list",
