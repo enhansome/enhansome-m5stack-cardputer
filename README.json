@@ -21,7 +21,7 @@
                 "open_issues": 17,
                 "owner": "bmorcelli",
                 "repo": "Launcher",
-                "stars": 2149,
+                "stars": 2153,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:07:43.610Z"
@@ -85,7 +85,7 @@
                     "open_issues": 3,
                     "owner": "echo-lalia",
                     "repo": "MicroHydra-Apps",
-                    "stars": 84,
+                    "stars": 83,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:07:43.610Z"
@@ -123,7 +123,7 @@
                 "open_issues": 20,
                 "owner": "echo-lalia",
                 "repo": "MicroHydra",
-                "stars": 316,
+                "stars": 314,
                 "topics": [
                   "cardputer",
                   "cyberdeck",
@@ -215,7 +215,7 @@
                 "open_issues": 0,
                 "owner": "lunalna",
                 "repo": "HydraOS",
-                "stars": 26,
+                "stars": 25,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:07:43.610Z"
@@ -243,7 +243,7 @@
                 "open_issues": 334,
                 "owner": "justcallmekoko",
                 "repo": "ESP32Marauder",
-                "stars": 12434,
+                "stars": 12451,
                 "topics": [
                   "arduino",
                   "beacon",
@@ -282,10 +282,10 @@
                 "language": "C++",
                 "license": "AGPL-3.0",
                 "last_commit": "2026-09-18T23:31:13Z",
-                "open_issues": 239,
+                "open_issues": 237,
                 "owner": "BruceDevices",
                 "repo": "firmware",
-                "stars": 6818,
+                "stars": 6826,
                 "topics": [
                   "bruce",
                   "cardputer",
@@ -322,10 +322,10 @@
                 "language": "C++",
                 "license": "MIT",
                 "last_commit": "2026-09-16T19:16:02Z",
-                "open_issues": 32,
+                "open_issues": 31,
                 "owner": "geo-tp",
                 "repo": "ESP32-Bit-Pirate",
-                "stars": 5899,
+                "stars": 5903,
                 "topics": [
                   "arduino",
                   "bluetooth",
@@ -367,7 +367,7 @@
                 "open_issues": 19,
                 "owner": "7h30th3r0n3",
                 "repo": "Evil-M5Project",
-                "stars": 2661,
+                "stars": 2664,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:07:43.610Z"
@@ -409,7 +409,7 @@
                 "open_issues": 39,
                 "owner": "0ct0sec",
                 "repo": "M5PORKCHOP",
-                "stars": 878,
+                "stars": 883,
                 "topics": [
                   "cybersecurity-awareness",
                   "cybersecurity-education",
@@ -485,7 +485,7 @@
                 "open_issues": 15,
                 "owner": "geo-tp",
                 "repo": "Cardputer-Game-Station-Emulators",
-                "stars": 247,
+                "stars": 246,
                 "topics": [
                   "atari",
                   "cardputer",
@@ -751,41 +751,6 @@
             },
             {
               "node_type": "item",
-              "title": "Hotspot Arcade",
-              "description": "Several offline party games your guests play from their phones",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Offline party games your guests play from their phones, hosted entirely by an M5Stack Cardputer. Opens a WiFi AP. Port of tarikbc/hotspot-arcade.",
-                "homepage": null,
-                "id": 1318267371,
-                "language": "C",
-                "license": "NOASSERTION",
-                "last_commit": "2026-09-04T21:35:24Z",
-                "open_issues": 0,
-                "owner": "genkigenki",
-                "repo": "hotspot-arcade-cardputer",
-                "stars": 11,
-                "topics": [
-                  "airplane-mode",
-                  "captive-portal",
-                  "cardputer",
-                  "esp32",
-                  "esp32-s3",
-                  "game",
-                  "gaming",
-                  "m5stack",
-                  "multiplayer",
-                  "offline",
-                  "party-apps",
-                  "party-game",
-                  "party-games"
-                ]
-              },
-              "first_seen": "2026-08-29T00:07:43.610Z"
-            },
-            {
-              "node_type": "item",
               "title": "TinyKnight Game",
               "description": null,
               "children": [],
@@ -802,6 +767,41 @@
                 "repo": "tinyKnight",
                 "stars": 10,
                 "topics": []
+              },
+              "first_seen": "2026-08-29T00:07:43.610Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Hotspot Arcade",
+              "description": "Several offline party games your guests play from their phones",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Offline party games your guests play from their phones, hosted entirely by an M5Stack Cardputer. Opens a WiFi AP. Port of tarikbc/hotspot-arcade.",
+                "homepage": null,
+                "id": 1318267371,
+                "language": "C",
+                "license": "NOASSERTION",
+                "last_commit": "2026-09-04T21:35:24Z",
+                "open_issues": 0,
+                "owner": "genkigenki",
+                "repo": "hotspot-arcade-cardputer",
+                "stars": 10,
+                "topics": [
+                  "airplane-mode",
+                  "captive-portal",
+                  "cardputer",
+                  "esp32",
+                  "esp32-s3",
+                  "game",
+                  "gaming",
+                  "m5stack",
+                  "multiplayer",
+                  "offline",
+                  "party-apps",
+                  "party-game",
+                  "party-games"
+                ]
               },
               "first_seen": "2026-08-29T00:07:43.610Z"
             },
@@ -949,7 +949,7 @@
                 "open_issues": 4,
                 "owner": "geo-tp",
                 "repo": "M5Cardputer-Audio-Stream-Server",
-                "stars": 107,
+                "stars": 106,
                 "topics": [
                   "audio",
                   "esp32",
@@ -985,32 +985,6 @@
             },
             {
               "node_type": "item",
-              "title": "SSH Client By aat440z",
-              "description": "By fernandofatech | By SUB0PT1MAL",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": null,
-                "homepage": null,
-                "id": 733756267,
-                "language": "C++",
-                "license": "MIT",
-                "last_commit": "2023-12-30T01:38:29Z",
-                "open_issues": 3,
-                "owner": "aat440hz",
-                "repo": "SSHClient-M5Cardputer",
-                "stars": 63,
-                "topics": [
-                  "esp32-ardunio",
-                  "m5cardputer",
-                  "m5stack",
-                  "ssh-client"
-                ]
-              },
-              "first_seen": "2026-08-29T00:07:43.610Z"
-            },
-            {
-              "node_type": "item",
               "title": "PDAputer",
               "description": null,
               "children": [],
@@ -1027,6 +1001,32 @@
                 "repo": "PDAputer",
                 "stars": 63,
                 "topics": []
+              },
+              "first_seen": "2026-08-29T00:07:43.610Z"
+            },
+            {
+              "node_type": "item",
+              "title": "SSH Client By aat440z",
+              "description": "By fernandofatech | By SUB0PT1MAL",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": null,
+                "homepage": null,
+                "id": 733756267,
+                "language": "C++",
+                "license": "MIT",
+                "last_commit": "2023-12-30T01:38:29Z",
+                "open_issues": 3,
+                "owner": "aat440hz",
+                "repo": "SSHClient-M5Cardputer",
+                "stars": 62,
+                "topics": [
+                  "esp32-ardunio",
+                  "m5cardputer",
+                  "m5stack",
+                  "ssh-client"
+                ]
               },
               "first_seen": "2026-08-29T00:07:43.610Z"
             },
@@ -1137,27 +1137,6 @@
             },
             {
               "node_type": "item",
-              "title": "Telnet Client",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": null,
-                "homepage": null,
-                "id": 729020387,
-                "language": "C++",
-                "license": "MIT",
-                "last_commit": "2023-12-30T04:25:46Z",
-                "open_issues": 0,
-                "owner": "aat440hz",
-                "repo": "TelnetClient-M5Cardputer",
-                "stars": 22,
-                "topics": []
-              },
-              "first_seen": "2026-08-29T00:07:43.610Z"
-            },
-            {
-              "node_type": "item",
               "title": "Weather App",
               "description": null,
               "children": [],
@@ -1173,6 +1152,27 @@
                 "owner": "avascik",
                 "repo": "weather-cardputer",
                 "stars": 22,
+                "topics": []
+              },
+              "first_seen": "2026-08-29T00:07:43.610Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Telnet Client",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": null,
+                "homepage": null,
+                "id": 729020387,
+                "language": "C++",
+                "license": "MIT",
+                "last_commit": "2023-12-30T04:25:46Z",
+                "open_issues": 0,
+                "owner": "aat440hz",
+                "repo": "TelnetClient-M5Cardputer",
+                "stars": 21,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:07:43.610Z"
@@ -1360,7 +1360,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-23T19:14:18.985Z",
+    "last_updated": "2026-09-24T19:30:12.769Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome M5Stack Cardputer",
