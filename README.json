@@ -17,11 +17,11 @@
                 "id": 755727720,
                 "language": "C++",
                 "license": "MIT",
-                "last_commit": "2026-09-17T18:56:09Z",
-                "open_issues": 19,
+                "last_commit": "2026-10-01T14:09:57Z",
+                "open_issues": 20,
                 "owner": "bmorcelli",
                 "repo": "Launcher",
-                "stars": 2173,
+                "stars": 2180,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:07:43.610Z"
@@ -120,10 +120,10 @@
                 "language": "Python",
                 "license": "GPL-3.0",
                 "last_commit": "2026-03-30T03:59:42Z",
-                "open_issues": 20,
+                "open_issues": 21,
                 "owner": "echo-lalia",
                 "repo": "MicroHydra",
-                "stars": 315,
+                "stars": 316,
                 "topics": [
                   "cardputer",
                   "cyberdeck",
@@ -243,7 +243,7 @@
                 "open_issues": 341,
                 "owner": "justcallmekoko",
                 "repo": "ESP32Marauder",
-                "stars": 12520,
+                "stars": 12531,
                 "topics": [
                   "arduino",
                   "beacon",
@@ -282,10 +282,10 @@
                 "language": "C++",
                 "license": "AGPL-3.0",
                 "last_commit": "2026-09-27T17:05:20Z",
-                "open_issues": 235,
+                "open_issues": 238,
                 "owner": "BruceDevices",
                 "repo": "firmware",
-                "stars": 6881,
+                "stars": 6887,
                 "topics": [
                   "bruce",
                   "cardputer",
@@ -322,10 +322,10 @@
                 "language": "C++",
                 "license": "MIT",
                 "last_commit": "2026-09-29T16:16:23Z",
-                "open_issues": 32,
+                "open_issues": 33,
                 "owner": "geo-tp",
                 "repo": "ESP32-Bit-Pirate",
-                "stars": 5930,
+                "stars": 5929,
                 "topics": [
                   "arduino",
                   "bluetooth",
@@ -367,7 +367,7 @@
                 "open_issues": 19,
                 "owner": "7h30th3r0n3",
                 "repo": "Evil-M5Project",
-                "stars": 2692,
+                "stars": 2693,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:07:43.610Z"
@@ -409,7 +409,7 @@
                 "open_issues": 39,
                 "owner": "0ct0sec",
                 "repo": "M5PORKCHOP",
-                "stars": 897,
+                "stars": 898,
                 "topics": [
                   "cybersecurity-awareness",
                   "cybersecurity-education",
@@ -485,7 +485,7 @@
                 "open_issues": 15,
                 "owner": "geo-tp",
                 "repo": "Cardputer-Game-Station-Emulators",
-                "stars": 246,
+                "stars": 245,
                 "topics": [
                   "atari",
                   "cardputer",
@@ -527,7 +527,7 @@
                 "open_issues": 3,
                 "owner": "Mr-PauI",
                 "repo": "Gameboy-Enhanced-Firmware-m5stack-cardputer-",
-                "stars": 87,
+                "stars": 88,
                 "topics": [
                   "cardputer",
                   "emulation",
@@ -663,6 +663,27 @@
             },
             {
               "node_type": "item",
+              "title": "Sun Rider Game",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "A 2D physics-based side-scrolling game where the player controls a vehicle across procedurally generated terrain.",
+                "homepage": null,
+                "id": 967709462,
+                "language": "C++",
+                "license": "MIT",
+                "last_commit": "2025-04-17T11:31:50Z",
+                "open_issues": 0,
+                "owner": "Treblewolf",
+                "repo": "M5Cardputer-Sun-Rider",
+                "stars": 13,
+                "topics": []
+              },
+              "first_seen": "2026-08-29T00:07:43.610Z"
+            },
+            {
+              "node_type": "item",
               "title": "Some games experiments",
               "description": null,
               "children": [],
@@ -678,27 +699,6 @@
                 "owner": "polyphasicdevs",
                 "repo": "Cardputer-experiments",
                 "stars": 13,
-                "topics": []
-              },
-              "first_seen": "2026-08-29T00:07:43.610Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Sun Rider Game",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "A 2D physics-based side-scrolling game where the player controls a vehicle across procedurally generated terrain.",
-                "homepage": null,
-                "id": 967709462,
-                "language": "C++",
-                "license": "MIT",
-                "last_commit": "2025-04-17T11:31:50Z",
-                "open_issues": 0,
-                "owner": "Treblewolf",
-                "repo": "M5Cardputer-Sun-Rider",
-                "stars": 12,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:07:43.610Z"
@@ -878,7 +878,7 @@
                 "open_issues": 1,
                 "owner": "cyberwisk",
                 "repo": "M5Cardputer_WebRadio",
-                "stars": 131,
+                "stars": 132,
                 "topics": [
                   "esp32",
                   "esp32-s3-xtensa",
@@ -1360,7 +1360,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-30T20:18:53.985Z",
+    "last_updated": "2026-10-01T20:31:50.048Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome M5Stack Cardputer",
