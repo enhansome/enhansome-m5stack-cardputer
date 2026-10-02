@@ -72,7 +72,7 @@ These builtin apps can be found at: <https://github.com/m5stack/M5Cardputer-User
 
 ### Launchers
 
-* [M5 Launcher](https://github.com/bmorcelli/Launcher) ⭐ 2,180 | 🐛 20 | 🌐 C++ | 📅 2026-10-01 - App launcher for M5StickC, M5StickC Plus, M5StickC Plus 2 and M5Cardputer
+* [M5 Launcher](https://github.com/bmorcelli/Launcher) ⭐ 2,187 | 🐛 21 | 🌐 C++ | 📅 2026-10-01 - App launcher for M5StickC, M5StickC Plus, M5StickC Plus 2 and M5Cardputer
   * [250+ prebuilt binaries](https://bmorcelli.github.io/Launcher/catalog.html)
   * [Laucher website](https://bmorcelli.github.io/Launcher/)
 * [BerylliumOS](https://github.com/beryllium-org/OS) ⭐ 325 | 🐛 3 | 🌐 Python | 📅 2026-08-28 - Another Micro OS for Cardputer
@@ -86,12 +86,12 @@ These builtin apps can be found at: <https://github.com/m5stack/M5Cardputer-User
 
 ### Cybersecurity Related
 
-* [Cardputer Marauder ESP32](https://github.com/justcallmekoko/ESP32Marauder) ⭐ 12,531 | 🐛 341 | 🌐 C++ | 📅 2026-09-30
-* [Bruce](https://github.com/pr3y/Bruce) ⭐ 6,887 | 🐛 238 | 🌐 C++ | 📅 2026-09-27
-* [ESP32 Bus Pirate](https://github.com/geo-tp/ESP32-Bus-Pirate) ⭐ 5,929 | 🐛 33 | 🌐 C++ | 📅 2026-09-29
-* [Evil-M5Project](https://github.com/7h30th3r0n3/Evil-M5Project) ⭐ 2,693 | 🐛 19 | 🌐 C++ | 📅 2026-09-17
-* [M5 Stick NEMO](https://github.com/n0xa/m5stick-nemo) ⭐ 1,307 | 🐛 9 | 🌐 C | 📅 2026-07-15 - Hacking tools for cardputer
-* [M5PORKCHOP](https://github.com/0ct0sec/M5PORKCHOP) ⭐ 898 | 🐛 39 | 🌐 C++ | 📅 2026-09-11
+* [Cardputer Marauder ESP32](https://github.com/justcallmekoko/ESP32Marauder) ⭐ 12,538 | 🐛 342 | 🌐 C++ | 📅 2026-10-02
+* [Bruce](https://github.com/pr3y/Bruce) ⭐ 6,897 | 🐛 238 | 🌐 C++ | 📅 2026-10-02
+* [ESP32 Bus Pirate](https://github.com/geo-tp/ESP32-Bus-Pirate) ⭐ 5,935 | 🐛 33 | 🌐 C++ | 📅 2026-09-29
+* [Evil-M5Project](https://github.com/7h30th3r0n3/Evil-M5Project) ⭐ 2,695 | 🐛 19 | 🌐 C++ | 📅 2026-09-17
+* [M5 Stick NEMO](https://github.com/n0xa/m5stick-nemo) ⭐ 1,309 | 🐛 9 | 🌐 C | 📅 2026-07-15 - Hacking tools for cardputer
+* [M5PORKCHOP](https://github.com/0ct0sec/M5PORKCHOP) ⭐ 899 | 🐛 39 | 🌐 C++ | 📅 2026-09-11
 * [Palnagotchi](https://github.com/viniciusbo/m5-palnagotchi) ⭐ 81 | 🐛 3 | 🌐 C++ | 📅 2026-01-28
 * [433Mhz sniffer](https://github.com/bmorcelli/io433) ⭐ 49 | 🐛 0 | 🌐 C++ | 📅 2024-11-07
 
@@ -141,4 +141,4 @@ These builtin apps can be found at: <https://github.com/m5stack/M5Cardputer-User
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-01._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-02._
