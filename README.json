@@ -21,7 +21,7 @@
                 "open_issues": 21,
                 "owner": "bmorcelli",
                 "repo": "Launcher",
-                "stars": 2187,
+                "stars": 2188,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:07:43.610Z"
@@ -67,12 +67,12 @@
             {
               "node_type": "item",
               "title": "MicroHydra Launcher",
-              "description": null,
+              "description": "echo-lalia/MicroHydra",
               "children": [
                 {
                   "node_type": "item",
                   "title": "MicroHydra Apps",
-                  "description": null,
+                  "description": "echo-lalia/MicroHydra-Apps",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -93,7 +93,7 @@
                 {
                   "node_type": "item",
                   "title": "HydraMenu app",
-                  "description": null,
+                  "description": "Gabriel-F-Sousa/HydraMenu",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -139,7 +139,7 @@
             {
               "node_type": "item",
               "title": "PyDOS + PyBASIC",
-              "description": null,
+              "description": "RetiredWizard/PyDOS",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -181,7 +181,7 @@
             {
               "node_type": "item",
               "title": "Simple App Launcher for Cardputer",
-              "description": null,
+              "description": "shikarunochi/CardputerSimpleLaucher",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -230,7 +230,7 @@
             {
               "node_type": "item",
               "title": "Cardputer Marauder ESP32",
-              "description": null,
+              "description": "justcallmekoko/ESP32Marauder",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -239,11 +239,11 @@
                 "id": 208325027,
                 "language": "C++",
                 "license": null,
-                "last_commit": "2026-10-02T17:31:25Z",
-                "open_issues": 342,
+                "last_commit": "2026-10-02T21:48:21Z",
+                "open_issues": 341,
                 "owner": "justcallmekoko",
                 "repo": "ESP32Marauder",
-                "stars": 12538,
+                "stars": 12542,
                 "topics": [
                   "arduino",
                   "beacon",
@@ -272,7 +272,7 @@
             {
               "node_type": "item",
               "title": "Bruce",
-              "description": null,
+              "description": "BruceDevices/firmware",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -282,10 +282,10 @@
                 "language": "C++",
                 "license": "AGPL-3.0",
                 "last_commit": "2026-10-02T12:09:27Z",
-                "open_issues": 238,
+                "open_issues": 233,
                 "owner": "BruceDevices",
                 "repo": "firmware",
-                "stars": 6897,
+                "stars": 6899,
                 "topics": [
                   "bruce",
                   "cardputer",
@@ -312,7 +312,7 @@
             {
               "node_type": "item",
               "title": "ESP32 Bus Pirate",
-              "description": null,
+              "description": "geo-tp/ESP32-Bit-Pirate",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -325,7 +325,7 @@
                 "open_issues": 33,
                 "owner": "geo-tp",
                 "repo": "ESP32-Bit-Pirate",
-                "stars": 5935,
+                "stars": 5937,
                 "topics": [
                   "arduino",
                   "bluetooth",
@@ -354,7 +354,7 @@
             {
               "node_type": "item",
               "title": "Evil-M5Project",
-              "description": null,
+              "description": "7h30th3r0n3/Evil-M5Project",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -396,7 +396,7 @@
             {
               "node_type": "item",
               "title": "M5PORKCHOP",
-              "description": null,
+              "description": "0ct0sec/M5PORKCHOP",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -409,7 +409,7 @@
                 "open_issues": 39,
                 "owner": "0ct0sec",
                 "repo": "M5PORKCHOP",
-                "stars": 899,
+                "stars": 900,
                 "topics": [
                   "cybersecurity-awareness",
                   "cybersecurity-education",
@@ -423,7 +423,7 @@
             {
               "node_type": "item",
               "title": "Palnagotchi",
-              "description": null,
+              "description": "viniciusbo/m5-palnagotchi",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -444,7 +444,7 @@
             {
               "node_type": "item",
               "title": "433Mhz sniffer",
-              "description": null,
+              "description": "bmorcelli/io433",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -514,7 +514,7 @@
             {
               "node_type": "item",
               "title": "Gameboy emulator",
-              "description": null,
+              "description": "Mr-PauI/Gameboy-Enhanced-Firmware-m5stack-cardputer-",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -573,7 +573,7 @@
             {
               "node_type": "item",
               "title": "Math Game",
-              "description": null,
+              "description": "seanbutler/M5CardputerMathGame",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -601,7 +601,7 @@
             {
               "node_type": "item",
               "title": "Tamaputer Tamagotchi P1 Emulator",
-              "description": null,
+              "description": "mindovermiles262/tamaputer",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -622,7 +622,7 @@
             {
               "node_type": "item",
               "title": "Cave-Mine",
-              "description": null,
+              "description": "question-and-answer/cave-mine-cardputer-alpha1",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -643,7 +643,7 @@
             {
               "node_type": "item",
               "title": "Anarch Game port from ESPBoy",
-              "description": null,
+              "description": "TheBricktop/Anarch-Cardputer",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -664,7 +664,7 @@
             {
               "node_type": "item",
               "title": "Sun Rider Game",
-              "description": null,
+              "description": "Treblewolf/M5Cardputer-Sun-Rider",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -685,7 +685,7 @@
             {
               "node_type": "item",
               "title": "Some games experiments",
-              "description": null,
+              "description": "polyphasicdevs/Cardputer-experiments",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -706,7 +706,7 @@
             {
               "node_type": "item",
               "title": "Classic Snake Game",
-              "description": null,
+              "description": "ostaquet/M5Snake",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -752,7 +752,7 @@
             {
               "node_type": "item",
               "title": "TinyKnight Game",
-              "description": null,
+              "description": "foopod/tinyKnight",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -808,7 +808,7 @@
             {
               "node_type": "item",
               "title": "Conway's Game of Life",
-              "description": null,
+              "description": "Mystereon/CardLife",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -836,7 +836,7 @@
             {
               "node_type": "item",
               "title": "Universal remote control",
-              "description": null,
+              "description": "geo-tp/Ultimate-Remote",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -865,7 +865,7 @@
             {
               "node_type": "item",
               "title": "Cardputer WebRadio",
-              "description": null,
+              "description": "cyberwisk/M5Cardputer_WebRadio",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -894,7 +894,7 @@
             {
               "node_type": "item",
               "title": "Lora Chat App",
-              "description": null,
+              "description": "nonik0/CardputerLoRaChat",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -915,7 +915,7 @@
             {
               "node_type": "item",
               "title": "MiniAcid",
-              "description": null,
+              "description": "urtubia/miniacid",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -936,7 +936,7 @@
             {
               "node_type": "item",
               "title": "Audio Stream Server",
-              "description": null,
+              "description": "geo-tp/M5Cardputer-Audio-Stream-Server",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -965,7 +965,7 @@
             {
               "node_type": "item",
               "title": "Rust firmware hal and examples",
-              "description": null,
+              "description": "Kezii/Rust-M5Stack-Cardputer",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -986,7 +986,7 @@
             {
               "node_type": "item",
               "title": "PDAputer",
-              "description": null,
+              "description": "nishad2m8/PDAputer",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1033,7 +1033,7 @@
             {
               "node_type": "item",
               "title": "Volos Cardputer TV Remote",
-              "description": null,
+              "description": "VolosR/M5CardRemote",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1054,7 +1054,7 @@
             {
               "node_type": "item",
               "title": "ESP Console Emulator Server",
-              "description": null,
+              "description": "IncursioHack/ESP-Game-Server",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1075,7 +1075,7 @@
             {
               "node_type": "item",
               "title": "M5CardForth - Forth Programming Language for Cardputer",
-              "description": null,
+              "description": "ryu10/M5CardForth",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1096,7 +1096,7 @@
             {
               "node_type": "item",
               "title": "HID Bluetooth Keyboard",
-              "description": null,
+              "description": "Gitshaoxiang/M5Cardputer-BLE-HID-Keyboard",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1117,7 +1117,7 @@
             {
               "node_type": "item",
               "title": "M5Cardputer C64 Emulator",
-              "description": null,
+              "description": "iele/M5Cardputer-C64-Emulator",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1138,7 +1138,7 @@
             {
               "node_type": "item",
               "title": "Weather App",
-              "description": null,
+              "description": "avascik/weather-cardputer",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1159,7 +1159,7 @@
             {
               "node_type": "item",
               "title": "Telnet Client",
-              "description": null,
+              "description": "aat440hz/TelnetClient-M5Cardputer",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1180,7 +1180,7 @@
             {
               "node_type": "item",
               "title": "User Demo extended with some more apps",
-              "description": null,
+              "description": "JohnZ03/M5Cardputer-UserDemo",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1201,7 +1201,7 @@
             {
               "node_type": "item",
               "title": "AI Gadget assistant for Cardputer",
-              "description": null,
+              "description": "jeftheone/M5CardputerAIWiFiConnection",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1222,7 +1222,7 @@
             {
               "node_type": "item",
               "title": "Simple StopWatch",
-              "description": null,
+              "description": "avascik/stopwatch-cardputer",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1243,7 +1243,7 @@
             {
               "node_type": "item",
               "title": "M5Cardputer WebRadio Dutch version",
-              "description": null,
+              "description": "rolandbreedveld/M5Cardputer_WebRadio_Dutch",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1264,7 +1264,7 @@
             {
               "node_type": "item",
               "title": "Eliza Chatbot",
-              "description": null,
+              "description": "Layer812/cardputer_eliza",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1285,7 +1285,7 @@
             {
               "node_type": "item",
               "title": "Fake Windows XP UI",
-              "description": null,
+              "description": "prashantkamdar/M5StickCPLUS.fakeWinXP",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1311,7 +1311,7 @@
             {
               "node_type": "item",
               "title": "MDX (mxdrv) file Player for Cardputer",
-              "description": null,
+              "description": "Layer812/mdxPC",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1332,7 +1332,7 @@
             {
               "node_type": "item",
               "title": "VGM Player for Cardputer",
-              "description": null,
+              "description": "Layer812/vgmPC",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -1360,7 +1360,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T20:07:57.577Z",
+    "last_updated": "2026-10-03T04:55:23.154Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome M5Stack Cardputer",
