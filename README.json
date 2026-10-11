@@ -21,7 +21,7 @@
                 "open_issues": 26,
                 "owner": "bmorcelli",
                 "repo": "Launcher",
-                "stars": 2227,
+                "stars": 2234,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:07:43.610Z"
@@ -42,7 +42,7 @@
                 "open_issues": 3,
                 "owner": "beryllium-org",
                 "repo": "Micro",
-                "stars": 325,
+                "stars": 326,
                 "topics": [
                   "beryllium",
                   "cardputer",
@@ -123,7 +123,7 @@
                 "open_issues": 22,
                 "owner": "echo-lalia",
                 "repo": "MicroHydra",
-                "stars": 318,
+                "stars": 319,
                 "topics": [
                   "cardputer",
                   "cyberdeck",
@@ -152,7 +152,7 @@
                 "open_issues": 0,
                 "owner": "RetiredWizard",
                 "repo": "PyDOS",
-                "stars": 179,
+                "stars": 180,
                 "topics": [
                   "basic",
                   "cardputer",
@@ -240,10 +240,10 @@
                 "language": "C++",
                 "license": null,
                 "last_commit": "2026-10-10T06:59:41Z",
-                "open_issues": 302,
+                "open_issues": 283,
                 "owner": "justcallmekoko",
                 "repo": "ESP32Marauder",
-                "stars": 12693,
+                "stars": 12708,
                 "topics": [
                   "arduino",
                   "beacon",
@@ -282,10 +282,10 @@
                 "language": "C++",
                 "license": "AGPL-3.0",
                 "last_commit": "2026-10-10T18:34:40Z",
-                "open_issues": 234,
+                "open_issues": 240,
                 "owner": "BruceDevices",
                 "repo": "firmware",
-                "stars": 6959,
+                "stars": 6969,
                 "topics": [
                   "bruce",
                   "cardputer",
@@ -321,11 +321,11 @@
                 "id": 1014515436,
                 "language": "C++",
                 "license": "MIT",
-                "last_commit": "2026-10-10T18:55:52Z",
+                "last_commit": "2026-10-11T19:20:29Z",
                 "open_issues": 28,
                 "owner": "geo-tp",
                 "repo": "ESP32-Bit-Pirate",
-                "stars": 5964,
+                "stars": 5968,
                 "topics": [
                   "arduino",
                   "bluetooth",
@@ -364,10 +364,10 @@
                 "language": "C++",
                 "license": null,
                 "last_commit": "2026-10-09T12:48:40Z",
-                "open_issues": 21,
+                "open_issues": 20,
                 "owner": "7h30th3r0n3",
                 "repo": "Evil-M5Project",
-                "stars": 2725,
+                "stars": 2731,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:07:43.610Z"
@@ -409,7 +409,7 @@
                 "open_issues": 37,
                 "owner": "0ct0sec",
                 "repo": "M5PORKCHOP",
-                "stars": 918,
+                "stars": 919,
                 "topics": [
                   "cybersecurity-awareness",
                   "cybersecurity-education",
@@ -485,7 +485,7 @@
                 "open_issues": 15,
                 "owner": "geo-tp",
                 "repo": "Cardputer-Game-Station-Emulators",
-                "stars": 247,
+                "stars": 248,
                 "topics": [
                   "atari",
                   "cardputer",
@@ -559,7 +559,7 @@
                 "open_issues": 1,
                 "owner": "matteofo",
                 "repo": "gb_cardputer",
-                "stars": 71,
+                "stars": 72,
                 "topics": [
                   "cardputer",
                   "esp32",
@@ -849,7 +849,7 @@
                 "open_issues": 13,
                 "owner": "geo-tp",
                 "repo": "Ultimate-Remote",
-                "stars": 202,
+                "stars": 203,
                 "topics": [
                   "cardputer",
                   "esp32",
@@ -878,7 +878,7 @@
                 "open_issues": 1,
                 "owner": "cyberwisk",
                 "repo": "M5Cardputer_WebRadio",
-                "stars": 133,
+                "stars": 134,
                 "topics": [
                   "esp32",
                   "esp32-s3-xtensa",
@@ -907,7 +907,7 @@
                 "open_issues": 2,
                 "owner": "nonik0",
                 "repo": "CardputerLoRaChat",
-                "stars": 122,
+                "stars": 123,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:07:43.610Z"
@@ -928,7 +928,7 @@
                 "open_issues": 13,
                 "owner": "urtubia",
                 "repo": "miniacid",
-                "stars": 110,
+                "stars": 111,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:07:43.610Z"
@@ -949,7 +949,7 @@
                 "open_issues": 4,
                 "owner": "geo-tp",
                 "repo": "M5Cardputer-Audio-Stream-Server",
-                "stars": 108,
+                "stars": 109,
                 "topics": [
                   "audio",
                   "esp32",
@@ -1179,27 +1179,6 @@
             },
             {
               "node_type": "item",
-              "title": "User Demo extended with some more apps",
-              "description": "JohnZ03/M5Cardputer-UserDemo",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "M5Cardputer user demo for hardware evaluation.",
-                "homepage": null,
-                "id": 736472649,
-                "language": "C",
-                "license": "MIT",
-                "last_commit": "2024-01-30T13:38:48Z",
-                "open_issues": 0,
-                "owner": "JohnZ03",
-                "repo": "M5Cardputer-UserDemo",
-                "stars": 19,
-                "topics": []
-              },
-              "first_seen": "2026-08-29T00:07:43.610Z"
-            },
-            {
-              "node_type": "item",
               "title": "AI Gadget assistant for Cardputer",
               "description": "jeftheone/M5CardputerAIWiFiConnection",
               "children": [],
@@ -1214,6 +1193,27 @@
                 "open_issues": 0,
                 "owner": "jeftheone",
                 "repo": "M5CardputerAIWiFiConnection",
+                "stars": 20,
+                "topics": []
+              },
+              "first_seen": "2026-08-29T00:07:43.610Z"
+            },
+            {
+              "node_type": "item",
+              "title": "User Demo extended with some more apps",
+              "description": "JohnZ03/M5Cardputer-UserDemo",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "M5Cardputer user demo for hardware evaluation.",
+                "homepage": null,
+                "id": 736472649,
+                "language": "C",
+                "license": "MIT",
+                "last_commit": "2024-01-30T13:38:48Z",
+                "open_issues": 0,
+                "owner": "JohnZ03",
+                "repo": "M5Cardputer-UserDemo",
                 "stars": 19,
                 "topics": []
               },
@@ -1360,7 +1360,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-10T19:32:30.522Z",
+    "last_updated": "2026-10-11T19:43:40.935Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome M5Stack Cardputer",
@@ -1372,7 +1372,7 @@
       "open_issues": 0,
       "owner": "terremoth",
       "repo": "awesome-m5stack-cardputer",
-      "stars": 767,
+      "stars": 768,
       "topics": [
         "awesome",
         "awesome-list",
