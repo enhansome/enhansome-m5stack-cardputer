@@ -66,38 +66,38 @@ From ESP32-S3Fn8 ([Datasheet](https://www.espressif.com/sites/default/files/docu
 * Timer
 * Keyboard (USB or Bluetooth) connector
 
-These builtin apps can be found at: <https://github.com/m5stack/M5Cardputer-UserDemo> ⭐ 351 | 🐛 8 | 🌐 C | 📅 2026-07-17
+These builtin apps can be found at: <https://github.com/m5stack/M5Cardputer-UserDemo> ⭐ 352 | 🐛 8 | 🌐 C | 📅 2026-07-17
 
 ## Community Apps
 
 ### Launchers
 
-* [M5 Launcher](https://github.com/bmorcelli/Launcher) ⭐ 2,238 | 🐛 26 | 🌐 C++ | 📅 2026-10-09 - App launcher for M5StickC, M5StickC Plus, M5StickC Plus 2 and M5Cardputer
+* [M5 Launcher](https://github.com/bmorcelli/Launcher) ⭐ 2,242 | 🐛 25 | 🌐 C++ | 📅 2026-10-13 - App launcher for M5StickC, M5StickC Plus, M5StickC Plus 2 and M5Cardputer
   * [250+ prebuilt binaries](https://bmorcelli.github.io/Launcher/catalog.html)
   * [Laucher website](https://bmorcelli.github.io/Launcher/)
-* [BerylliumOS](https://github.com/beryllium-org/OS) ⭐ 326 | 🐛 3 | 🌐 Python | 📅 2026-08-28 - Another Micro OS for Cardputer
-* [MicroHydra Launcher](https://github.com/echo-lalia/MicroHydra) ⭐ 319 | 🐛 22 | 🌐 Python | 📅 2026-03-30
-  * [MicroHydra Apps](https://github.com/echo-lalia/MicroHydra-Apps) ⭐ 85 | 🐛 3 | 🌐 Python | 📅 2026-09-09
+* [BerylliumOS](https://github.com/beryllium-org/OS) ⭐ 327 | 🐛 3 | 🌐 Python | 📅 2026-08-28 - Another Micro OS for Cardputer
+* [MicroHydra Launcher](https://github.com/echo-lalia/MicroHydra) ⭐ 320 | 🐛 22 | 🌐 Python | 📅 2026-03-30
+  * [MicroHydra Apps](https://github.com/echo-lalia/MicroHydra-Apps) ⭐ 86 | 🐛 3 | 🌐 Python | 📅 2026-09-09
   * [HydraMenu app](https://github.com/Gabriel-F-Sousa/HydraMenu) ⭐ 4 | 🐛 0 | 🌐 Python | 📅 2024-04-01
   * [PicoChat Client](https://github.com/PixelDud/CardPuter-PicoChat) To use with MicroHydra
 * [PyDOS + PyBASIC](https://github.com/RetiredWizard/PyDOS) ⭐ 181 | 🐛 0 | 🌐 Python | 📅 2026-02-05
 * [Simple App Launcher for Cardputer](https://github.com/shikarunochi/CardputerSimpleLaucher) ⭐ 61 | 🐛 0 | 🌐 C++ | 📅 2023-11-06
-* [HydraOS](https://github.com/WauHundeland/HydraOS) ⭐ 26 | 🐛 0 | 🌐 C | 📅 2024-07-22 - Micro OS for Cardputer
+* [HydraOS](https://github.com/WauHundeland/HydraOS) ⭐ 27 | 🐛 0 | 🌐 C | 📅 2024-07-22 - Micro OS for Cardputer
 
 ### Cybersecurity Related
 
-* [Cardputer Marauder ESP32](https://github.com/justcallmekoko/ESP32Marauder) ⭐ 12,732 | 🐛 284 | 🌐 C++ | 📅 2026-10-10
-* [Bruce](https://github.com/pr3y/Bruce) ⭐ 6,978 | 🐛 241 | 🌐 C++ | 📅 2026-10-10
-* [ESP32 Bus Pirate](https://github.com/geo-tp/ESP32-Bus-Pirate) ⭐ 5,970 | 🐛 29 | 🌐 C++ | 📅 2026-10-12
-* [Evil-M5Project](https://github.com/7h30th3r0n3/Evil-M5Project) ⭐ 2,733 | 🐛 20 | 🌐 C++ | 📅 2026-10-09
-* [M5 Stick NEMO](https://github.com/n0xa/m5stick-nemo) ⭐ 1,313 | 🐛 9 | 🌐 C | 📅 2026-07-15 - Hacking tools for cardputer
-* [M5PORKCHOP](https://github.com/0ct0sec/M5PORKCHOP) ⭐ 920 | 🐛 37 | 🌐 C++ | 📅 2026-10-06
+* [Cardputer Marauder ESP32](https://github.com/justcallmekoko/ESP32Marauder) ⭐ 12,761 | 🐛 286 | 🌐 C++ | 📅 2026-10-10
+* [Bruce](https://github.com/pr3y/Bruce) ⭐ 6,985 | 🐛 245 | 🌐 C++ | 📅 2026-10-10
+* [ESP32 Bus Pirate](https://github.com/geo-tp/ESP32-Bus-Pirate) ⭐ 5,977 | 🐛 30 | 🌐 C++ | 📅 2026-10-12
+* [Evil-M5Project](https://github.com/7h30th3r0n3/Evil-M5Project) ⭐ 2,737 | 🐛 20 | 🌐 C++ | 📅 2026-10-09
+* [M5 Stick NEMO](https://github.com/n0xa/m5stick-nemo) ⭐ 1,314 | 🐛 9 | 🌐 C | 📅 2026-07-15 - Hacking tools for cardputer
+* [M5PORKCHOP](https://github.com/0ct0sec/M5PORKCHOP) ⭐ 924 | 🐛 38 | 🌐 C++ | 📅 2026-10-06
 * [Palnagotchi](https://github.com/viniciusbo/m5-palnagotchi) ⭐ 81 | 🐛 3 | 🌐 C++ | 📅 2026-01-28
 * [433Mhz sniffer](https://github.com/bmorcelli/io433) ⭐ 49 | 🐛 0 | 🌐 C++ | 📅 2024-11-07
 
 ### Game Related
 
-* [Cardputer Game Station Emulators](https://github.com/geo-tp/Cardputer-Game-Station-Emulators) ⭐ 248 | 🐛 15 | 🌐 C | 📅 2026-06-01 - Emulator for cardputer that supports ten different consoles
+* [Cardputer Game Station Emulators](https://github.com/geo-tp/Cardputer-Game-Station-Emulators) ⭐ 249 | 🐛 15 | 🌐 C | 📅 2026-06-01 - Emulator for cardputer that supports ten different consoles
 * [Gameboy emulator](https://github.com/Mr-PauI/Gameboy-Enhanced-Firmware-m5stack-cardputer-) ⭐ 88 | 🐛 4 | 🌐 C | 📅 2026-09-10
 * [Gameboy Emulator Port of Peanut-GB by matthew-5pl](https://github.com/matthew-5pl/gb_cardputer) ⚠️ Archived | [By yonxji](https://github.com/yongxji/cardputer-gameboy-emu) | [By Mr-Paul](https://github.com/Mr-PauI/Gameboy-Enhanced-Firmware-m5stack-cardputer-) ⭐ 88 | 🐛 4 | 🌐 C | 📅 2026-09-10 | By geo-tp (see next on the list)
 * [Math Game](https://github.com/seanbutler/M5CardputerMathGame) ⭐ 36 | 🐛 0 | 🌐 C++ | 📅 2024-03-24
@@ -106,31 +106,31 @@ These builtin apps can be found at: <https://github.com/m5stack/M5Cardputer-User
 * [Anarch Game port from ESPBoy](https://github.com/TheBricktop/Anarch-Cardputer) ⭐ 14 | 🐛 0 | 🌐 C | 📅 2026-08-27
 * [Sun Rider Game](https://github.com/Treblewolf/M5Cardputer-Sun-Rider) ⭐ 13 | 🐛 0 | 🌐 C++ | 📅 2025-04-17
 * [Some games experiments](https://github.com/polyphasicdevs/Cardputer-experiments) ⭐ 13 | 🐛 0 | 🌐 C++ | 📅 2024-02-14
+* [Hotspot Arcade](https://github.com/genkigenki/hotspot-arcade-cardputer) ⭐ 13 | 🐛 0 | 🌐 C | 📅 2026-09-04 - Several offline party games your guests play from their phones
 * [Classic Snake Game](https://github.com/ostaquet/M5Snake/tree/master/src/M5Snake) ⭐ 12 | 🐛 0 | 🌐 C++ | 📅 2021-05-01
-* [Hotspot Arcade](https://github.com/genkigenki/hotspot-arcade-cardputer) ⭐ 12 | 🐛 0 | 🌐 C | 📅 2026-09-04 - Several offline party games your guests play from their phones
 * [DOOM port](https://github.com/Logimancer/Cardputer-doom) ⭐ 11 | 🐛 0 | 📅 2023-07-11 - Yes, of course we have Doom
 * [TinyKnight Game](https://github.com/foopod/tinyKnight) ⭐ 10 | 🐛 1 | 🌐 Python | 📅 2024-02-15
 * [Conway's Game of Life](https://github.com/Mystereon/CardLife) ⭐ 7 | 🐛 0 | 🌐 C | 📅 2025-05-15
 
 ### Misc.
 
-* [Universal remote control](https://github.com/geo-tp/Ultimate-Remote) ⭐ 203 | 🐛 13 | 🌐 C++ | 📅 2025-09-11
+* [Universal remote control](https://github.com/geo-tp/Ultimate-Remote) ⭐ 204 | 🐛 13 | 🌐 C++ | 📅 2025-09-11
 * [Cardputer WebRadio](https://github.com/cyberwisk/M5Cardputer_WebRadio) ⭐ 134 | 🐛 1 | 🌐 C++ | 📅 2026-08-15
 * [Lora Chat App](https://github.com/nonik0/CardputerLoRaChat) ⭐ 123 | 🐛 2 | 🌐 C++ | 📅 2024-12-03
 * [MiniAcid](https://github.com/urtubia/miniacid) ⭐ 112 | 🐛 13 | 🌐 C++ | 📅 2026-02-10
   * [Demo site](https://miniacid.mrbook.org)
-* [Audio Stream Server](https://github.com/geo-tp/M5Cardputer-Audio-Stream-Server) ⭐ 109 | 🐛 4 | 🌐 C | 📅 2025-08-12
+* [Audio Stream Server](https://github.com/geo-tp/M5Cardputer-Audio-Stream-Server) ⭐ 110 | 🐛 4 | 🌐 C | 📅 2025-08-12
 * [Rust firmware hal and examples](https://github.com/Kezii/Rust-M5Stack-Cardputer) ⭐ 70 | 🐛 0 | 🌐 Rust | 📅 2024-03-27
-* [SSH Client By aat440z](https://github.com/aat440hz/SSHClient-M5Cardputer) ⭐ 63 | 🐛 3 | 🌐 C++ | 📅 2023-12-30 | [By fernandofatech](https://github.com/fernandofatech/M5Cardputer-SSHClient) ⭐ 69 | 🐛 1 | 🌐 C++ | 📅 2026-09-29 | [By SUB0PT1MAL](https://github.com/aat440hz/SSHClient-M5Cardputer) ⭐ 63 | 🐛 3 | 🌐 C++ | 📅 2023-12-30
-* [PDAputer](https://github.com/nishad2m8/PDAputer) ⭐ 63 | 🐛 3 | 🌐 C | 📅 2026-03-25
+* [SSH Client By aat440z](https://github.com/aat440hz/SSHClient-M5Cardputer) ⭐ 64 | 🐛 3 | 🌐 C++ | 📅 2023-12-30 | [By fernandofatech](https://github.com/fernandofatech/M5Cardputer-SSHClient) ⭐ 69 | 🐛 1 | 🌐 C++ | 📅 2026-09-29 | [By SUB0PT1MAL](https://github.com/aat440hz/SSHClient-M5Cardputer) ⭐ 64 | 🐛 3 | 🌐 C++ | 📅 2023-12-30
+* [PDAputer](https://github.com/nishad2m8/PDAputer) ⭐ 64 | 🐛 3 | 🌐 C | 📅 2026-03-25
 * [Volos Cardputer TV Remote](https://github.com/VolosR/M5CardRemote/) ⭐ 58 | 🐛 0 | 🌐 C | 📅 2023-12-15
 * [ESP Console Emulator Server](https://github.com/IncursioHack/ESP-Game-Server) ⭐ 52 | 🐛 3 | 🌐 JavaScript | 📅 2024-04-29
 * [M5CardForth - Forth Programming Language for Cardputer](https://github.com/ryu10/M5CardForth) ⭐ 47 | 🐛 5 | 🌐 C++ | 📅 2026-04-07
 * [HID Bluetooth Keyboard](https://github.com/Gitshaoxiang/M5Cardputer-BLE-HID-Keyboard) ⭐ 30 | 🐛 1 | 🌐 C | 📅 2023-10-12
 * [M5Cardputer C64 Emulator](https://github.com/iele/M5Cardputer-C64-Emulator) ⭐ 25 | 🐛 0 | 🌐 C++ | 📅 2024-08-22
 * [Weather App](https://github.com/qubiX00/weather-cardputer) ⭐ 23 | 🐛 0 | 🌐 C++ | 📅 2024-02-17
-* [Telnet Client](https://github.com/aat440hz/TelnetClient-M5Cardputer) ⭐ 21 | 🐛 0 | 🌐 C++ | 📅 2023-12-30
-* [AI Gadget assistant for Cardputer](https://github.com/jeftheone/M5CardputerAIWiFiConnection) ⭐ 20 | 🐛 0 | 🌐 C++ | 📅 2024-04-14
+* [Telnet Client](https://github.com/aat440hz/TelnetClient-M5Cardputer) ⭐ 22 | 🐛 0 | 🌐 C++ | 📅 2023-12-30
+* [AI Gadget assistant for Cardputer](https://github.com/jeftheone/M5CardputerAIWiFiConnection) ⭐ 21 | 🐛 0 | 🌐 C++ | 📅 2024-04-14
 * [User Demo extended with some more apps](https://github.com/JohnZ03/M5Cardputer-UserDemo) ⭐ 19 | 🐛 0 | 🌐 C | 📅 2024-01-30
 * [Simple StopWatch](https://github.com/qubiX00/stopwatch-cardputer) ⭐ 11 | 🐛 0 | 🌐 C++ | 📅 2024-02-16
 * [M5Cardputer WebRadio Dutch version](https://github.com/rolandbreedveld/M5Cardputer_WebRadio_Dutch/) ⭐ 8 | 🐛 1 | 🌐 C++ | 📅 2024-07-26
@@ -141,4 +141,4 @@ These builtin apps can be found at: <https://github.com/m5stack/M5Cardputer-User
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-12._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-13._
