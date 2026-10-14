@@ -66,7 +66,7 @@ From ESP32-S3Fn8 ([Datasheet](https://www.espressif.com/sites/default/files/docu
 * Timer
 * Keyboard (USB or Bluetooth) connector
 
-These builtin apps can be found at: <https://github.com/m5stack/M5Cardputer-UserDemo> ⭐ 352 | 🐛 8 | 🌐 C | 📅 2026-07-17
+These builtin apps can be found at: <https://github.com/m5stack/M5Cardputer-UserDemo> ⭐ 353 | 🐛 8 | 🌐 C | 📅 2026-07-17
 
 ## Community Apps
 
@@ -86,10 +86,10 @@ These builtin apps can be found at: <https://github.com/m5stack/M5Cardputer-User
 
 ### Cybersecurity Related
 
-* [Cardputer Marauder ESP32](https://github.com/justcallmekoko/ESP32Marauder) ⭐ 12,761 | 🐛 286 | 🌐 C++ | 📅 2026-10-10
-* [Bruce](https://github.com/pr3y/Bruce) ⭐ 6,985 | 🐛 245 | 🌐 C++ | 📅 2026-10-10
-* [ESP32 Bus Pirate](https://github.com/geo-tp/ESP32-Bus-Pirate) ⭐ 5,977 | 🐛 30 | 🌐 C++ | 📅 2026-10-12
-* [Evil-M5Project](https://github.com/7h30th3r0n3/Evil-M5Project) ⭐ 2,737 | 🐛 20 | 🌐 C++ | 📅 2026-10-09
+* [Cardputer Marauder ESP32](https://github.com/justcallmekoko/ESP32Marauder) ⭐ 12,772 | 🐛 292 | 🌐 C++ | 📅 2026-10-14
+* [Bruce](https://github.com/pr3y/Bruce) ⭐ 6,989 | 🐛 245 | 🌐 C++ | 📅 2026-10-14
+* [ESP32 Bus Pirate](https://github.com/geo-tp/ESP32-Bus-Pirate) ⭐ 6,055 | 🐛 30 | 🌐 C++ | 📅 2026-10-12
+* [Evil-M5Project](https://github.com/7h30th3r0n3/Evil-M5Project) ⭐ 2,741 | 🐛 20 | 🌐 C++ | 📅 2026-10-09
 * [M5 Stick NEMO](https://github.com/n0xa/m5stick-nemo) ⭐ 1,314 | 🐛 9 | 🌐 C | 📅 2026-07-15 - Hacking tools for cardputer
 * [M5PORKCHOP](https://github.com/0ct0sec/M5PORKCHOP) ⭐ 924 | 🐛 38 | 🌐 C++ | 📅 2026-10-06
 * [Palnagotchi](https://github.com/viniciusbo/m5-palnagotchi) ⭐ 81 | 🐛 3 | 🌐 C++ | 📅 2026-01-28
@@ -141,4 +141,4 @@ These builtin apps can be found at: <https://github.com/m5stack/M5Cardputer-User
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-13._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-14._
