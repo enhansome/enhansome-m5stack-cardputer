@@ -17,11 +17,11 @@
                 "id": 755727720,
                 "language": "C++",
                 "license": "MIT",
-                "last_commit": "2026-10-15T18:40:26Z",
-                "open_issues": 24,
+                "last_commit": "2026-10-15T19:41:25Z",
+                "open_issues": 23,
                 "owner": "bmorcelli",
                 "repo": "Launcher",
-                "stars": 2249,
+                "stars": 2252,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:07:43.610Z"
@@ -123,7 +123,7 @@
                 "open_issues": 22,
                 "owner": "echo-lalia",
                 "repo": "MicroHydra",
-                "stars": 320,
+                "stars": 321,
                 "topics": [
                   "cardputer",
                   "cyberdeck",
@@ -240,10 +240,10 @@
                 "language": "C++",
                 "license": null,
                 "last_commit": "2026-10-14T18:02:38Z",
-                "open_issues": 292,
+                "open_issues": 293,
                 "owner": "justcallmekoko",
                 "repo": "ESP32Marauder",
-                "stars": 12794,
+                "stars": 12801,
                 "topics": [
                   "arduino",
                   "beacon",
@@ -282,10 +282,10 @@
                 "language": "C++",
                 "license": "AGPL-3.0",
                 "last_commit": "2026-10-15T14:46:48Z",
-                "open_issues": 245,
+                "open_issues": 244,
                 "owner": "BruceDevices",
                 "repo": "firmware",
-                "stars": 6995,
+                "stars": 7003,
                 "topics": [
                   "bruce",
                   "cardputer",
@@ -325,7 +325,7 @@
                 "open_issues": 30,
                 "owner": "geo-tp",
                 "repo": "ESP32-Bit-Pirate",
-                "stars": 6117,
+                "stars": 6136,
                 "topics": [
                   "arduino",
                   "bluetooth",
@@ -367,7 +367,7 @@
                 "open_issues": 20,
                 "owner": "7h30th3r0n3",
                 "repo": "Evil-M5Project",
-                "stars": 2742,
+                "stars": 2743,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:07:43.610Z"
@@ -409,7 +409,7 @@
                 "open_issues": 38,
                 "owner": "0ct0sec",
                 "repo": "M5PORKCHOP",
-                "stars": 926,
+                "stars": 930,
                 "topics": [
                   "cybersecurity-awareness",
                   "cybersecurity-education",
@@ -1360,7 +1360,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-15T19:23:41.776Z",
+    "last_updated": "2026-10-16T19:01:53.754Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome M5Stack Cardputer",
