@@ -21,7 +21,7 @@
                 "open_issues": 24,
                 "owner": "bmorcelli",
                 "repo": "Launcher",
-                "stars": 2257,
+                "stars": 2259,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:07:43.610Z"
@@ -240,10 +240,10 @@
                 "language": "C++",
                 "license": null,
                 "last_commit": "2026-10-14T18:02:38Z",
-                "open_issues": 293,
+                "open_issues": 221,
                 "owner": "justcallmekoko",
                 "repo": "ESP32Marauder",
-                "stars": 12819,
+                "stars": 12834,
                 "topics": [
                   "arduino",
                   "beacon",
@@ -281,11 +281,11 @@
                 "id": 795166961,
                 "language": "C++",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-10-15T14:46:48Z",
-                "open_issues": 244,
+                "last_commit": "2026-10-18T16:51:39Z",
+                "open_issues": 243,
                 "owner": "BruceDevices",
                 "repo": "firmware",
-                "stars": 7011,
+                "stars": 7024,
                 "topics": [
                   "bruce",
                   "cardputer",
@@ -321,11 +321,11 @@
                 "id": 1014515436,
                 "language": "C++",
                 "license": "MIT",
-                "last_commit": "2026-10-12T13:39:58Z",
-                "open_issues": 31,
+                "last_commit": "2026-10-18T09:44:14Z",
+                "open_issues": 32,
                 "owner": "geo-tp",
                 "repo": "ESP32-Bit-Pirate",
-                "stars": 6148,
+                "stars": 6157,
                 "topics": [
                   "arduino",
                   "bluetooth",
@@ -364,10 +364,10 @@
                 "language": "C++",
                 "license": null,
                 "last_commit": "2026-10-09T12:48:40Z",
-                "open_issues": 20,
+                "open_issues": 21,
                 "owner": "7h30th3r0n3",
                 "repo": "Evil-M5Project",
-                "stars": 2744,
+                "stars": 2748,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:07:43.610Z"
@@ -409,7 +409,7 @@
                 "open_issues": 38,
                 "owner": "0ct0sec",
                 "repo": "M5PORKCHOP",
-                "stars": 933,
+                "stars": 934,
                 "topics": [
                   "cybersecurity-awareness",
                   "cybersecurity-education",
@@ -436,7 +436,7 @@
                 "open_issues": 3,
                 "owner": "viniciusbo",
                 "repo": "m5-palnagotchi",
-                "stars": 81,
+                "stars": 82,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:07:43.610Z"
@@ -485,7 +485,7 @@
                 "open_issues": 15,
                 "owner": "geo-tp",
                 "repo": "Cardputer-Game-Station-Emulators",
-                "stars": 250,
+                "stars": 251,
                 "topics": [
                   "atari",
                   "cardputer",
@@ -663,6 +663,41 @@
             },
             {
               "node_type": "item",
+              "title": "Hotspot Arcade",
+              "description": "Several offline party games your guests play from their phones",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Offline party games your guests play from their phones, hosted entirely by an M5Stack Cardputer. Opens a WiFi AP. Port of tarikbc/hotspot-arcade.",
+                "homepage": null,
+                "id": 1318267371,
+                "language": "C",
+                "license": "NOASSERTION",
+                "last_commit": "2026-09-04T21:35:24Z",
+                "open_issues": 0,
+                "owner": "genkigenki",
+                "repo": "hotspot-arcade-cardputer",
+                "stars": 14,
+                "topics": [
+                  "airplane-mode",
+                  "captive-portal",
+                  "cardputer",
+                  "esp32",
+                  "esp32-s3",
+                  "game",
+                  "gaming",
+                  "m5stack",
+                  "multiplayer",
+                  "offline",
+                  "party-apps",
+                  "party-game",
+                  "party-games"
+                ]
+              },
+              "first_seen": "2026-08-29T00:07:43.610Z"
+            },
+            {
+              "node_type": "item",
               "title": "Sun Rider Game",
               "description": "Treblewolf/M5Cardputer-Sun-Rider",
               "children": [],
@@ -700,41 +735,6 @@
                 "repo": "Cardputer-experiments",
                 "stars": 13,
                 "topics": []
-              },
-              "first_seen": "2026-08-29T00:07:43.610Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Hotspot Arcade",
-              "description": "Several offline party games your guests play from their phones",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Offline party games your guests play from their phones, hosted entirely by an M5Stack Cardputer. Opens a WiFi AP. Port of tarikbc/hotspot-arcade.",
-                "homepage": null,
-                "id": 1318267371,
-                "language": "C",
-                "license": "NOASSERTION",
-                "last_commit": "2026-09-04T21:35:24Z",
-                "open_issues": 0,
-                "owner": "genkigenki",
-                "repo": "hotspot-arcade-cardputer",
-                "stars": 13,
-                "topics": [
-                  "airplane-mode",
-                  "captive-portal",
-                  "cardputer",
-                  "esp32",
-                  "esp32-s3",
-                  "game",
-                  "gaming",
-                  "m5stack",
-                  "multiplayer",
-                  "offline",
-                  "party-apps",
-                  "party-game",
-                  "party-games"
-                ]
               },
               "first_seen": "2026-08-29T00:07:43.610Z"
             },
@@ -840,13 +840,13 @@
               "children": [],
               "repo_info": {
                 "archived": false,
-                "description": "Universal remote control for the M5Cardputer, contains 3498 remote profiles from 636 different brands. Also compatible with Flipper-IRDB files",
+                "description": "Universal remote control for the Cardputer ADV / ZERO, contains 3498 remote profiles from 636 different brands. Also compatible with Flipper-IRDB files",
                 "homepage": "https://www.hackster.io/geo-tp/ultimate-remote-for-the-m5stack-cardputer-12cdf0",
                 "id": 811695242,
                 "language": "C++",
                 "license": "NOASSERTION",
-                "last_commit": "2025-09-11T20:12:56Z",
-                "open_issues": 13,
+                "last_commit": "2026-10-18T17:40:36Z",
+                "open_issues": 1,
                 "owner": "geo-tp",
                 "repo": "Ultimate-Remote",
                 "stars": 204,
@@ -1360,7 +1360,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-17T17:56:15.343Z",
+    "last_updated": "2026-10-18T18:16:41.665Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome M5Stack Cardputer",
@@ -1372,7 +1372,7 @@
       "open_issues": 0,
       "owner": "terremoth",
       "repo": "awesome-m5stack-cardputer",
-      "stars": 771,
+      "stars": 773,
       "topics": [
         "awesome",
         "awesome-list",
