@@ -72,7 +72,7 @@ These builtin apps can be found at: <https://github.com/m5stack/M5Cardputer-User
 
 ### Launchers
 
-* [M5 Launcher](https://github.com/bmorcelli/Launcher) ⭐ 2,280 | 🐛 25 | 🌐 C++ | 📅 2026-10-23 - App launcher for M5StickC, M5StickC Plus, M5StickC Plus 2 and M5Cardputer
+* [M5 Launcher](https://github.com/bmorcelli/Launcher) ⭐ 2,282 | 🐛 27 | 🌐 C++ | 📅 2026-10-23 - App launcher for M5StickC, M5StickC Plus, M5StickC Plus 2 and M5Cardputer
   * [250+ prebuilt binaries](https://bmorcelli.github.io/Launcher/catalog.html)
   * [Laucher website](https://bmorcelli.github.io/Launcher/)
 * [BerylliumOS](https://github.com/beryllium-org/OS) ⭐ 328 | 🐛 3 | 🌐 Python | 📅 2026-08-28 - Another Micro OS for Cardputer
@@ -81,17 +81,18 @@ These builtin apps can be found at: <https://github.com/m5stack/M5Cardputer-User
   * [HydraMenu app](https://github.com/Gabriel-F-Sousa/HydraMenu) ⭐ 4 | 🐛 0 | 🌐 Python | 📅 2024-04-01
   * [PicoChat Client](https://github.com/PixelDud/CardPuter-PicoChat) To use with MicroHydra
 * [PyDOS + PyBASIC](https://github.com/RetiredWizard/PyDOS) ⭐ 181 | 🐛 0 | 🌐 Python | 📅 2026-02-05
+* [NucleoOS](https://github.com/indecenti/NucleoOs) ⭐ 82 | 🐛 1 | 🌐 C | 📅 2026-10-25 - Full OS for Cardputer and Cardputer ADV (one image): native launcher with 50+ apps and games, a web desktop served to your browser, an offline AI assistant and Game Boy / Game Gear emulators. Installs from the browser or M5Launcher
 * [Simple App Launcher for Cardputer](https://github.com/shikarunochi/CardputerSimpleLaucher) ⭐ 61 | 🐛 0 | 🌐 C++ | 📅 2023-11-06
 * [HydraOS](https://github.com/WauHundeland/HydraOS) ⭐ 27 | 🐛 0 | 🌐 C | 📅 2024-07-22 - Micro OS for Cardputer
 
 ### Cybersecurity Related
 
-* [Cardputer Marauder ESP32](https://github.com/justcallmekoko/ESP32Marauder) ⭐ 12,889 | 🐛 194 | 🌐 C++ | 📅 2026-10-24
-* [Bruce](https://github.com/pr3y/Bruce) ⭐ 7,069 | 🐛 248 | 🌐 C++ | 📅 2026-10-23
-* [ESP32 Bus Pirate](https://github.com/geo-tp/ESP32-Bus-Pirate) ⭐ 6,202 | 🐛 32 | 🌐 C++ | 📅 2026-10-18
-* [Evil-M5Project](https://github.com/7h30th3r0n3/Evil-M5Project) ⭐ 2,759 | 🐛 22 | 🌐 C++ | 📅 2026-10-19
+* [Cardputer Marauder ESP32](https://github.com/justcallmekoko/ESP32Marauder) ⭐ 12,905 | 🐛 194 | 🌐 C++ | 📅 2026-10-25
+* [Bruce](https://github.com/pr3y/Bruce) ⭐ 7,079 | 🐛 245 | 🌐 C++ | 📅 2026-10-23
+* [ESP32 Bus Pirate](https://github.com/geo-tp/ESP32-Bus-Pirate) ⭐ 6,209 | 🐛 33 | 🌐 C++ | 📅 2026-10-25
+* [Evil-M5Project](https://github.com/7h30th3r0n3/Evil-M5Project) ⭐ 2,762 | 🐛 22 | 🌐 C++ | 📅 2026-10-19
 * [M5 Stick NEMO](https://github.com/n0xa/m5stick-nemo) ⭐ 1,315 | 🐛 9 | 🌐 C | 📅 2026-07-15 - Hacking tools for cardputer
-* [M5PORKCHOP](https://github.com/0ct0sec/M5PORKCHOP) ⭐ 936 | 🐛 38 | 🌐 C++ | 📅 2026-10-06
+* [M5PORKCHOP](https://github.com/0ct0sec/M5PORKCHOP) ⭐ 937 | 🐛 38 | 🌐 C++ | 📅 2026-10-06
 * [Palnagotchi](https://github.com/viniciusbo/m5-palnagotchi) ⭐ 82 | 🐛 3 | 🌐 C++ | 📅 2026-01-28
 * [433Mhz sniffer](https://github.com/bmorcelli/io433) ⭐ 50 | 🐛 0 | 🌐 C++ | 📅 2024-11-07
 
@@ -141,4 +142,4 @@ These builtin apps can be found at: <https://github.com/m5stack/M5Cardputer-User
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-24._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-25._

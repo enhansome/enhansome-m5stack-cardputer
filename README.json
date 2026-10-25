@@ -18,10 +18,10 @@
                 "language": "C++",
                 "license": "MIT",
                 "last_commit": "2026-10-23T18:37:35Z",
-                "open_issues": 25,
+                "open_issues": 27,
                 "owner": "bmorcelli",
                 "repo": "Launcher",
-                "stars": 2280,
+                "stars": 2282,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:07:43.610Z"
@@ -180,6 +180,48 @@
             },
             {
               "node_type": "item",
+              "title": "NucleoOS",
+              "description": "Full OS for Cardputer and Cardputer ADV (one image): native launcher with 50+ apps and games, a web desktop served to your browser, an offline AI assistant and Game Boy / Game Gear emulators. Installs from the browser or M5Launcher",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Web-native OS for the M5Stack Cardputer (ESP32-S3): native firmware + a desktop-class browser shell, offline AI assistant (ANIMA), bilingual voice, games, a security lab, OTA.",
+                "homepage": "https://nucleoos.indexhub.it/cardputer/",
+                "id": 1268267248,
+                "language": "C",
+                "license": "NOASSERTION",
+                "last_commit": "2026-10-25T16:36:25Z",
+                "open_issues": 1,
+                "owner": "indecenti",
+                "repo": "NucleoOs",
+                "stars": 82,
+                "topics": [
+                  "cardputer",
+                  "cardputer-adv",
+                  "embedded",
+                  "emulator",
+                  "esp-idf",
+                  "esp32",
+                  "esp32-s3",
+                  "firmware",
+                  "game-gear",
+                  "gameboy",
+                  "iot",
+                  "m5stack",
+                  "m5stack-cardputer",
+                  "offline-ai",
+                  "operating-system",
+                  "pwa",
+                  "rtos",
+                  "voice-assistant",
+                  "wasm",
+                  "web-desktop"
+                ]
+              },
+              "first_seen": "2026-10-25T18:33:18.387Z"
+            },
+            {
+              "node_type": "item",
               "title": "Simple App Launcher for Cardputer",
               "description": "shikarunochi/CardputerSimpleLaucher",
               "children": [],
@@ -239,11 +281,11 @@
                 "id": 208325027,
                 "language": "C++",
                 "license": null,
-                "last_commit": "2026-10-24T03:17:22Z",
+                "last_commit": "2026-10-25T03:17:33Z",
                 "open_issues": 194,
                 "owner": "justcallmekoko",
                 "repo": "ESP32Marauder",
-                "stars": 12889,
+                "stars": 12905,
                 "topics": [
                   "arduino",
                   "beacon",
@@ -282,10 +324,10 @@
                 "language": "C++",
                 "license": "AGPL-3.0",
                 "last_commit": "2026-10-23T19:15:24Z",
-                "open_issues": 248,
+                "open_issues": 245,
                 "owner": "BruceDevices",
                 "repo": "firmware",
-                "stars": 7069,
+                "stars": 7079,
                 "topics": [
                   "bruce",
                   "cardputer",
@@ -321,11 +363,11 @@
                 "id": 1014515436,
                 "language": "C++",
                 "license": "MIT",
-                "last_commit": "2026-10-18T09:44:14Z",
-                "open_issues": 32,
+                "last_commit": "2026-10-25T09:25:58Z",
+                "open_issues": 33,
                 "owner": "geo-tp",
                 "repo": "ESP32-Bit-Pirate",
-                "stars": 6202,
+                "stars": 6209,
                 "topics": [
                   "arduino",
                   "bluetooth",
@@ -367,7 +409,7 @@
                 "open_issues": 22,
                 "owner": "7h30th3r0n3",
                 "repo": "Evil-M5Project",
-                "stars": 2759,
+                "stars": 2762,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:07:43.610Z"
@@ -409,7 +451,7 @@
                 "open_issues": 38,
                 "owner": "0ct0sec",
                 "repo": "M5PORKCHOP",
-                "stars": 936,
+                "stars": 937,
                 "topics": [
                   "cybersecurity-awareness",
                   "cybersecurity-education",
@@ -1364,7 +1406,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-24T18:21:36.577Z",
+    "last_updated": "2026-10-25T18:33:18.387Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome M5Stack Cardputer",
@@ -1372,8 +1414,8 @@
       "id": 742558696,
       "language": null,
       "license": "GPL-3.0",
-      "last_commit": "2026-08-02T05:01:38Z",
-      "open_issues": 1,
+      "last_commit": "2026-10-25T14:46:28Z",
+      "open_issues": 0,
       "owner": "terremoth",
       "repo": "awesome-m5stack-cardputer",
       "stars": 777,
@@ -1387,7 +1429,7 @@
         "m5stack-cardputer"
       ]
     },
-    "original_repository_sha": "d647ba1eae42047c00a41e6d2fdfe3b16a2ad5ff",
+    "original_repository_sha": "9a084b572b091a5fae121d8b8cf70975348abc7a",
     "enhanced_repository": "enhansome/enhansome-m5stack-cardputer",
     "enhanced_repository_description": null,
     "title": "Awesome M5Stack Cardputer with stars"
