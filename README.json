@@ -18,10 +18,10 @@
                 "language": "C++",
                 "license": "MIT",
                 "last_commit": "2026-10-26T11:38:54Z",
-                "open_issues": 26,
+                "open_issues": 25,
                 "owner": "bmorcelli",
                 "repo": "Launcher",
-                "stars": 2287,
+                "stars": 2291,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:07:43.610Z"
@@ -190,11 +190,11 @@
                 "id": 1268267248,
                 "language": "C",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-25T23:19:12Z",
+                "last_commit": "2026-10-27T20:08:17Z",
                 "open_issues": 0,
                 "owner": "indecenti",
                 "repo": "NucleoOs",
-                "stars": 84,
+                "stars": 87,
                 "topics": [
                   "cardputer",
                   "cardputer-adv",
@@ -257,7 +257,7 @@
                 "open_issues": 0,
                 "owner": "lunalna",
                 "repo": "HydraOS",
-                "stars": 27,
+                "stars": 28,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:07:43.610Z"
@@ -282,10 +282,10 @@
                 "language": "C++",
                 "license": null,
                 "last_commit": "2026-10-26T03:20:40Z",
-                "open_issues": 204,
+                "open_issues": 206,
                 "owner": "justcallmekoko",
                 "repo": "ESP32Marauder",
-                "stars": 12912,
+                "stars": 12918,
                 "topics": [
                   "arduino",
                   "beacon",
@@ -323,11 +323,11 @@
                 "id": 795166961,
                 "language": "C++",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-10-23T19:15:24Z",
+                "last_commit": "2026-10-27T19:26:50Z",
                 "open_issues": 247,
                 "owner": "BruceDevices",
                 "repo": "firmware",
-                "stars": 7085,
+                "stars": 7088,
                 "topics": [
                   "bruce",
                   "cardputer",
@@ -367,7 +367,7 @@
                 "open_issues": 33,
                 "owner": "geo-tp",
                 "repo": "ESP32-Bit-Pirate",
-                "stars": 6235,
+                "stars": 6252,
                 "topics": [
                   "arduino",
                   "bluetooth",
@@ -409,7 +409,7 @@
                 "open_issues": 22,
                 "owner": "7h30th3r0n3",
                 "repo": "Evil-M5Project",
-                "stars": 2765,
+                "stars": 2774,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:07:43.610Z"
@@ -430,7 +430,7 @@
                 "open_issues": 9,
                 "owner": "n0xa",
                 "repo": "m5stick-nemo",
-                "stars": 1314,
+                "stars": 1315,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:07:43.610Z"
@@ -451,7 +451,7 @@
                 "open_issues": 38,
                 "owner": "0ct0sec",
                 "repo": "M5PORKCHOP",
-                "stars": 937,
+                "stars": 938,
                 "topics": [
                   "cybersecurity-awareness",
                   "cybersecurity-education",
@@ -527,7 +527,7 @@
                 "open_issues": 16,
                 "owner": "geo-tp",
                 "repo": "Cardputer-Game-Station-Emulators",
-                "stars": 255,
+                "stars": 257,
                 "topics": [
                   "atari",
                   "cardputer",
@@ -1045,7 +1045,7 @@
                 "open_issues": 3,
                 "owner": "nishad2m8",
                 "repo": "PDAputer",
-                "stars": 65,
+                "stars": 66,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:07:43.610Z"
@@ -1197,7 +1197,7 @@
                 "open_issues": 0,
                 "owner": "avascik",
                 "repo": "weather-cardputer",
-                "stars": 23,
+                "stars": 24,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:07:43.610Z"
@@ -1288,27 +1288,6 @@
             },
             {
               "node_type": "item",
-              "title": "M5Cardputer WebRadio Dutch version",
-              "description": "rolandbreedveld/M5Cardputer_WebRadio_Dutch",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "M5Cardputer_WebRadio_Dutch",
-                "homepage": null,
-                "id": 805815914,
-                "language": "C++",
-                "license": null,
-                "last_commit": "2024-07-26T14:45:48Z",
-                "open_issues": 1,
-                "owner": "rolandbreedveld",
-                "repo": "M5Cardputer_WebRadio_Dutch",
-                "stars": 8,
-                "topics": []
-              },
-              "first_seen": "2026-08-29T00:07:43.610Z"
-            },
-            {
-              "node_type": "item",
               "title": "Eliza Chatbot",
               "description": "Layer812/cardputer_eliza",
               "children": [],
@@ -1323,6 +1302,27 @@
                 "open_issues": 0,
                 "owner": "Layer812",
                 "repo": "cardputer_eliza",
+                "stars": 9,
+                "topics": []
+              },
+              "first_seen": "2026-08-29T00:07:43.610Z"
+            },
+            {
+              "node_type": "item",
+              "title": "M5Cardputer WebRadio Dutch version",
+              "description": "rolandbreedveld/M5Cardputer_WebRadio_Dutch",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "M5Cardputer_WebRadio_Dutch",
+                "homepage": null,
+                "id": 805815914,
+                "language": "C++",
+                "license": null,
+                "last_commit": "2024-07-26T14:45:48Z",
+                "open_issues": 1,
+                "owner": "rolandbreedveld",
+                "repo": "M5Cardputer_WebRadio_Dutch",
                 "stars": 8,
                 "topics": []
               },
@@ -1406,7 +1406,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-26T20:45:21.916Z",
+    "last_updated": "2026-10-27T20:14:58.290Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome M5Stack Cardputer",
@@ -1418,7 +1418,7 @@
       "open_issues": 0,
       "owner": "terremoth",
       "repo": "awesome-m5stack-cardputer",
-      "stars": 778,
+      "stars": 780,
       "topics": [
         "awesome",
         "awesome-list",
