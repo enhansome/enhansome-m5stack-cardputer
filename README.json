@@ -18,10 +18,10 @@
                 "language": "C++",
                 "license": "MIT",
                 "last_commit": "2026-10-28T03:33:18Z",
-                "open_issues": 28,
+                "open_issues": 27,
                 "owner": "bmorcelli",
                 "repo": "Launcher",
-                "stars": 2296,
+                "stars": 2299,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:07:43.610Z"
@@ -123,7 +123,7 @@
                 "open_issues": 22,
                 "owner": "echo-lalia",
                 "repo": "MicroHydra",
-                "stars": 322,
+                "stars": 323,
                 "topics": [
                   "cardputer",
                   "cyberdeck",
@@ -190,11 +190,11 @@
                 "id": 1268267248,
                 "language": "C",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-28T19:10:24Z",
+                "last_commit": "2026-10-29T18:07:18Z",
                 "open_issues": 0,
                 "owner": "indecenti",
                 "repo": "NucleoOs",
-                "stars": 91,
+                "stars": 93,
                 "topics": [
                   "cardputer",
                   "cardputer-adv",
@@ -281,11 +281,11 @@
                 "id": 208325027,
                 "language": "C++",
                 "license": null,
-                "last_commit": "2026-10-28T18:22:10Z",
-                "open_issues": 200,
+                "last_commit": "2026-10-29T03:14:58Z",
+                "open_issues": 199,
                 "owner": "justcallmekoko",
                 "repo": "ESP32Marauder",
-                "stars": 12926,
+                "stars": 12930,
                 "topics": [
                   "arduino",
                   "beacon",
@@ -324,10 +324,10 @@
                 "language": "C++",
                 "license": "AGPL-3.0",
                 "last_commit": "2026-10-28T00:47:20Z",
-                "open_issues": 247,
+                "open_issues": 252,
                 "owner": "BruceDevices",
                 "repo": "firmware",
-                "stars": 7099,
+                "stars": 7106,
                 "topics": [
                   "bruce",
                   "cardputer",
@@ -367,7 +367,7 @@
                 "open_issues": 33,
                 "owner": "geo-tp",
                 "repo": "ESP32-Bit-Pirate",
-                "stars": 6264,
+                "stars": 6281,
                 "topics": [
                   "arduino",
                   "bluetooth",
@@ -409,7 +409,7 @@
                 "open_issues": 22,
                 "owner": "7h30th3r0n3",
                 "repo": "Evil-M5Project",
-                "stars": 2778,
+                "stars": 2784,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:07:43.610Z"
@@ -448,7 +448,7 @@
                 "language": "C++",
                 "license": "MIT",
                 "last_commit": "2026-10-06T09:58:50Z",
-                "open_issues": 38,
+                "open_issues": 39,
                 "owner": "0ct0sec",
                 "repo": "M5PORKCHOP",
                 "stars": 939,
@@ -924,7 +924,7 @@
                 "open_issues": 1,
                 "owner": "cyberwisk",
                 "repo": "M5Cardputer_WebRadio",
-                "stars": 135,
+                "stars": 136,
                 "topics": [
                   "esp32",
                   "esp32-s3-xtensa",
@@ -953,7 +953,7 @@
                 "open_issues": 2,
                 "owner": "nonik0",
                 "repo": "CardputerLoRaChat",
-                "stars": 123,
+                "stars": 124,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:07:43.610Z"
@@ -1024,7 +1024,7 @@
                 "open_issues": 0,
                 "owner": "Kezii",
                 "repo": "Rust-M5Stack-Cardputer",
-                "stars": 70,
+                "stars": 71,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:07:43.610Z"
@@ -1218,7 +1218,7 @@
                 "open_issues": 0,
                 "owner": "aat440hz",
                 "repo": "TelnetClient-M5Cardputer",
-                "stars": 22,
+                "stars": 23,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:07:43.610Z"
@@ -1406,7 +1406,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-28T20:34:24.258Z",
+    "last_updated": "2026-10-29T20:37:37.839Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome M5Stack Cardputer",
