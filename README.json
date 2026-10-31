@@ -18,10 +18,10 @@
                 "language": "C++",
                 "license": "MIT",
                 "last_commit": "2026-10-30T09:38:03Z",
-                "open_issues": 28,
+                "open_issues": 30,
                 "owner": "bmorcelli",
                 "repo": "Launcher",
-                "stars": 2302,
+                "stars": 2304,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:07:43.610Z"
@@ -42,7 +42,7 @@
                 "open_issues": 3,
                 "owner": "beryllium-org",
                 "repo": "Micro",
-                "stars": 329,
+                "stars": 328,
                 "topics": [
                   "beryllium",
                   "cardputer",
@@ -194,7 +194,7 @@
                 "open_issues": 0,
                 "owner": "indecenti",
                 "repo": "NucleoOs",
-                "stars": 95,
+                "stars": 94,
                 "topics": [
                   "cardputer",
                   "cardputer-adv",
@@ -285,7 +285,7 @@
                 "open_issues": 199,
                 "owner": "justcallmekoko",
                 "repo": "ESP32Marauder",
-                "stars": 12943,
+                "stars": 12956,
                 "topics": [
                   "arduino",
                   "beacon",
@@ -327,7 +327,7 @@
                 "open_issues": 260,
                 "owner": "BruceDevices",
                 "repo": "firmware",
-                "stars": 7115,
+                "stars": 7123,
                 "topics": [
                   "bruce",
                   "cardputer",
@@ -367,7 +367,7 @@
                 "open_issues": 33,
                 "owner": "geo-tp",
                 "repo": "ESP32-Bit-Pirate",
-                "stars": 6296,
+                "stars": 6302,
                 "topics": [
                   "arduino",
                   "bluetooth",
@@ -409,7 +409,7 @@
                 "open_issues": 22,
                 "owner": "7h30th3r0n3",
                 "repo": "Evil-M5Project",
-                "stars": 2787,
+                "stars": 2795,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:07:43.610Z"
@@ -430,7 +430,7 @@
                 "open_issues": 9,
                 "owner": "n0xa",
                 "repo": "m5stick-nemo",
-                "stars": 1317,
+                "stars": 1318,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:07:43.610Z"
@@ -451,7 +451,7 @@
                 "open_issues": 39,
                 "owner": "0ct0sec",
                 "repo": "M5PORKCHOP",
-                "stars": 942,
+                "stars": 944,
                 "topics": [
                   "cybersecurity-awareness",
                   "cybersecurity-education",
@@ -527,7 +527,7 @@
                 "open_issues": 16,
                 "owner": "geo-tp",
                 "repo": "Cardputer-Game-Station-Emulators",
-                "stars": 257,
+                "stars": 258,
                 "topics": [
                   "atari",
                   "cardputer",
@@ -887,7 +887,7 @@
                 "id": 811695242,
                 "language": "C++",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-19T13:18:07Z",
+                "last_commit": "2026-10-30T20:13:30Z",
                 "open_issues": 1,
                 "owner": "geo-tp",
                 "repo": "Ultimate-Remote",
@@ -1406,7 +1406,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-30T20:08:46.444Z",
+    "last_updated": "2026-10-31T19:32:50.510Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome M5Stack Cardputer",
@@ -1415,10 +1415,10 @@
       "language": null,
       "license": "GPL-3.0",
       "last_commit": "2026-10-25T14:46:28Z",
-      "open_issues": 0,
+      "open_issues": 1,
       "owner": "terremoth",
       "repo": "awesome-m5stack-cardputer",
-      "stars": 782,
+      "stars": 783,
       "topics": [
         "awesome",
         "awesome-list",
