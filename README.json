@@ -17,11 +17,11 @@
                 "id": 755727720,
                 "language": "C++",
                 "license": "MIT",
-                "last_commit": "2026-10-30T09:38:03Z",
+                "last_commit": "2026-11-02T11:07:57Z",
                 "open_issues": 31,
                 "owner": "bmorcelli",
                 "repo": "Launcher",
-                "stars": 2307,
+                "stars": 2310,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:07:43.610Z"
@@ -285,7 +285,7 @@
                 "open_issues": 198,
                 "owner": "justcallmekoko",
                 "repo": "ESP32Marauder",
-                "stars": 12968,
+                "stars": 12981,
                 "topics": [
                   "arduino",
                   "beacon",
@@ -327,7 +327,7 @@
                 "open_issues": 260,
                 "owner": "BruceDevices",
                 "repo": "firmware",
-                "stars": 7130,
+                "stars": 7137,
                 "topics": [
                   "bruce",
                   "cardputer",
@@ -367,7 +367,7 @@
                 "open_issues": 33,
                 "owner": "geo-tp",
                 "repo": "ESP32-Bit-Pirate",
-                "stars": 6311,
+                "stars": 6322,
                 "topics": [
                   "arduino",
                   "bluetooth",
@@ -406,10 +406,10 @@
                 "language": "C++",
                 "license": null,
                 "last_commit": "2026-11-01T14:57:34Z",
-                "open_issues": 22,
+                "open_issues": 24,
                 "owner": "7h30th3r0n3",
                 "repo": "Evil-M5Project",
-                "stars": 2799,
+                "stars": 2808,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:07:43.610Z"
@@ -451,7 +451,7 @@
                 "open_issues": 39,
                 "owner": "0ct0sec",
                 "repo": "M5PORKCHOP",
-                "stars": 944,
+                "stars": 945,
                 "topics": [
                   "cybersecurity-awareness",
                   "cybersecurity-education",
@@ -1406,7 +1406,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-01T19:53:49.109Z",
+    "last_updated": "2026-11-02T23:13:22.091Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome M5Stack Cardputer",
