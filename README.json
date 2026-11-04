@@ -18,10 +18,10 @@
                 "language": "C++",
                 "license": "MIT",
                 "last_commit": "2026-11-03T14:32:29Z",
-                "open_issues": 29,
+                "open_issues": 28,
                 "owner": "bmorcelli",
                 "repo": "Launcher",
-                "stars": 2310,
+                "stars": 2312,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:07:43.610Z"
@@ -190,11 +190,11 @@
                 "id": 1268267248,
                 "language": "C",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-31T23:13:58Z",
-                "open_issues": 1,
+                "last_commit": "2026-11-04T20:04:48Z",
+                "open_issues": 2,
                 "owner": "indecenti",
                 "repo": "NucleoOs",
-                "stars": 97,
+                "stars": 99,
                 "topics": [
                   "cardputer",
                   "cardputer-adv",
@@ -261,6 +261,27 @@
                 "topics": []
               },
               "first_seen": "2026-08-29T00:07:43.610Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Saitama",
+              "description": "Fully offgrid meshcore messenger t-deck for Cardputer ADV",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Meshcore firmware for the Lilygo TDeck plus",
+                "homepage": null,
+                "id": 1238564817,
+                "language": "C++",
+                "license": "GPL-3.0",
+                "last_commit": "2026-11-03T08:27:13Z",
+                "open_issues": 0,
+                "owner": "868meshbot",
+                "repo": "Saitama",
+                "stars": 19,
+                "topics": []
+              },
+              "first_seen": "2026-11-04T21:31:14.531Z"
             }
           ],
           "description": null,
@@ -285,7 +306,7 @@
                 "open_issues": 199,
                 "owner": "justcallmekoko",
                 "repo": "ESP32Marauder",
-                "stars": 12989,
+                "stars": 13003,
                 "topics": [
                   "arduino",
                   "beacon",
@@ -323,11 +344,11 @@
                 "id": 795166961,
                 "language": "C++",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-11-03T01:31:44Z",
-                "open_issues": 263,
+                "last_commit": "2026-11-04T19:48:36Z",
+                "open_issues": 262,
                 "owner": "BruceDevices",
                 "repo": "firmware",
-                "stars": 7139,
+                "stars": 7150,
                 "topics": [
                   "bruce",
                   "cardputer",
@@ -367,7 +388,7 @@
                 "open_issues": 33,
                 "owner": "geo-tp",
                 "repo": "ESP32-Bit-Pirate",
-                "stars": 6326,
+                "stars": 6335,
                 "topics": [
                   "arduino",
                   "bluetooth",
@@ -405,11 +426,11 @@
                 "id": 734739273,
                 "language": "C++",
                 "license": null,
-                "last_commit": "2026-11-03T17:02:59Z",
-                "open_issues": 24,
+                "last_commit": "2026-11-04T10:19:51Z",
+                "open_issues": 20,
                 "owner": "7h30th3r0n3",
                 "repo": "Evil-M5Project",
-                "stars": 2812,
+                "stars": 2821,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:07:43.610Z"
@@ -430,7 +451,7 @@
                 "open_issues": 9,
                 "owner": "n0xa",
                 "repo": "m5stick-nemo",
-                "stars": 1318,
+                "stars": 1319,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:07:43.610Z"
@@ -451,7 +472,7 @@
                 "open_issues": 39,
                 "owner": "0ct0sec",
                 "repo": "M5PORKCHOP",
-                "stars": 944,
+                "stars": 946,
                 "topics": [
                   "cybersecurity-awareness",
                   "cybersecurity-education",
@@ -1406,7 +1427,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-03T21:16:04.077Z",
+    "last_updated": "2026-11-04T21:31:14.531Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome M5Stack Cardputer",
@@ -1414,7 +1435,7 @@
       "id": 742558696,
       "language": null,
       "license": "GPL-3.0",
-      "last_commit": "2026-10-25T14:46:28Z",
+      "last_commit": "2026-11-04T11:55:11Z",
       "open_issues": 1,
       "owner": "terremoth",
       "repo": "awesome-m5stack-cardputer",
@@ -1429,7 +1450,7 @@
         "m5stack-cardputer"
       ]
     },
-    "original_repository_sha": "9a084b572b091a5fae121d8b8cf70975348abc7a",
+    "original_repository_sha": "dd04800971ca24418de2a8a7c6c0d6a7d6e9da46",
     "enhanced_repository": "enhansome/enhansome-m5stack-cardputer",
     "enhanced_repository_description": null,
     "title": "Awesome M5Stack Cardputer with stars"
