@@ -18,10 +18,10 @@
                 "language": "C++",
                 "license": "MIT",
                 "last_commit": "2026-11-07T14:42:43Z",
-                "open_issues": 17,
+                "open_issues": 19,
                 "owner": "bmorcelli",
                 "repo": "Launcher",
-                "stars": 2330,
+                "stars": 2339,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:07:43.610Z"
@@ -194,7 +194,7 @@
                 "open_issues": 2,
                 "owner": "indecenti",
                 "repo": "NucleoOs",
-                "stars": 101,
+                "stars": 102,
                 "topics": [
                   "cardputer",
                   "cardputer-adv",
@@ -303,10 +303,10 @@
                 "language": "C++",
                 "license": null,
                 "last_commit": "2026-10-29T03:14:58Z",
-                "open_issues": 199,
+                "open_issues": 200,
                 "owner": "justcallmekoko",
                 "repo": "ESP32Marauder",
-                "stars": 13022,
+                "stars": 13036,
                 "topics": [
                   "arduino",
                   "beacon",
@@ -344,11 +344,11 @@
                 "id": 795166961,
                 "language": "C++",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-11-07T12:28:40Z",
-                "open_issues": 262,
+                "last_commit": "2026-11-08T01:58:03Z",
+                "open_issues": 258,
                 "owner": "BruceDevices",
                 "repo": "firmware",
-                "stars": 7169,
+                "stars": 7183,
                 "topics": [
                   "bruce",
                   "cardputer",
@@ -384,11 +384,11 @@
                 "id": 1014515436,
                 "language": "C++",
                 "license": "MIT",
-                "last_commit": "2026-11-01T10:11:18Z",
+                "last_commit": "2026-11-08T09:48:00Z",
                 "open_issues": 33,
                 "owner": "geo-tp",
                 "repo": "ESP32-Bit-Pirate",
-                "stars": 6351,
+                "stars": 6361,
                 "topics": [
                   "arduino",
                   "bluetooth",
@@ -430,7 +430,7 @@
                 "open_issues": 20,
                 "owner": "7h30th3r0n3",
                 "repo": "Evil-M5Project",
-                "stars": 2839,
+                "stars": 2843,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:07:43.610Z"
@@ -451,7 +451,7 @@
                 "open_issues": 9,
                 "owner": "n0xa",
                 "repo": "m5stick-nemo",
-                "stars": 1319,
+                "stars": 1320,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:07:43.610Z"
@@ -548,7 +548,7 @@
                 "open_issues": 16,
                 "owner": "geo-tp",
                 "repo": "Cardputer-Game-Station-Emulators",
-                "stars": 258,
+                "stars": 259,
                 "topics": [
                   "atari",
                   "cardputer",
@@ -587,7 +587,7 @@
                 "language": "C",
                 "license": "NOASSERTION",
                 "last_commit": "2026-09-10T19:23:52Z",
-                "open_issues": 5,
+                "open_issues": 4,
                 "owner": "Mr-PauI",
                 "repo": "Gameboy-Enhanced-Firmware-m5stack-cardputer-",
                 "stars": 89,
@@ -622,7 +622,7 @@
                 "open_issues": 1,
                 "owner": "matteofo",
                 "repo": "gb_cardputer",
-                "stars": 72,
+                "stars": 73,
                 "topics": [
                   "cardputer",
                   "esp32",
@@ -677,7 +677,7 @@
                 "open_issues": 1,
                 "owner": "mindovermiles262",
                 "repo": "tamaputer",
-                "stars": 28,
+                "stars": 29,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:07:43.610Z"
@@ -945,7 +945,7 @@
                 "open_issues": 1,
                 "owner": "cyberwisk",
                 "repo": "M5Cardputer_WebRadio",
-                "stars": 136,
+                "stars": 137,
                 "topics": [
                   "esp32",
                   "esp32-s3-xtensa",
@@ -995,7 +995,7 @@
                 "open_issues": 13,
                 "owner": "urtubia",
                 "repo": "miniacid",
-                "stars": 117,
+                "stars": 118,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:07:43.610Z"
@@ -1016,7 +1016,7 @@
                 "open_issues": 4,
                 "owner": "geo-tp",
                 "repo": "M5Cardputer-Audio-Stream-Server",
-                "stars": 111,
+                "stars": 112,
                 "topics": [
                   "audio",
                   "esp32",
@@ -1045,7 +1045,7 @@
                 "open_issues": 0,
                 "owner": "Kezii",
                 "repo": "Rust-M5Stack-Cardputer",
-                "stars": 71,
+                "stars": 72,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:07:43.610Z"
@@ -1087,7 +1087,7 @@
                 "open_issues": 3,
                 "owner": "aat440hz",
                 "repo": "SSHClient-M5Cardputer",
-                "stars": 64,
+                "stars": 65,
                 "topics": [
                   "esp32-ardunio",
                   "m5cardputer",
@@ -1427,7 +1427,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-07T19:37:50.760Z",
+    "last_updated": "2026-11-08T19:58:16.169Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome M5Stack Cardputer",
@@ -1439,7 +1439,7 @@
       "open_issues": 1,
       "owner": "terremoth",
       "repo": "awesome-m5stack-cardputer",
-      "stars": 786,
+      "stars": 787,
       "topics": [
         "awesome",
         "awesome-list",
