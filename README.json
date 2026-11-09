@@ -18,10 +18,10 @@
                 "language": "C++",
                 "license": "MIT",
                 "last_commit": "2026-11-07T14:42:43Z",
-                "open_issues": 19,
+                "open_issues": 21,
                 "owner": "bmorcelli",
                 "repo": "Launcher",
-                "stars": 2339,
+                "stars": 2346,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:07:43.610Z"
@@ -123,7 +123,7 @@
                 "open_issues": 20,
                 "owner": "echo-lalia",
                 "repo": "MicroHydra",
-                "stars": 325,
+                "stars": 326,
                 "topics": [
                   "cardputer",
                   "cyberdeck",
@@ -152,7 +152,7 @@
                 "open_issues": 0,
                 "owner": "RetiredWizard",
                 "repo": "PyDOS",
-                "stars": 182,
+                "stars": 183,
                 "topics": [
                   "basic",
                   "cardputer",
@@ -190,11 +190,11 @@
                 "id": 1268267248,
                 "language": "C",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-06T00:04:31Z",
-                "open_issues": 2,
+                "last_commit": "2026-11-09T13:13:23Z",
+                "open_issues": 0,
                 "owner": "indecenti",
                 "repo": "NucleoOs",
-                "stars": 102,
+                "stars": 103,
                 "topics": [
                   "cardputer",
                   "cardputer-adv",
@@ -274,8 +274,8 @@
                 "id": 1238564817,
                 "language": "C++",
                 "license": "GPL-3.0",
-                "last_commit": "2026-11-07T13:17:54Z",
-                "open_issues": 0,
+                "last_commit": "2026-11-09T16:01:36Z",
+                "open_issues": 1,
                 "owner": "868meshbot",
                 "repo": "Saitama",
                 "stars": 19,
@@ -303,10 +303,10 @@
                 "language": "C++",
                 "license": null,
                 "last_commit": "2026-10-29T03:14:58Z",
-                "open_issues": 200,
+                "open_issues": 199,
                 "owner": "justcallmekoko",
                 "repo": "ESP32Marauder",
-                "stars": 13036,
+                "stars": 13050,
                 "topics": [
                   "arduino",
                   "beacon",
@@ -344,11 +344,11 @@
                 "id": 795166961,
                 "language": "C++",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-11-08T01:58:03Z",
-                "open_issues": 258,
+                "last_commit": "2026-11-08T20:14:00Z",
+                "open_issues": 259,
                 "owner": "BruceDevices",
                 "repo": "firmware",
-                "stars": 7183,
+                "stars": 7192,
                 "topics": [
                   "bruce",
                   "cardputer",
@@ -388,7 +388,7 @@
                 "open_issues": 33,
                 "owner": "geo-tp",
                 "repo": "ESP32-Bit-Pirate",
-                "stars": 6361,
+                "stars": 6365,
                 "topics": [
                   "arduino",
                   "bluetooth",
@@ -430,7 +430,7 @@
                 "open_issues": 20,
                 "owner": "7h30th3r0n3",
                 "repo": "Evil-M5Project",
-                "stars": 2843,
+                "stars": 2849,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:07:43.610Z"
@@ -451,7 +451,7 @@
                 "open_issues": 9,
                 "owner": "n0xa",
                 "repo": "m5stick-nemo",
-                "stars": 1320,
+                "stars": 1321,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:07:43.610Z"
@@ -472,7 +472,7 @@
                 "open_issues": 39,
                 "owner": "0ct0sec",
                 "repo": "M5PORKCHOP",
-                "stars": 949,
+                "stars": 956,
                 "topics": [
                   "cybersecurity-awareness",
                   "cybersecurity-education",
@@ -548,7 +548,7 @@
                 "open_issues": 16,
                 "owner": "geo-tp",
                 "repo": "Cardputer-Game-Station-Emulators",
-                "stars": 259,
+                "stars": 260,
                 "topics": [
                   "atari",
                   "cardputer",
@@ -586,7 +586,7 @@
                 "id": 798035821,
                 "language": "C",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-10T19:23:52Z",
+                "last_commit": "2026-11-08T21:07:17Z",
                 "open_issues": 4,
                 "owner": "Mr-PauI",
                 "repo": "Gameboy-Enhanced-Firmware-m5stack-cardputer-",
@@ -705,6 +705,41 @@
             },
             {
               "node_type": "item",
+              "title": "Hotspot Arcade",
+              "description": "Several offline party games your guests play from their phones",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Offline party games your guests play from their phones, hosted entirely by an M5Stack Cardputer. Opens a WiFi AP. Port of tarikbc/hotspot-arcade.",
+                "homepage": null,
+                "id": 1318267371,
+                "language": "C",
+                "license": "NOASSERTION",
+                "last_commit": "2026-09-04T21:35:24Z",
+                "open_issues": 0,
+                "owner": "genkigenki",
+                "repo": "hotspot-arcade-cardputer",
+                "stars": 15,
+                "topics": [
+                  "airplane-mode",
+                  "captive-portal",
+                  "cardputer",
+                  "esp32",
+                  "esp32-s3",
+                  "game",
+                  "gaming",
+                  "m5stack",
+                  "multiplayer",
+                  "offline",
+                  "party-apps",
+                  "party-game",
+                  "party-games"
+                ]
+              },
+              "first_seen": "2026-08-29T00:07:43.610Z"
+            },
+            {
+              "node_type": "item",
               "title": "Anarch Game port from ESPBoy",
               "description": "TheBricktop/Anarch-Cardputer",
               "children": [],
@@ -721,41 +756,6 @@
                 "repo": "Anarch-Cardputer",
                 "stars": 14,
                 "topics": []
-              },
-              "first_seen": "2026-08-29T00:07:43.610Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Hotspot Arcade",
-              "description": "Several offline party games your guests play from their phones",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Offline party games your guests play from their phones, hosted entirely by an M5Stack Cardputer. Opens a WiFi AP. Port of tarikbc/hotspot-arcade.",
-                "homepage": null,
-                "id": 1318267371,
-                "language": "C",
-                "license": "NOASSERTION",
-                "last_commit": "2026-09-04T21:35:24Z",
-                "open_issues": 0,
-                "owner": "genkigenki",
-                "repo": "hotspot-arcade-cardputer",
-                "stars": 14,
-                "topics": [
-                  "airplane-mode",
-                  "captive-portal",
-                  "cardputer",
-                  "esp32",
-                  "esp32-s3",
-                  "game",
-                  "gaming",
-                  "m5stack",
-                  "multiplayer",
-                  "offline",
-                  "party-apps",
-                  "party-game",
-                  "party-games"
-                ]
               },
               "first_seen": "2026-08-29T00:07:43.610Z"
             },
@@ -912,7 +912,7 @@
                 "open_issues": 1,
                 "owner": "geo-tp",
                 "repo": "Ultimate-Remote",
-                "stars": 226,
+                "stars": 227,
                 "topics": [
                   "arm64",
                   "cardputer",
@@ -974,7 +974,7 @@
                 "open_issues": 2,
                 "owner": "nonik0",
                 "repo": "CardputerLoRaChat",
-                "stars": 124,
+                "stars": 125,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:07:43.610Z"
@@ -1016,7 +1016,7 @@
                 "open_issues": 4,
                 "owner": "geo-tp",
                 "repo": "M5Cardputer-Audio-Stream-Server",
-                "stars": 112,
+                "stars": 113,
                 "topics": [
                   "audio",
                   "esp32",
@@ -1427,7 +1427,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-08T19:58:16.169Z",
+    "last_updated": "2026-11-09T23:51:26.047Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome M5Stack Cardputer",
@@ -1439,7 +1439,7 @@
       "open_issues": 1,
       "owner": "terremoth",
       "repo": "awesome-m5stack-cardputer",
-      "stars": 787,
+      "stars": 789,
       "topics": [
         "awesome",
         "awesome-list",
