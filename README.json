@@ -42,7 +42,7 @@
                 "open_issues": 3,
                 "owner": "beryllium-org",
                 "repo": "Micro",
-                "stars": 329,
+                "stars": 330,
                 "topics": [
                   "beryllium",
                   "cardputer",
@@ -194,7 +194,7 @@
                 "open_issues": 0,
                 "owner": "indecenti",
                 "repo": "NucleoOs",
-                "stars": 103,
+                "stars": 105,
                 "topics": [
                   "cardputer",
                   "cardputer-adv",
@@ -306,7 +306,7 @@
                 "open_issues": 199,
                 "owner": "justcallmekoko",
                 "repo": "ESP32Marauder",
-                "stars": 13050,
+                "stars": 13064,
                 "topics": [
                   "arduino",
                   "beacon",
@@ -345,10 +345,10 @@
                 "language": "C++",
                 "license": "AGPL-3.0",
                 "last_commit": "2026-11-08T20:14:00Z",
-                "open_issues": 259,
+                "open_issues": 261,
                 "owner": "BruceDevices",
                 "repo": "firmware",
-                "stars": 7192,
+                "stars": 7198,
                 "topics": [
                   "bruce",
                   "cardputer",
@@ -388,7 +388,7 @@
                 "open_issues": 33,
                 "owner": "geo-tp",
                 "repo": "ESP32-Bit-Pirate",
-                "stars": 6365,
+                "stars": 6368,
                 "topics": [
                   "arduino",
                   "bluetooth",
@@ -430,7 +430,7 @@
                 "open_issues": 20,
                 "owner": "7h30th3r0n3",
                 "repo": "Evil-M5Project",
-                "stars": 2849,
+                "stars": 2851,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:07:43.610Z"
@@ -451,7 +451,7 @@
                 "open_issues": 9,
                 "owner": "n0xa",
                 "repo": "m5stick-nemo",
-                "stars": 1321,
+                "stars": 1322,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:07:43.610Z"
@@ -719,7 +719,7 @@
                 "open_issues": 0,
                 "owner": "genkigenki",
                 "repo": "hotspot-arcade-cardputer",
-                "stars": 15,
+                "stars": 16,
                 "topics": [
                   "airplane-mode",
                   "captive-portal",
@@ -974,7 +974,7 @@
                 "open_issues": 2,
                 "owner": "nonik0",
                 "repo": "CardputerLoRaChat",
-                "stars": 125,
+                "stars": 126,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:07:43.610Z"
@@ -1427,7 +1427,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-09T23:51:26.047Z",
+    "last_updated": "2026-11-10T21:25:48.204Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome M5Stack Cardputer",
@@ -1439,7 +1439,7 @@
       "open_issues": 1,
       "owner": "terremoth",
       "repo": "awesome-m5stack-cardputer",
-      "stars": 789,
+      "stars": 790,
       "topics": [
         "awesome",
         "awesome-list",
