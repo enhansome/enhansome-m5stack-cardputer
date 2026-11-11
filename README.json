@@ -18,10 +18,10 @@
                 "language": "C++",
                 "license": "MIT",
                 "last_commit": "2026-11-07T14:42:43Z",
-                "open_issues": 21,
+                "open_issues": 25,
                 "owner": "bmorcelli",
                 "repo": "Launcher",
-                "stars": 2346,
+                "stars": 2351,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:07:43.610Z"
@@ -194,7 +194,7 @@
                 "open_issues": 0,
                 "owner": "indecenti",
                 "repo": "NucleoOs",
-                "stars": 105,
+                "stars": 107,
                 "topics": [
                   "cardputer",
                   "cardputer-adv",
@@ -306,7 +306,7 @@
                 "open_issues": 199,
                 "owner": "justcallmekoko",
                 "repo": "ESP32Marauder",
-                "stars": 13064,
+                "stars": 13075,
                 "topics": [
                   "arduino",
                   "beacon",
@@ -345,10 +345,10 @@
                 "language": "C++",
                 "license": "AGPL-3.0",
                 "last_commit": "2026-11-08T20:14:00Z",
-                "open_issues": 261,
+                "open_issues": 267,
                 "owner": "BruceDevices",
                 "repo": "firmware",
-                "stars": 7198,
+                "stars": 7206,
                 "topics": [
                   "bruce",
                   "cardputer",
@@ -388,7 +388,7 @@
                 "open_issues": 33,
                 "owner": "geo-tp",
                 "repo": "ESP32-Bit-Pirate",
-                "stars": 6368,
+                "stars": 6372,
                 "topics": [
                   "arduino",
                   "bluetooth",
@@ -426,11 +426,11 @@
                 "id": 734739273,
                 "language": "C++",
                 "license": null,
-                "last_commit": "2026-11-04T10:19:51Z",
-                "open_issues": 20,
+                "last_commit": "2026-11-11T13:21:37Z",
+                "open_issues": 18,
                 "owner": "7h30th3r0n3",
                 "repo": "Evil-M5Project",
-                "stars": 2851,
+                "stars": 2857,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:07:43.610Z"
@@ -472,7 +472,7 @@
                 "open_issues": 39,
                 "owner": "0ct0sec",
                 "repo": "M5PORKCHOP",
-                "stars": 956,
+                "stars": 957,
                 "topics": [
                   "cybersecurity-awareness",
                   "cybersecurity-education",
@@ -482,6 +482,32 @@
                 ]
               },
               "first_seen": "2026-08-29T00:07:43.610Z"
+            },
+            {
+              "node_type": "item",
+              "title": "BadCard",
+              "description": "BadUSB for Cardputer with DuckyScript support and customizable payloads",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "BadUSB for the Cardputer with ducky script support and extra functionality",
+                "homepage": null,
+                "id": 765438156,
+                "language": "C++",
+                "license": "GPL-3.0",
+                "last_commit": "2025-03-30T11:50:24Z",
+                "open_issues": 3,
+                "owner": "VoidNoi",
+                "repo": "BadCard",
+                "stars": 157,
+                "topics": [
+                  "badusb",
+                  "cardputer",
+                  "esp32-s3",
+                  "m5stack"
+                ]
+              },
+              "first_seen": "2026-11-11T22:17:08.185Z"
             },
             {
               "node_type": "item",
@@ -1045,7 +1071,7 @@
                 "open_issues": 0,
                 "owner": "Kezii",
                 "repo": "Rust-M5Stack-Cardputer",
-                "stars": 72,
+                "stars": 73,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:07:43.610Z"
@@ -1416,6 +1442,31 @@
                 "topics": []
               },
               "first_seen": "2026-08-29T00:07:43.610Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Catputer",
+              "description": "Offline lofi radio for Cardputer ADV: composes music on the device while a pixel-art cat reads in its room",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "An offline generative lofi radio for Cardputer ADV, starring a cozy pixel-art cat.",
+                "homepage": "https://m0rg0t.github.io/catputer/",
+                "id": 1368194462,
+                "language": "C++",
+                "license": "MIT",
+                "last_commit": "2026-11-11T12:30:55Z",
+                "open_issues": 0,
+                "owner": "m0rg0t",
+                "repo": "catputer",
+                "stars": 1,
+                "topics": [
+                  "cardputer",
+                  "cardputer-adv",
+                  "m5stack"
+                ]
+              },
+              "first_seen": "2026-11-11T22:17:08.185Z"
             }
           ],
           "description": null,
@@ -1427,7 +1478,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-10T21:25:48.204Z",
+    "last_updated": "2026-11-11T22:17:08.185Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome M5Stack Cardputer",
@@ -1435,11 +1486,11 @@
       "id": 742558696,
       "language": null,
       "license": "GPL-3.0",
-      "last_commit": "2026-11-04T11:55:11Z",
+      "last_commit": "2026-11-11T11:57:26Z",
       "open_issues": 1,
       "owner": "terremoth",
       "repo": "awesome-m5stack-cardputer",
-      "stars": 790,
+      "stars": 791,
       "topics": [
         "awesome",
         "awesome-list",
@@ -1450,7 +1501,7 @@
         "m5stack-cardputer"
       ]
     },
-    "original_repository_sha": "dd04800971ca24418de2a8a7c6c0d6a7d6e9da46",
+    "original_repository_sha": "65896a0018cf93571ac2c5244f0708d8f5fee1a9",
     "enhanced_repository": "enhansome/enhansome-m5stack-cardputer",
     "enhanced_repository_description": null,
     "title": "Awesome M5Stack Cardputer with stars"
