@@ -21,7 +21,7 @@
                 "open_issues": 26,
                 "owner": "bmorcelli",
                 "repo": "Launcher",
-                "stars": 2375,
+                "stars": 2384,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:07:43.610Z"
@@ -236,7 +236,7 @@
                 "open_issues": 0,
                 "owner": "shikarunochi",
                 "repo": "CardputerSimpleLaucher",
-                "stars": 61,
+                "stars": 62,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:07:43.610Z"
@@ -274,8 +274,8 @@
                 "id": 1238564817,
                 "language": "C++",
                 "license": "GPL-3.0",
-                "last_commit": "2026-11-09T16:01:36Z",
-                "open_issues": 1,
+                "last_commit": "2026-11-16T09:01:22Z",
+                "open_issues": 0,
                 "owner": "868meshbot",
                 "repo": "Saitama",
                 "stars": 19,
@@ -302,11 +302,11 @@
                 "id": 208325027,
                 "language": "C++",
                 "license": null,
-                "last_commit": "2026-10-29T03:14:58Z",
-                "open_issues": 199,
+                "last_commit": "2026-11-16T17:37:01Z",
+                "open_issues": 200,
                 "owner": "justcallmekoko",
                 "repo": "ESP32Marauder",
-                "stars": 13119,
+                "stars": 13134,
                 "topics": [
                   "arduino",
                   "beacon",
@@ -344,11 +344,11 @@
                 "id": 795166961,
                 "language": "C++",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-11-14T22:29:14Z",
-                "open_issues": 274,
+                "last_commit": "2026-11-16T15:54:48Z",
+                "open_issues": 269,
                 "owner": "BruceDevices",
                 "repo": "firmware",
-                "stars": 7254,
+                "stars": 7274,
                 "topics": [
                   "bruce",
                   "cardputer",
@@ -388,7 +388,7 @@
                 "open_issues": 33,
                 "owner": "geo-tp",
                 "repo": "ESP32-Bit-Pirate",
-                "stars": 6388,
+                "stars": 6393,
                 "topics": [
                   "arduino",
                   "bluetooth",
@@ -427,10 +427,10 @@
                 "language": "C++",
                 "license": null,
                 "last_commit": "2026-11-15T17:10:22Z",
-                "open_issues": 17,
+                "open_issues": 16,
                 "owner": "7h30th3r0n3",
                 "repo": "Evil-M5Project",
-                "stars": 2878,
+                "stars": 2881,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:07:43.610Z"
@@ -469,10 +469,10 @@
                 "language": "C++",
                 "license": "MIT",
                 "last_commit": "2026-10-06T09:58:50Z",
-                "open_issues": 40,
+                "open_issues": 39,
                 "owner": "0ct0sec",
                 "repo": "M5PORKCHOP",
-                "stars": 966,
+                "stars": 969,
                 "topics": [
                   "cybersecurity-awareness",
                   "cybersecurity-education",
@@ -1403,6 +1403,31 @@
             },
             {
               "node_type": "item",
+              "title": "Catputer",
+              "description": "Offline lofi radio for Cardputer ADV: composes music on the device while a pixel-art cat reads in its room",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "An offline generative lofi radio for Cardputer ADV, starring a cozy pixel-art cat.",
+                "homepage": "https://m0rg0t.github.io/catputer/",
+                "id": 1368194462,
+                "language": "C++",
+                "license": "MIT",
+                "last_commit": "2026-11-13T08:34:14Z",
+                "open_issues": 0,
+                "owner": "m0rg0t",
+                "repo": "catputer",
+                "stars": 6,
+                "topics": [
+                  "cardputer",
+                  "cardputer-adv",
+                  "m5stack"
+                ]
+              },
+              "first_seen": "2026-11-11T22:17:08.185Z"
+            },
+            {
+              "node_type": "item",
               "title": "MDX (mxdrv) file Player for Cardputer",
               "description": "Layer812/mdxPC",
               "children": [],
@@ -1442,31 +1467,6 @@
                 "topics": []
               },
               "first_seen": "2026-08-29T00:07:43.610Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Catputer",
-              "description": "Offline lofi radio for Cardputer ADV: composes music on the device while a pixel-art cat reads in its room",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "An offline generative lofi radio for Cardputer ADV, starring a cozy pixel-art cat.",
-                "homepage": "https://m0rg0t.github.io/catputer/",
-                "id": 1368194462,
-                "language": "C++",
-                "license": "MIT",
-                "last_commit": "2026-11-13T08:34:14Z",
-                "open_issues": 0,
-                "owner": "m0rg0t",
-                "repo": "catputer",
-                "stars": 3,
-                "topics": [
-                  "cardputer",
-                  "cardputer-adv",
-                  "m5stack"
-                ]
-              },
-              "first_seen": "2026-11-11T22:17:08.185Z"
             }
           ],
           "description": null,
@@ -1478,7 +1478,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-15T20:35:26.542Z",
+    "last_updated": "2026-11-16T23:51:06.567Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome M5Stack Cardputer",
@@ -1490,7 +1490,7 @@
       "open_issues": 1,
       "owner": "terremoth",
       "repo": "awesome-m5stack-cardputer",
-      "stars": 798,
+      "stars": 799,
       "topics": [
         "awesome",
         "awesome-list",

@@ -66,13 +66,13 @@ From ESP32-S3Fn8 ([Datasheet](https://www.espressif.com/sites/default/files/docu
 * Timer
 * Keyboard (USB or Bluetooth) connector
 
-These builtin apps can be found at: <https://github.com/m5stack/M5Cardputer-UserDemo> ⭐ 362 | 🐛 0 | 🌐 C | 📅 2026-11-05
+These builtin apps can be found at: <https://github.com/m5stack/M5Cardputer-UserDemo> ⭐ 363 | 🐛 0 | 🌐 C | 📅 2026-11-05
 
 ## Community Apps
 
 ### Launchers
 
-* [M5 Launcher](https://github.com/bmorcelli/Launcher) ⭐ 2,375 | 🐛 26 | 🌐 C++ | 📅 2026-11-12 - App launcher for M5StickC, M5StickC Plus, M5StickC Plus 2 and M5Cardputer
+* [M5 Launcher](https://github.com/bmorcelli/Launcher) ⭐ 2,384 | 🐛 26 | 🌐 C++ | 📅 2026-11-12 - App launcher for M5StickC, M5StickC Plus, M5StickC Plus 2 and M5Cardputer
   * [250+ prebuilt binaries](https://bmorcelli.github.io/Launcher/catalog.html)
   * [Laucher website](https://bmorcelli.github.io/Launcher/)
 * [BerylliumOS](https://github.com/beryllium-org/OS) ⭐ 331 | 🐛 3 | 🌐 Python | 📅 2026-08-28 - Another Micro OS for Cardputer
@@ -82,18 +82,18 @@ These builtin apps can be found at: <https://github.com/m5stack/M5Cardputer-User
   * [PicoChat Client](https://github.com/PixelDud/CardPuter-PicoChat) To use with MicroHydra
 * [PyDOS + PyBASIC](https://github.com/RetiredWizard/PyDOS) ⭐ 184 | 🐛 0 | 🌐 Python | 📅 2026-02-05
 * [NucleoOS](https://github.com/indecenti/NucleoOs) ⭐ 110 | 🐛 0 | 🌐 C | 📅 2026-11-13 - Full OS for Cardputer and Cardputer ADV (one image): native launcher with 50+ apps and games, a web desktop served to your browser, an offline AI assistant and Game Boy / Game Gear emulators. Installs from the browser or M5Launcher
-* [Simple App Launcher for Cardputer](https://github.com/shikarunochi/CardputerSimpleLaucher) ⭐ 61 | 🐛 0 | 🌐 C++ | 📅 2023-11-06
+* [Simple App Launcher for Cardputer](https://github.com/shikarunochi/CardputerSimpleLaucher) ⭐ 62 | 🐛 0 | 🌐 C++ | 📅 2023-11-06
 * [HydraOS](https://github.com/WauHundeland/HydraOS) ⭐ 28 | 🐛 0 | 🌐 C | 📅 2024-07-22 - Micro OS for Cardputer
-* [Saitama](https://github.com/868meshbot/Saitama/) ⭐ 19 | 🐛 1 | 🌐 C++ | 📅 2026-11-09 - Fully offgrid meshcore messenger t-deck for Cardputer ADV
+* [Saitama](https://github.com/868meshbot/Saitama/) ⭐ 19 | 🐛 0 | 🌐 C++ | 📅 2026-11-16 - Fully offgrid meshcore messenger t-deck for Cardputer ADV
 
 ### Cybersecurity Related
 
-* [Cardputer Marauder ESP32](https://github.com/justcallmekoko/ESP32Marauder) ⭐ 13,119 | 🐛 199 | 🌐 C++ | 📅 2026-10-29
-* [Bruce](https://github.com/pr3y/Bruce) ⭐ 7,254 | 🐛 274 | 🌐 C++ | 📅 2026-11-14
-* [ESP32 Bus Pirate](https://github.com/geo-tp/ESP32-Bus-Pirate) ⭐ 6,388 | 🐛 33 | 🌐 C++ | 📅 2026-11-15
-* [Evil-M5Project](https://github.com/7h30th3r0n3/Evil-M5Project) ⭐ 2,878 | 🐛 17 | 🌐 C++ | 📅 2026-11-15
+* [Cardputer Marauder ESP32](https://github.com/justcallmekoko/ESP32Marauder) ⭐ 13,134 | 🐛 200 | 🌐 C++ | 📅 2026-11-16
+* [Bruce](https://github.com/pr3y/Bruce) ⭐ 7,274 | 🐛 269 | 🌐 C++ | 📅 2026-11-16
+* [ESP32 Bus Pirate](https://github.com/geo-tp/ESP32-Bus-Pirate) ⭐ 6,393 | 🐛 33 | 🌐 C++ | 📅 2026-11-15
+* [Evil-M5Project](https://github.com/7h30th3r0n3/Evil-M5Project) ⭐ 2,881 | 🐛 16 | 🌐 C++ | 📅 2026-11-15
 * [M5 Stick NEMO](https://github.com/n0xa/m5stick-nemo) ⭐ 1,326 | 🐛 9 | 🌐 C | 📅 2026-07-15 - Hacking tools for cardputer
-* [M5PORKCHOP](https://github.com/0ct0sec/M5PORKCHOP) ⭐ 966 | 🐛 40 | 🌐 C++ | 📅 2026-10-06
+* [M5PORKCHOP](https://github.com/0ct0sec/M5PORKCHOP) ⭐ 969 | 🐛 39 | 🌐 C++ | 📅 2026-10-06
 * [BadCard](https://github.com/VoidNoi/BadCard) ⭐ 158 | 🐛 3 | 🌐 C++ | 📅 2025-03-30 - BadUSB for Cardputer with DuckyScript support and customizable payloads
 * [Palnagotchi](https://github.com/viniciusbo/m5-palnagotchi) ⭐ 82 | 🐛 3 | 🌐 C++ | 📅 2026-01-28
 * [433Mhz sniffer](https://github.com/bmorcelli/io433) ⭐ 50 | 🐛 0 | 🌐 C++ | 📅 2024-11-07
@@ -139,11 +139,11 @@ These builtin apps can be found at: <https://github.com/m5stack/M5Cardputer-User
 * [Eliza Chatbot](https://github.com/Layer812/cardputer_eliza) ⭐ 9 | 🐛 0 | 🌐 Python | 📅 2024-07-21
 * [M5Cardputer WebRadio Dutch version](https://github.com/rolandbreedveld/M5Cardputer_WebRadio_Dutch/) ⭐ 8 | 🐛 1 | 🌐 C++ | 📅 2024-07-26
 * [Fake Windows XP UI](https://github.com/prashantkamdar/M5StickCPLUS.fakeWinXP) ⭐ 7 | 🐛 0 | 🌐 C | 📅 2022-01-01
+* [Catputer](https://github.com/m0rg0t/catputer) ⭐ 6 | 🐛 0 | 🌐 C++ | 📅 2026-11-13 - Offline lofi radio for Cardputer ADV: composes music on the device while a pixel-art cat reads in its room
+  * [Demo site](https://m0rg0t.github.io/catputer/)
 * [MDX (mxdrv) file Player for Cardputer](https://github.com/Layer812/mdxPC) ⭐ 4 | 🐛 0 | 🌐 C | 📅 2025-10-26
 * [VGM Player for Cardputer](https://github.com/Layer812/vgmPC) ⚠️ Archived
-* [Catputer](https://github.com/m0rg0t/catputer) ⭐ 3 | 🐛 0 | 🌐 C++ | 📅 2026-11-13 - Offline lofi radio for Cardputer ADV: composes music on the device while a pixel-art cat reads in its room
-  * [Demo site](https://m0rg0t.github.io/catputer/)
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-16._
