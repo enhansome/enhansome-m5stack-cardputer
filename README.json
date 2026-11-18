@@ -21,7 +21,7 @@
                 "open_issues": 26,
                 "owner": "bmorcelli",
                 "repo": "Launcher",
-                "stars": 2385,
+                "stars": 2390,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:07:43.610Z"
@@ -194,7 +194,7 @@
                 "open_issues": 0,
                 "owner": "indecenti",
                 "repo": "NucleoOs",
-                "stars": 113,
+                "stars": 114,
                 "topics": [
                   "cardputer",
                   "cardputer-adv",
@@ -302,11 +302,11 @@
                 "id": 208325027,
                 "language": "C++",
                 "license": null,
-                "last_commit": "2026-11-17T19:10:53Z",
-                "open_issues": 201,
+                "last_commit": "2026-11-18T16:13:50Z",
+                "open_issues": 202,
                 "owner": "justcallmekoko",
                 "repo": "ESP32Marauder",
-                "stars": 13139,
+                "stars": 13153,
                 "topics": [
                   "arduino",
                   "beacon",
@@ -344,11 +344,11 @@
                 "id": 795166961,
                 "language": "C++",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-11-17T04:07:16Z",
+                "last_commit": "2026-11-18T02:22:45Z",
                 "open_issues": 272,
                 "owner": "BruceDevices",
                 "repo": "firmware",
-                "stars": 7289,
+                "stars": 7300,
                 "topics": [
                   "bruce",
                   "cardputer",
@@ -388,7 +388,7 @@
                 "open_issues": 32,
                 "owner": "geo-tp",
                 "repo": "ESP32-Bit-Pirate",
-                "stars": 6398,
+                "stars": 6404,
                 "topics": [
                   "arduino",
                   "bluetooth",
@@ -430,7 +430,7 @@
                 "open_issues": 16,
                 "owner": "7h30th3r0n3",
                 "repo": "Evil-M5Project",
-                "stars": 2891,
+                "stars": 2898,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:07:43.610Z"
@@ -472,7 +472,7 @@
                 "open_issues": 39,
                 "owner": "0ct0sec",
                 "repo": "M5PORKCHOP",
-                "stars": 971,
+                "stars": 974,
                 "topics": [
                   "cybersecurity-awareness",
                   "cybersecurity-education",
@@ -499,7 +499,7 @@
                 "open_issues": 3,
                 "owner": "VoidNoi",
                 "repo": "BadCard",
-                "stars": 158,
+                "stars": 159,
                 "topics": [
                   "badusb",
                   "cardputer",
@@ -574,7 +574,7 @@
                 "open_issues": 16,
                 "owner": "geo-tp",
                 "repo": "Cardputer-Game-Station-Emulators",
-                "stars": 260,
+                "stars": 261,
                 "topics": [
                   "atari",
                   "cardputer",
@@ -703,7 +703,7 @@
                 "open_issues": 1,
                 "owner": "mindovermiles262",
                 "repo": "tamaputer",
-                "stars": 30,
+                "stars": 31,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:07:43.610Z"
@@ -775,12 +775,12 @@
                 "homepage": null,
                 "id": 813509114,
                 "language": "C",
-                "license": "CC0-1.0",
-                "last_commit": "2026-08-27T12:33:05Z",
+                "license": "NOASSERTION",
+                "last_commit": "2026-11-18T19:05:37Z",
                 "open_issues": 0,
                 "owner": "TheBricktop",
                 "repo": "Anarch-Cardputer",
-                "stars": 14,
+                "stars": 15,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:07:43.610Z"
@@ -938,7 +938,7 @@
                 "open_issues": 2,
                 "owner": "geo-tp",
                 "repo": "Ultimate-Remote",
-                "stars": 230,
+                "stars": 232,
                 "topics": [
                   "arm64",
                   "cardputer",
@@ -1000,7 +1000,7 @@
                 "open_issues": 2,
                 "owner": "nonik0",
                 "repo": "CardputerLoRaChat",
-                "stars": 126,
+                "stars": 127,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:07:43.610Z"
@@ -1413,11 +1413,11 @@
                 "id": 1368194462,
                 "language": "C++",
                 "license": "MIT",
-                "last_commit": "2026-11-13T08:34:14Z",
+                "last_commit": "2026-11-18T10:54:16Z",
                 "open_issues": 0,
                 "owner": "m0rg0t",
                 "repo": "catputer",
-                "stars": 6,
+                "stars": 7,
                 "topics": [
                   "cardputer",
                   "cardputer-adv",
@@ -1467,6 +1467,90 @@
                 "topics": []
               },
               "first_seen": "2026-08-29T00:07:43.610Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Cardputer Code Space OS",
+              "description": "Cardputer ADV remote desktop client for a real desktop Linux environment hosted on GitHub Codespaces. Uses an external 2.8\" touch TFT for the desktop and the built-in screen for controls. Work in progress.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Control an XFCE desktop in GitHub Codespaces from a Cardputer ADV and a touch TFT.",
+                "homepage": "https://xxyoudeadpunkxx.github.io/Cardputer-CodeSpace-Os/",
+                "id": 1457192114,
+                "language": "C++",
+                "license": null,
+                "last_commit": "2026-11-13T23:31:07Z",
+                "open_issues": 0,
+                "owner": "XxYouDeaDPunKxX",
+                "repo": "Cardputer-CodeSpace-Os",
+                "stars": 2,
+                "topics": [
+                  "arduino",
+                  "cardputer",
+                  "cardputer-adv",
+                  "cpp",
+                  "devcontainer",
+                  "embedded",
+                  "esp32",
+                  "esp32-s3",
+                  "firmware",
+                  "github-codespaces",
+                  "linux",
+                  "m5stack",
+                  "pulseaudio",
+                  "python",
+                  "remote-desktop",
+                  "tft-display",
+                  "touchscreen",
+                  "websocket",
+                  "xfce",
+                  "xpt2046"
+                ]
+              },
+              "first_seen": "2026-11-18T22:42:02.567Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Cardputer ADV + WeAct USB Display",
+              "description": "Arduino library, demo and ready-to-flash firmware for controlling a WeAct FS V1 USB-C 0.96\" display, including rotation, brightness control and motion-reactive RGB565 animations.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Arduino display library, Cardputer ADV demo and 8 MiB firmware for WeAct FS V1 USB display",
+                "homepage": "https://xxyoudeadpunkxx.github.io/cardputer-adv-weact-usb-display/",
+                "id": 1454850398,
+                "language": "C++",
+                "license": "MIT",
+                "last_commit": "2026-11-13T02:01:27Z",
+                "open_issues": 0,
+                "owner": "XxYouDeaDPunKxX",
+                "repo": "cardputer-adv-weact-usb-display",
+                "stars": 0,
+                "topics": [
+                  "arduino",
+                  "arduino-library",
+                  "bmi270",
+                  "cardputer",
+                  "cardputer-adv",
+                  "display-driver",
+                  "embedded",
+                  "esp32",
+                  "esp32-s3",
+                  "firmware",
+                  "fluid-animation",
+                  "imu",
+                  "m5stack",
+                  "rgb565",
+                  "smart-display",
+                  "usb-cdc",
+                  "usb-display",
+                  "usb-host",
+                  "weact",
+                  "weact-display"
+                ]
+              },
+              "first_seen": "2026-11-18T22:42:02.567Z"
             }
           ],
           "description": null,
@@ -1478,7 +1562,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-17T23:09:57.223Z",
+    "last_updated": "2026-11-18T22:42:02.567Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome M5Stack Cardputer",
@@ -1486,7 +1570,7 @@
       "id": 742558696,
       "language": null,
       "license": "GPL-3.0",
-      "last_commit": "2026-11-11T11:57:26Z",
+      "last_commit": "2026-11-18T16:14:15Z",
       "open_issues": 1,
       "owner": "terremoth",
       "repo": "awesome-m5stack-cardputer",
@@ -1501,7 +1585,7 @@
         "m5stack-cardputer"
       ]
     },
-    "original_repository_sha": "65896a0018cf93571ac2c5244f0708d8f5fee1a9",
+    "original_repository_sha": "cf1a08ec544f2d99e9f4b9d3437cafff7ca53cd5",
     "enhanced_repository": "enhansome/enhansome-m5stack-cardputer",
     "enhanced_repository_description": null,
     "title": "Awesome M5Stack Cardputer with stars"
