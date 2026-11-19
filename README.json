@@ -21,46 +21,8 @@
                 "open_issues": 26,
                 "owner": "bmorcelli",
                 "repo": "Launcher",
-                "stars": 2390,
+                "stars": 2395,
                 "topics": []
-              },
-              "first_seen": "2026-08-29T00:07:43.610Z"
-            },
-            {
-              "node_type": "item",
-              "title": "BerylliumOS",
-              "description": "Another Micro OS for Cardputer",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Beryllium OS Micro, a unix-like operating system for CircuitPython powered microcontrollers.",
-                "homepage": null,
-                "id": 434342707,
-                "language": "Python",
-                "license": "GPL-3.0",
-                "last_commit": "2026-08-28T17:49:40Z",
-                "open_issues": 3,
-                "owner": "beryllium-org",
-                "repo": "Micro",
-                "stars": 331,
-                "topics": [
-                  "beryllium",
-                  "cardputer",
-                  "circuitpython",
-                  "embedded",
-                  "esp32",
-                  "esp32-c3",
-                  "esp32-c6",
-                  "esp32-s2",
-                  "esp32-s3",
-                  "m5stack-cardputer",
-                  "microcontroller",
-                  "nrf52840",
-                  "python",
-                  "rp2040",
-                  "samd51",
-                  "seeed-wio-terminal"
-                ]
               },
               "first_seen": "2026-08-29T00:07:43.610Z"
             },
@@ -138,6 +100,44 @@
             },
             {
               "node_type": "item",
+              "title": "BerylliumOS",
+              "description": "Another Micro OS for Cardputer",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Beryllium OS Micro, a unix-like operating system for CircuitPython powered microcontrollers.",
+                "homepage": null,
+                "id": 434342707,
+                "language": "Python",
+                "license": "GPL-3.0",
+                "last_commit": "2026-08-28T17:49:40Z",
+                "open_issues": 3,
+                "owner": "beryllium-org",
+                "repo": "Micro",
+                "stars": 330,
+                "topics": [
+                  "beryllium",
+                  "cardputer",
+                  "circuitpython",
+                  "embedded",
+                  "esp32",
+                  "esp32-c3",
+                  "esp32-c6",
+                  "esp32-s2",
+                  "esp32-s3",
+                  "m5stack-cardputer",
+                  "microcontroller",
+                  "nrf52840",
+                  "python",
+                  "rp2040",
+                  "samd51",
+                  "seeed-wio-terminal"
+                ]
+              },
+              "first_seen": "2026-08-29T00:07:43.610Z"
+            },
+            {
+              "node_type": "item",
               "title": "PyDOS + PyBASIC",
               "description": "RetiredWizard/PyDOS",
               "children": [],
@@ -190,7 +190,7 @@
                 "id": 1268267248,
                 "language": "C",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-13T09:26:36Z",
+                "last_commit": "2026-11-19T22:43:49Z",
                 "open_issues": 0,
                 "owner": "indecenti",
                 "repo": "NucleoOs",
@@ -302,11 +302,11 @@
                 "id": 208325027,
                 "language": "C++",
                 "license": null,
-                "last_commit": "2026-11-18T16:13:50Z",
-                "open_issues": 202,
+                "last_commit": "2026-11-19T17:27:11Z",
+                "open_issues": 200,
                 "owner": "justcallmekoko",
                 "repo": "ESP32Marauder",
-                "stars": 13153,
+                "stars": 13164,
                 "topics": [
                   "arduino",
                   "beacon",
@@ -344,11 +344,11 @@
                 "id": 795166961,
                 "language": "C++",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-11-18T02:22:45Z",
-                "open_issues": 272,
+                "last_commit": "2026-11-19T21:11:41Z",
+                "open_issues": 271,
                 "owner": "BruceDevices",
                 "repo": "firmware",
-                "stars": 7300,
+                "stars": 7318,
                 "topics": [
                   "bruce",
                   "cardputer",
@@ -385,10 +385,10 @@
                 "language": "C++",
                 "license": "MIT",
                 "last_commit": "2026-11-17T20:18:16Z",
-                "open_issues": 32,
+                "open_issues": 35,
                 "owner": "geo-tp",
                 "repo": "ESP32-Bit-Pirate",
-                "stars": 6404,
+                "stars": 6406,
                 "topics": [
                   "arduino",
                   "bluetooth",
@@ -430,7 +430,7 @@
                 "open_issues": 16,
                 "owner": "7h30th3r0n3",
                 "repo": "Evil-M5Project",
-                "stars": 2898,
+                "stars": 2901,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:07:43.610Z"
@@ -451,7 +451,7 @@
                 "open_issues": 9,
                 "owner": "n0xa",
                 "repo": "m5stick-nemo",
-                "stars": 1326,
+                "stars": 1327,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:07:43.610Z"
@@ -938,7 +938,7 @@
                 "open_issues": 2,
                 "owner": "geo-tp",
                 "repo": "Ultimate-Remote",
-                "stars": 232,
+                "stars": 233,
                 "topics": [
                   "arm64",
                   "cardputer",
@@ -1113,7 +1113,7 @@
                 "open_issues": 3,
                 "owner": "aat440hz",
                 "repo": "SSHClient-M5Cardputer",
-                "stars": 65,
+                "stars": 64,
                 "topics": [
                   "esp32-ardunio",
                   "m5cardputer",
@@ -1356,6 +1356,31 @@
             },
             {
               "node_type": "item",
+              "title": "Catputer",
+              "description": "Offline lofi radio for Cardputer ADV: composes music on the device while a pixel-art cat reads in its room",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "An offline generative lofi radio for Cardputer ADV, starring a cozy pixel-art cat.",
+                "homepage": "https://m0rg0t.github.io/catputer/",
+                "id": 1368194462,
+                "language": "C++",
+                "license": "MIT",
+                "last_commit": "2026-11-18T10:54:16Z",
+                "open_issues": 0,
+                "owner": "m0rg0t",
+                "repo": "catputer",
+                "stars": 9,
+                "topics": [
+                  "cardputer",
+                  "cardputer-adv",
+                  "m5stack"
+                ]
+              },
+              "first_seen": "2026-11-11T22:17:08.185Z"
+            },
+            {
+              "node_type": "item",
               "title": "M5Cardputer WebRadio Dutch version",
               "description": "rolandbreedveld/M5Cardputer_WebRadio_Dutch",
               "children": [],
@@ -1400,31 +1425,6 @@
                 ]
               },
               "first_seen": "2026-08-29T00:07:43.610Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Catputer",
-              "description": "Offline lofi radio for Cardputer ADV: composes music on the device while a pixel-art cat reads in its room",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "An offline generative lofi radio for Cardputer ADV, starring a cozy pixel-art cat.",
-                "homepage": "https://m0rg0t.github.io/catputer/",
-                "id": 1368194462,
-                "language": "C++",
-                "license": "MIT",
-                "last_commit": "2026-11-18T10:54:16Z",
-                "open_issues": 0,
-                "owner": "m0rg0t",
-                "repo": "catputer",
-                "stars": 7,
-                "topics": [
-                  "cardputer",
-                  "cardputer-adv",
-                  "m5stack"
-                ]
-              },
-              "first_seen": "2026-11-11T22:17:08.185Z"
             },
             {
               "node_type": "item",
@@ -1562,7 +1562,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-18T22:42:02.567Z",
+    "last_updated": "2026-11-19T22:45:53.084Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome M5Stack Cardputer",
@@ -1574,7 +1574,7 @@
       "open_issues": 1,
       "owner": "terremoth",
       "repo": "awesome-m5stack-cardputer",
-      "stars": 800,
+      "stars": 801,
       "topics": [
         "awesome",
         "awesome-list",
