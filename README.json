@@ -21,7 +21,7 @@
                 "open_issues": 30,
                 "owner": "bmorcelli",
                 "repo": "Launcher",
-                "stars": 2411,
+                "stars": 2415,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:07:43.610Z"
@@ -194,7 +194,7 @@
                 "open_issues": 0,
                 "owner": "indecenti",
                 "repo": "NucleoOs",
-                "stars": 117,
+                "stars": 119,
                 "topics": [
                   "cardputer",
                   "cardputer-adv",
@@ -306,7 +306,7 @@
                 "open_issues": 202,
                 "owner": "justcallmekoko",
                 "repo": "ESP32Marauder",
-                "stars": 13210,
+                "stars": 13218,
                 "topics": [
                   "arduino",
                   "beacon",
@@ -344,11 +344,11 @@
                 "id": 795166961,
                 "language": "C++",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-11-23T11:22:55Z",
-                "open_issues": 279,
+                "last_commit": "2026-11-24T03:04:13Z",
+                "open_issues": 283,
                 "owner": "BruceDevices",
                 "repo": "firmware",
-                "stars": 7371,
+                "stars": 7386,
                 "topics": [
                   "bruce",
                   "cardputer",
@@ -388,7 +388,7 @@
                 "open_issues": 35,
                 "owner": "geo-tp",
                 "repo": "ESP32-Bit-Pirate",
-                "stars": 6418,
+                "stars": 6427,
                 "topics": [
                   "arduino",
                   "bluetooth",
@@ -430,7 +430,7 @@
                 "open_issues": 18,
                 "owner": "7h30th3r0n3",
                 "repo": "Evil-M5Project",
-                "stars": 2936,
+                "stars": 2942,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:07:43.610Z"
@@ -451,7 +451,7 @@
                 "open_issues": 9,
                 "owner": "n0xa",
                 "repo": "m5stick-nemo",
-                "stars": 1329,
+                "stars": 1331,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:07:43.610Z"
@@ -574,7 +574,7 @@
                 "open_issues": 16,
                 "owner": "geo-tp",
                 "repo": "Cardputer-Game-Station-Emulators",
-                "stars": 264,
+                "stars": 265,
                 "topics": [
                   "atari",
                   "cardputer",
@@ -616,7 +616,7 @@
                 "open_issues": 2,
                 "owner": "Mr-PauI",
                 "repo": "Gameboy-Enhanced-Firmware-m5stack-cardputer-",
-                "stars": 92,
+                "stars": 94,
                 "topics": [
                   "cardputer",
                   "emulation",
@@ -1562,7 +1562,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-24T02:35:42.547Z",
+    "last_updated": "2026-11-25T00:07:55.956Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome M5Stack Cardputer",
