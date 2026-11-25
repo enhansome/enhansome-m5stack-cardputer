@@ -79,21 +79,21 @@ These builtin apps can be found at: <https://github.com/m5stack/M5Cardputer-User
   * [MicroHydra Apps](https://github.com/echo-lalia/MicroHydra-Apps) ⭐ 86 | 🐛 3 | 🌐 Python | 📅 2026-09-09
   * [HydraMenu app](https://github.com/Gabriel-F-Sousa/HydraMenu) ⭐ 4 | 🐛 0 | 🌐 Python | 📅 2024-04-01
   * [PicoChat Client](https://github.com/PixelDud/CardPuter-PicoChat) To use with MicroHydra
-* [BerylliumOS](https://github.com/beryllium-org/OS) ⭐ 330 | 🐛 3 | 🌐 Python | 📅 2026-08-28 - Another Micro OS for Cardputer
-* [PyDOS + PyBASIC](https://github.com/RetiredWizard/PyDOS) ⭐ 184 | 🐛 0 | 🌐 Python | 📅 2026-02-05
-* [NucleoOS](https://github.com/indecenti/NucleoOs) ⭐ 119 | 🐛 0 | 🌐 C | 📅 2026-11-23 - Full OS for Cardputer and Cardputer ADV (one image): native launcher with 50+ apps and games, a web desktop served to your browser, an offline AI assistant and Game Boy / Game Gear emulators. Installs from the browser or M5Launcher
+* [BerylliumOS](https://github.com/beryllium-org/OS) ⭐ 330 | 🐛 3 | 🌐 Python | 📅 2026-11-25 - Another Micro OS for Cardputer
+* [PyDOS + PyBASIC](https://github.com/RetiredWizard/PyDOS) ⭐ 185 | 🐛 0 | 🌐 Python | 📅 2026-02-05
+* [NucleoOS](https://github.com/indecenti/NucleoOs) ⭐ 120 | 🐛 0 | 🌐 C | 📅 2026-11-23 - Full OS for Cardputer and Cardputer ADV (one image): native launcher with 50+ apps and games, a web desktop served to your browser, an offline AI assistant and Game Boy / Game Gear emulators. Installs from the browser or M5Launcher
 * [Simple App Launcher for Cardputer](https://github.com/shikarunochi/CardputerSimpleLaucher) ⭐ 62 | 🐛 0 | 🌐 C++ | 📅 2023-11-06
 * [HydraOS](https://github.com/WauHundeland/HydraOS) ⭐ 27 | 🐛 0 | 🌐 C | 📅 2024-07-22 - Micro OS for Cardputer
 * [Saitama](https://github.com/868meshbot/Saitama/) ⭐ 19 | 🐛 0 | 🌐 C++ | 📅 2026-11-17 - Fully offgrid meshcore messenger t-deck for Cardputer ADV
 
 ### Cybersecurity Related
 
-* [Cardputer Marauder ESP32](https://github.com/justcallmekoko/ESP32Marauder) ⭐ 13,218 | 🐛 202 | 🌐 C++ | 📅 2026-11-21
-* [Bruce](https://github.com/pr3y/Bruce) ⭐ 7,386 | 🐛 283 | 🌐 C++ | 📅 2026-11-24
-* [ESP32 Bus Pirate](https://github.com/geo-tp/ESP32-Bus-Pirate) ⭐ 6,427 | 🐛 35 | 🌐 C++ | 📅 2026-11-22
-* [Evil-M5Project](https://github.com/7h30th3r0n3/Evil-M5Project) ⭐ 2,942 | 🐛 18 | 🌐 C++ | 📅 2026-11-23
-* [M5 Stick NEMO](https://github.com/n0xa/m5stick-nemo) ⭐ 1,331 | 🐛 9 | 🌐 C | 📅 2026-07-15 - Hacking tools for cardputer
-* [M5PORKCHOP](https://github.com/0ct0sec/M5PORKCHOP) ⭐ 981 | 🐛 39 | 🌐 C++ | 📅 2026-10-06
+* [Cardputer Marauder ESP32](https://github.com/justcallmekoko/ESP32Marauder) ⭐ 13,236 | 🐛 204 | 🌐 C++ | 📅 2026-11-21
+* [Bruce](https://github.com/pr3y/Bruce) ⭐ 7,409 | 🐛 283 | 🌐 C++ | 📅 2026-11-24
+* [ESP32 Bus Pirate](https://github.com/geo-tp/ESP32-Bus-Pirate) ⭐ 6,432 | 🐛 35 | 🌐 C++ | 📅 2026-11-22
+* [Evil-M5Project](https://github.com/7h30th3r0n3/Evil-M5Project) ⭐ 2,947 | 🐛 17 | 🌐 C++ | 📅 2026-11-23
+* [M5 Stick NEMO](https://github.com/n0xa/m5stick-nemo) ⭐ 1,334 | 🐛 9 | 🌐 C | 📅 2026-07-15 - Hacking tools for cardputer
+* [M5PORKCHOP](https://github.com/0ct0sec/M5PORKCHOP) ⭐ 982 | 🐛 39 | 🌐 C++ | 📅 2026-10-06
 * [BadCard](https://github.com/VoidNoi/BadCard) ⭐ 159 | 🐛 3 | 🌐 C++ | 📅 2025-03-30 - BadUSB for Cardputer with DuckyScript support and customizable payloads
 * [Palnagotchi](https://github.com/viniciusbo/m5-palnagotchi) ⭐ 82 | 🐛 3 | 🌐 C++ | 📅 2026-01-28
 * [433Mhz sniffer](https://github.com/bmorcelli/io433) ⭐ 51 | 🐛 0 | 🌐 C++ | 📅 2024-11-07
@@ -117,7 +117,7 @@ These builtin apps can be found at: <https://github.com/m5stack/M5Cardputer-User
 
 ### Misc.
 
-* [Universal remote control](https://github.com/geo-tp/Ultimate-Remote) ⭐ 238 | 🐛 2 | 🌐 C++ | 📅 2026-10-30
+* [Universal remote control](https://github.com/geo-tp/Ultimate-Remote) ⭐ 239 | 🐛 2 | 🌐 C++ | 📅 2026-10-30
 * [Cardputer WebRadio](https://github.com/cyberwisk/M5Cardputer_WebRadio) ⭐ 137 | 🐛 1 | 🌐 C++ | 📅 2026-08-15
 * [Lora Chat App](https://github.com/nonik0/CardputerLoRaChat) ⭐ 127 | 🐛 2 | 🌐 C++ | 📅 2024-12-03
 * [MiniAcid](https://github.com/urtubia/miniacid) ⭐ 119 | 🐛 13 | 🌐 C++ | 📅 2026-02-10
